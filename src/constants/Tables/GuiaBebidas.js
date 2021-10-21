@@ -1,0 +1,89 @@
+import React from 'react'
+import styled from 'styled-components'
+
+const Wrapper = styled.div`
+  table {
+    border-spacing: 10px;
+    border: 1 px solid white;
+    width: 100%;
+  }
+  table thead {
+    border-bottom: 5px solid red;
+  }
+
+  table tr:nth-child(even) {
+    background: #ccc;
+  }
+  .app,
+  .containers {
+    width: 100%;
+    height: 100%;
+  }
+  .containers {
+    font-size: 16px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+`
+
+export const GuiaBebidas= () => {
+  return (
+    <Wrapper>
+      <div className="app">
+        <div className="containers">
+          <table role="table">
+            <thead>
+              <tr role="row">
+                <th colspan="1" role="columnheader">
+                Bebidas – Sin Gluten
+                </th>
+                <th colspan="1" role="columnheader">
+                Bebidas – Pueden tener Gluten
+                </th>
+                <th colspan="1" role="columnheader">
+                Bebidas – Con Gluten
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+            <tr>
+        <td>Refrescos</td>
+        <td>Néctares de Fruta con Edulcorantes Y Licores</td>
+        <td>Cerveza</td>
+    </tr>
+    <tr>
+        <td>Café</td>
+        <td>Sucedáneos de Chocolate Y de Café</td>
+        <td>Substitutos Del Café Con Cebada O Malta Para Máquinas</td>
+    </tr>
+    <tr>
+        <td>Té</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Zumos Naturales De Fruta Y Néctares</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Cava</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Vino</td>
+        <td></td>
+        <td></td>
+    </tr>
+    </tbody>
+          </table>
+        </div>
+      </div>
+    </Wrapper>
+  )
+}

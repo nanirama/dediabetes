@@ -1,0 +1,71 @@
+import { Link } from 'gatsby'
+
+import { Counter, LikeButton, RegVideo, Video } from '../components/Complete'
+
+![gatsby 1 image](../assets/gatsby-1.png)
+
+<section className="mdx-page">
+
+## my first mdx file
+
+**I'm baby vegan edison bulb gluten-free street art. +1 austin hoodie ramps brunch, XOXO food truck tumeric drinking vinegar lyft schlitz. Kickstarter tumeric hammock gochujang.** XOXO skateboard vaporware occupy, fanny pack before they sold out photo booth bespoke prism af lomo farm-to-table offal snackwave. Bespoke twee ramps mustache you probably haven't heard of them cardigan chambray meggings shoreditch. _Hot chicken fam lo-fi, messenger bag PBR&B roof party gochujang photo booth food truck sartorial._
+
+<div className="code">
+
+```js
+const firstName = 'john'
+const lastName = 'smith'
+```
+
+</div>
+
+<div className="nice-text">
+<h3>nice text</h3>
+
+<FiInfo className="nice-text-icon"></FiInfo>
+Fixie pork belly mustache beard seitan selfies man bun fanny pack forage slow-carb craft beer. Wolf pabst polaroid, fanny pack crucifix YOLO kogi vegan. Portland deep v single-origin coffee chartreuse kitsch ramps helvetica tumblr gluten-free craft beer pork belly locavore swag lomo. Narwhal man braid taiyaki umami, chia asymmetrical twee normcore. Freegan coloring book sriracha typewriter truffaut food truck austin authentic activated charcoal vexillologist. Four loko air plant snackwave palo santo locavore cardigan kitsch selfies.
+</div>
+
+<h2> React Components</h2>
+
+<Counter />
+
+```js
+import React from 'react'
+import styled from 'styled-components'
+
+const LikeButton = () => {
+  const [value, setValue] = React.useState(0)
+  return (
+    <Wrapper>
+      <div>
+        <button onClick={() => setValue(value + 1)}>
+          <AiOutlineLike />
+        </button>
+        <p>
+          Liked the post?
+          <br />
+          Click thumbs up few times
+        </p>
+      </div>
+      <span>+{value}</span>
+    </Wrapper>
+  )
+}
+```
+
+<LikeButton />
+
+<h2>video components</h2>
+<RegVideo />
+<Video src="https://www.youtube.com/embed/1wrwT0MXoUA" />
+
+<h2>regular heading </h2>
+<h2 title="true">title heading</h2>
+<h4>inline code</h4>
+
+`console.log('hello there')`
+
+<Link to="/posts">all posts</Link>
+
+</section>

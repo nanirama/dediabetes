@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "date": "2020-09-01",
+      "slug": "guia1-slug",
+      "categories": ["controlar","diabetes"],
+      "title": "Title Guide 1",
+      "image": "../../images/guias/guia1.jpg",
+      "overview": "",
+      "sections": [
+        {
+          "subtitle": "sub1",
+          "summary": "Summary Text 2",
+          "slugs": ["slug1", "slug2", "slug3", "slug4"]
+        },
+        {
+            "subtitle": "sub2",
+            "summary": "Summary Text 2",
+            "slugs": ["slug1", "slug2", "slug3", "slug4", "slug5"]
+          }
+      ]
+    }
+]

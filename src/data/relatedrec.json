@@ -1,0 +1,614 @@
+[
+  {
+    "Recipe": "raviolis-de-lechuga",
+    "rel1": "bistec-a-la-portuguesa",
+    "rel2": "ensalada-primavera",
+    "rel3": "enrollado-de-carne"
+  },
+  {
+    "Recipe": "receta-de-bizcocho-sin-azucar",
+    "rel1": "mermelada-de-peras",
+    "rel2": "tarta-de-peras",
+    "rel3": "tarta-de-limon"
+  },
+  {
+    "Recipe": "souffle-de-chocolate",
+    "rel1": "gelatina-cereza-fresa-diabeticos",
+    "rel2": "torta-ricota-pera",
+    "rel3": "budin-de-arroz"
+  },
+  {
+    "Recipe": "gelatina-cereza-fresa-diabeticos",
+    "rel1": "torta-americana",
+    "rel2": "receta-de-bizcocho-sin-azucar",
+    "rel3": "souffle-de-chocolate"
+  },
+  {
+    "Recipe": "bistec-a-la-portuguesa",
+    "rel1": "raviolis-de-lechuga",
+    "rel2": "ensalada-primavera",
+    "rel3": "enrollado-de-carne"
+  },
+  {
+    "Recipe": "torta-humeda-chocolate",
+    "rel1": "flan-de-chocolate",
+    "rel2": "compota-de-damascos",
+    "rel3": "helado-de-limon"
+  },
+  {
+    "Recipe": "torta-ricota-pera",
+    "rel1": "receta-champinones-rellenos",
+    "rel2": "receta-ensalada-hinojo-salmon-ahumado",
+    "rel3": "flan-de-cafe"
+  },
+  {
+    "Recipe": "panqueques-de-manzana",
+    "rel1": "panquecas-avena-zanahoria",
+    "rel2": "panquecas-de-avena",
+    "rel3": "tortilla-espinacas"
+  },
+  {
+    "Recipe": "berenjena-rellenas-con-vegetales",
+    "rel1": "tarta-de-manzana-y-canela",
+    "rel2": "moldecitos-citricos",
+    "rel3": "budin-de-arroz"
+  },
+  {
+    "Recipe": "bizcocho-borracho",
+    "rel1": "panna-cotta",
+    "rel2": "besitos-de-nuez",
+    "rel3": "mermelada-de-peras"
+  },
+  {
+    "Recipe": "compota-de-damascos",
+    "rel1": "copa-caribena",
+    "rel2": "casi-helado-festivo",
+    "rel3": "gelatina-cereza-fresa-diabeticos"
+  },
+  {
+    "Recipe": "helado-de-limon",
+    "rel1": "flan-de-cafe",
+    "rel2": "pastel-de-manzana",
+    "rel3": "moldecitos-citricos"
+  },
+  {
+    "Recipe": "pastel-oriental",
+    "rel1": "receta-champinones-rellenos",
+    "rel2": "pastel-de-manzana",
+    "rel3": "besitos-de-nuez"
+  },
+  {
+    "Recipe": "torta-de-chocolate",
+    "rel1": "budin-de-arroz",
+    "rel2": "mermelada-de-peras",
+    "rel3": "copa-caribena"
+  },
+  {
+    "Recipe": "receta-champinones-rellenos",
+    "rel1": "gelatina-cereza-fresa-diabeticos",
+    "rel2": "helado-canela-chocolate",
+    "rel3": "helado-de-limon"
+  },
+  {
+    "Recipe": "besitos-de-nuez",
+    "rel1": "espuma-de-fresas",
+    "rel2": "pastel-de-manzana",
+    "rel3": "mermelada-de-peras"
+  },
+  {
+    "Recipe": "torta-americana",
+    "rel1": "souffle-de-chocolate",
+    "rel2": "espuma-de-fresas",
+    "rel3": "helado-canela-chocolate"
+  },
+  {
+    "Recipe": "panna-cotta",
+    "rel1": "tarta-de-peras",
+    "rel2": "pastel-de-manzana",
+    "rel3": "semifreddo-de-ricotta"
+  },
+  {
+    "Recipe": "mermelada-de-peras",
+    "rel1": "helado-de-limon",
+    "rel2": "receta-champinones-rellenos",
+    "rel3": "tarta-de-queso-blanco"
+  },
+  {
+    "Recipe": "torta-bombon-menta",
+    "rel1": "tarta-de-queso-blanco",
+    "rel2": "pan-de-naranja",
+    "rel3": "receta-champinones-rellenos"
+  },
+  {
+    "Recipe": "crumble-de-peras",
+    "rel1": "tarta-de-peras",
+    "rel2": "torta-humeda-chocolate",
+    "rel3": "moldecitos-de-boniato"
+  },
+  {
+    "Recipe": "receta-ensalada-hinojo-salmon-ahumado",
+    "rel1": "besitos-de-nuez",
+    "rel2": "bocaditos-de-cafe",
+    "rel3": "receta-champinones-rellenos"
+  },
+  {
+    "Recipe": "flan-de-cafe",
+    "rel1": "pastel-oriental",
+    "rel2": "tarta-de-queso",
+    "rel3": "compota-de-damascos"
+  },
+  {
+    "Recipe": "tarta-de-manzana-y-canela",
+    "rel1": "sorbete-de-naranja",
+    "rel2": "tarta-de-limon",
+    "rel3": "flan-de-cafe"
+  },
+  {
+    "Recipe": "tarta-de-almendras",
+    "rel1": "torta-ricota-pera",
+    "rel2": "duraznos-de-fiesta",
+    "rel3": "flan-de-chocolate"
+  },
+  {
+    "Recipe": "tarta-de-chocolate-y-aceite-de-oliva",
+    "rel1": "pan-de-naranja",
+    "rel2": "tarta-de-peras",
+    "rel3": "pastel-oriental"
+  },
+  {
+    "Recipe": "tarta-de-limon",
+    "rel1": "copa-caribena",
+    "rel2": "casi-helado-festivo",
+    "rel3": "mermelada-de-peras"
+  },
+  {
+    "Recipe": "tarta-de-queso",
+    "rel1": "casi-helado-festivo",
+    "rel2": "pastel-oriental",
+    "rel3": "crumble-de-peras"
+  },
+  {
+    "Recipe": "tarta-de-queso-blanco",
+    "rel1": "flan-de-cafe",
+    "rel2": "tarta-de-queso",
+    "rel3": "berenjena-rellenas-con-vegetales"
+  },
+  {
+    "Recipe": "tarta-de-peras",
+    "rel1": "receta-de-bizcocho-sin-azucar",
+    "rel2": "moldecitos-de-boniato",
+    "rel3": "torta-americana"
+  },
+  {
+    "Recipe": "pastel-de-manzana",
+    "rel1": "tarta-de-chocolate-y-aceite-de-oliva",
+    "rel2": "flan-de-chocolate",
+    "rel3": "souffle-de-chocolate"
+  },
+  {
+    "Recipe": "enrollado-de-carne",
+    "rel1": "mermelada-de-manzanas",
+    "rel2": "raviolis-de-lechuga",
+    "rel3": "ensalada-primavera"
+  },
+  {
+    "Recipe": "espuma-de-fresas",
+    "rel1": "tarta-de-queso",
+    "rel2": "bocaditos-de-cafe",
+    "rel3": "receta-ensalada-hinojo-salmon-ahumado"
+  },
+  {
+    "Recipe": "sorbete-de-naranja",
+    "rel1": "souffle-de-chocolate",
+    "rel2": "tarta-de-limon",
+    "rel3": "muffins-especias-manzanas"
+  },
+  {
+    "Recipe": "barritas-crunch",
+    "rel1": "bocaditos-de-cafe",
+    "rel2": "muffins-especias-manzanas",
+    "rel3": "mermelada-de-arandanos"
+  },
+  {
+    "Recipe": "ensalada-multisabores",
+    "rel1": "ensalada-primavera",
+    "rel2": "mermelada-de-manzanas",
+    "rel3": "mix-lechugas"
+  },
+  {
+    "Recipe": "mermelada-de-manzanas",
+    "rel1": "ensalada-multisabores",
+    "rel2": "ensalada-primavera",
+    "rel3": "ensalada-frijoles"
+  },
+  {
+    "Recipe": "bocaditos-de-cafe",
+    "rel1": "gelatina-cereza-fresa-diabeticos",
+    "rel2": "duraznos-de-fiesta",
+    "rel3": "bizcocho-borracho"
+  },
+  {
+    "Recipe": "casi-helado-festivo",
+    "rel1": "souffle-de-chocolate",
+    "rel2": "crumble-de-peras",
+    "rel3": "moldecitos-citricos"
+  },
+  {
+    "Recipe": "moldecitos-de-boniato",
+    "rel1": "tarta-de-queso-blanco",
+    "rel2": "torta-americana",
+    "rel3": "receta-ensalada-hinojo-salmon-ahumado"
+  },
+  {
+    "Recipe": "pan-de-naranja",
+    "rel1": "besitos-de-nuez",
+    "rel2": "tarta-de-chocolate-y-aceite-de-oliva",
+    "rel3": "souffle-de-chocolate"
+  },
+  {
+    "Recipe": "helado-canela-chocolate",
+    "rel1": "mermelada-de-peras",
+    "rel2": "flan-de-cafe",
+    "rel3": "tarta-de-limon"
+  },
+  {
+    "Recipe": "flan-de-chocolate",
+    "rel1": "sorbete-de-naranja",
+    "rel2": "bocaditos-de-cafe",
+    "rel3": "moldecitos-citricos"
+  },
+  {
+    "Recipe": "copa-caribena",
+    "rel1": "bocaditos-de-cafe",
+    "rel2": "sorbete-de-naranja",
+    "rel3": "moldecitos-de-boniato"
+  },
+  {
+    "Recipe": "moldecitos-citricos",
+    "rel1": "receta-ensalada-hinojo-salmon-ahumado",
+    "rel2": "sorbete-de-naranja",
+    "rel3": "copa-caribena"
+  },
+  {
+    "Recipe": "duraznos-de-fiesta",
+    "rel1": "tarta-de-almendras",
+    "rel2": "tarta-de-manzana-y-canela",
+    "rel3": "bizcocho-borracho"
+  },
+  {
+    "Recipe": "semifreddo-de-ricotta",
+    "rel1": "tarta-de-almendras",
+    "rel2": "bizcocho-borracho",
+    "rel3": "pan-de-naranja"
+  },
+  {
+    "Recipe": "ensalada-primavera",
+    "rel1": "ensalada-multisabores",
+    "rel2": "mermelada-de-manzanas",
+    "rel3": "bistec-a-la-portuguesa"
+  },
+  {
+    "Recipe": "budin-de-arroz",
+    "rel1": "tarta-de-manzana-y-canela",
+    "rel2": "torta-americana",
+    "rel3": "torta-humeda-chocolate"
+  },
+  {
+    "Recipe": "muffins-especias-manzanas",
+    "rel1": "mermelada-de-arandanos",
+    "rel2": "bocaditos-de-cafe",
+    "rel3": "barritas-crunch"
+  },
+  {
+    "Recipe": "panquecas-de-avena",
+    "rel1": "tortilla-espinacas",
+    "rel2": "panqueques-de-manzana",
+    "rel3": "huevos-revueltos"
+  },
+  {
+    "Recipe": "mermelada-de-arandanos",
+    "rel1": "panquecas-de-avena",
+    "rel2": "bocaditos-de-cafe",
+    "rel3": "panquecas-avena-zanahoria"
+  },
+  {
+    "Recipe": "tortilla-espinacas",
+    "rel1": "panquecas-avena-zanahoria",
+    "rel2": "mermelada-de-arandanos",
+    "rel3": "huevos-revueltos"
+  },
+  {
+    "Recipe": "huevos-revueltos",
+    "rel1": "panquecas-avena-zanahoria",
+    "rel2": "mermelada-de-arandanos",
+    "rel3": "panqueques-de-manzana"
+  },
+  {
+    "Recipe": "panquecas-avena-zanahoria",
+    "rel1": "torticas-batata",
+    "rel2": "huevos-revueltos",
+    "rel3": "mermelada-de-arandanos"
+  },
+  {
+    "Recipe": "atun-al-ajillo",
+    "rel1": "sardinas-plancha",
+    "rel2": "tortilla-espinacas",
+    "rel3": "crumble-de-peras"
+  },
+  {
+    "Recipe": "supremas-pollo-verduras",
+    "rel1": "pollo-empanizado-horno",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "lentejas",
+    "rel1": "ensalada-frijoles",
+    "rel2": "panquecas-auyama",
+    "rel3": "torticas-espinacas-avena"
+  },
+  {
+    "Recipe": "arroz-integral-champinones",
+    "rel1": "quinoa-cebolla",
+    "rel2": "panquecas-avena-zanahoria",
+    "rel3": "mix-lechugas"
+  },
+  {
+    "Recipe": "sardinas-plancha",
+    "rel1": "atun-al-ajillo",
+    "rel2": "receta-champinones-rellenos",
+    "rel3": "torta-americana"
+  },
+  {
+    "Recipe": "ensalada-frijoles",
+    "rel1": "mix-lechugas",
+    "rel2": "torticas-espinacas-avena",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "milanesa-pollo-curry",
+    "rel1": "pollo-empanizado-horno",
+    "rel2": "supremas-pollo-verduras",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "quinoa-cebolla",
+    "rel1": "pizza-avena",
+    "rel2": "torticas-calabacin",
+    "rel3": "panquecas-auyama"
+  },
+  {
+    "Recipe": "crema-vegetales",
+    "rel1": "pizza-avena",
+    "rel2": "panquecas-avena-zanahoria",
+    "rel3": "lentejas"
+  },
+  {
+    "Recipe": "ninos-envueltos",
+    "rel1": "hamburguesas-res",
+    "rel2": "tiras-carne-pimenton",
+    "rel3": "carne-molida-canela"
+  },
+  {
+    "Recipe": "pollo-plancha",
+    "rel1": "pisillo-pollo",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pollo-empanizado-horno"
+  },
+  {
+    "Recipe": "torticas-calabacin",
+    "rel1": "lentejas",
+    "rel2": "panquecas-avena-zanahoria",
+    "rel3": "ensalada-frijoles"
+  },
+  {
+    "Recipe": "mix-lechugas",
+    "rel1": "ensalada-frijoles",
+    "rel2": "quinoa-cebolla",
+    "rel3": "ensalada-primavera"
+  },
+  {
+    "Recipe": "tiras-carne-pimenton",
+    "rel1": "ninos-envueltos",
+    "rel2": "carne-molida-canela",
+    "rel3": "hamburguesas-res"
+  },
+  {
+    "Recipe": "pizza-avena",
+    "rel1": "panquecas-avena-zanahoria",
+    "rel2": "quinoa-cebolla",
+    "rel3": "panquecas-auyama"
+  },
+  {
+    "Recipe": "pollo-empanizado-horno",
+    "rel1": "supremas-pollo-verduras",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "torticas-batata",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "hamburguesas-res",
+    "rel1": "ninos-envueltos",
+    "rel2": "tiras-carne-pimenton",
+    "rel3": "carne-molida-canela"
+  },
+  {
+    "Recipe": "torticas-espinacas-avena",
+    "rel1": "pizza-avena",
+    "rel2": "quinoa-cebolla",
+    "rel3": "arroz-integral-champinones"
+  },
+  {
+    "Recipe": "carne-molida-canela",
+    "rel1": "ninos-envueltos",
+    "rel2": "hamburguesas-res",
+    "rel3": "tiras-carne-pimenton"
+  },
+  {
+    "Recipe": "pisillo-pollo",
+    "rel1": "supremas-pollo-verduras",
+    "rel2": "pollo-plancha",
+    "rel3": "milanesa-pollo-curry"
+  },
+  {
+    "Recipe": "panquecas-auyama",
+    "rel1": "torticas-espinacas-avena",
+    "rel2": "crema-vegetales",
+    "rel3": "pizza-avena"
+  },
+  {
+    "Recipe": "arepas-platano",
+    "rel1": "torticas-espinacas-avena",
+    "rel2": "crema-vegetales",
+    "rel3": "pizza-avena"
+  },
+  {
+    "Recipe": "pan-cambur",
+    "rel1": "torticas-espinacas-avena",
+    "rel2": "crema-vegetales",
+    "rel3": "pizza-avena"
+  },
+  {
+    "Recipe": "muffin-auyama",
+    "rel1": "torticas-espinacas-avena",
+    "rel2": "crema-vegetales",
+    "rel3": "pizza-avena"
+  },
+  {
+    "Recipe": "poke-salmon",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "salsa-bolognesa",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "berenjenas-fileto",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "pollo-plancha-mostaza",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "arroz-integral-zanahorias",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "churrasco-atun",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "pasta-calabacin",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "pollo-jengibre",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "roast-beef",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "bistec-plancha",
+    "rel1": "arroz-integral-champinones",
+    "rel2": "quinoa-cebolla",
+    "rel3": "crema-vegetales"
+  },
+  {
+    "Recipe": "hamburguesas-pavo",
+    "rel1": "pollo-empanizado-horno",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "muffin-brocoli",
+    "rel1": "pollo-empanizado-horno",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "canoas-calabacin",
+    "rel1": "pollo-empanizado-horno",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "bonito-vegetales-salteados",
+    "rel1": "pollo-empanizado-horno",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "hamburguesas-pavo",
+    "rel1": "pollo-empanizado-horno",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "huevos-escalfados",
+    "rel1": "pisillo-cazon",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "pisillo-cazon",
+    "rel1": "pollo-empanizado-horno",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "carne-mechada",
+    "rel1": "pisillo-cazon",
+    "rel2": "milanesa-pollo-curry",
+    "rel3": "pisillo-pollo"
+  },
+  {
+    "Recipe": "sopa-caraotas-negras",
+    "rel1": "carne-mechada",
+    "rel2": "pisillo-cazon",
+    "rel3": "hamburguesas-pavo"
+  },
+  {
+    "Recipe": "plumitas-fileto-mozarella",
+    "rel1": "sopa-caraotas-negras",
+    "rel2": "carne-mechada",
+    "rel3": "pisillo-cazon"
+  },
+  {
+    "Recipe": "hervido-pollo",
+    "rel1": "plumitas-fileto-mozarella",
+    "rel2": "sopa-caraotas-negras",
+    "rel3": "carne-mechada"
+  },
+  {
+    "Recipe": "filete-de-ternera",
+    "rel1": "hervido-pollo",
+    "rel2": "plumitas-fileto-mozarella",
+    "rel3": "sopa-caraotas-negras"
+  }
+]

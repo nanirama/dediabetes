@@ -1,0 +1,326 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-themeMainBg;
+    @apply text-base;
+    font-family: 'Raleway';
+    font-weight: 400;
+    color: #000000;
+  }
+  h1 {
+    font-family: Montserrat;
+    font-weight: 600;
+  },
+  h2{
+    font-family: Raleway;
+    font-weight: 500;
+  },,
+  h3{
+    font-family: Raleway;
+    font-weight: 300;
+  },
+  h4 {
+    font-family: 'Raleway';
+    font-weight: 200;
+  }
+
+  h1 {
+    @apply text-3xl;
+  }
+  h2 {
+    @apply text-2xl font-bold my-8 leading-9;
+  }
+  h3 {
+    @apply text-xl my-8 font-bold leading-8;
+  }
+  h4 {
+    @apply text-lg font-bold my-8 leading-7;
+  }
+
+  p {
+    @apply text-base my-8 leading-6;
+  }
+
+li {
+    @apply my-4 text-base;
+  }
+
+ul {
+  @apply mx-12 my-6 list-disc;
+  }
+
+ol {
+    @apply mx-12 my-6 list-decimal;
+    }
+}
+
+@media (pointer: fine) {
+  #categoriesNavHideScrollBar::-webkit-scrollbar {
+    height: 5px;
+  }
+
+  #categoriesNavHideScrollBar::-webkit-scrollbar-track {
+    background: #fcced2e3; /* color of the tracking area */
+    height: 5px;
+  }
+
+  #categoriesNavHideScrollBar::-webkit-scrollbar-thumb {
+    background-color: #bd7c809f; /* color of the scroll thumb */
+    border-radius: 20px; /* roundness of the scroll thumb */
+    height: 5px;
+  }
+}
+@keyframes yourAnimation {
+  0.0% {
+    transform: scale(1) translate3d(0px, -10px, 0px);
+  }
+  100% {
+    transform: scale(1) translate3d(-120px, 0px, 0px);
+  }
+}
+.pfpmod {
+  width: max-content;
+}
+.maingroup:hover .pfpmod {
+  animation: yourAnimation 1s ease 0s 1 normal none;
+  transform: scale(1) translate3d(-120px, 0px, 0px);
+}
+.maingroup:hover img {
+  cursor: pointer;
+}
+.login-email:focus {
+  outline: none;
+}
+.login-email {
+  transition: ease 1s linear 0s;
+  width: 100%;
+  max-width: 30vw;
+  height: auto;
+}
+
+.login-email-div-outline:focus-within .login-email-div {
+  outline: 3px solid rgb(48, 129, 235);
+  transition: 0.5s linear 0s;
+}
+
+.login-password:focus {
+  outline: none;
+}
+.login-password {
+  transition: ease 1s linear 0s;
+  width: 100%;
+  max-width: 30vw;
+  height: auto;
+}
+
+.login-name:focus {
+  outline: none;
+}
+.login-name {
+  transition: ease 1s linear 0s;
+  width: 100%;
+  max-width: 30vw;
+  height: auto;
+}
+.login-password-div,
+.login-email-div,
+.login-name-div {
+  outline: 1px solid black;
+}
+.login-password-div-outline:focus-within .login-password-div {
+  outline: 3px solid rgb(48, 129, 235);
+  transition: 0.5s linear 0s;
+}
+.login-email::placeholder,
+.login-password::placeholder {
+  color: black;
+}
+
+.login-name:focus {
+  outline: none;
+}
+.login-name {
+  transition: ease 1s linear 0s;
+  width: 100%;
+  max-width: 30vw;
+  height: auto;
+}
+
+.login-name-div-outline:focus-within .login-name-div {
+  outline: 3px solid rgb(48, 129, 235);
+  transition: 0.5s linear 0s;
+}
+
+.login-email::placeholder,
+.login-password::placeholder,
+.login-name::placeholder {
+  color: black;
+}
+
+@keyframes showmodal {
+  0.0% {
+    transform: scale(0.75);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.signin-modal {
+  animation: showmodal 0.5s ease-in 0s 1;
+}
+.signup-modal {
+  animation: showmodal 0.5s ease-in 0s 1;
+}
+@media only screen and (max-width: 900px) {
+  .login-email-div,
+  .login-password-div,
+  .login-name-div {
+    max-width: 50%;
+  }
+}
+
+.cancel-button:hover {
+  transition: all 0.5s ease-in-out;
+  background-color: white !important;
+  color: #b70610 !important;
+}
+.submit-button:hover {
+  transition: all 0.5s ease-in-out;
+  background-color: white !important;
+  color: #4eb550 !important;
+}
+
+.cancel-button {
+  transition: all 0.5s ease-in-out;
+}
+.submit-button {
+  transition: all 0.5s ease-in-out;
+}
+.article-widgets {
+  transition: all 0.5s ease-in 0s;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  top: 50%;
+  transform: translate(0%, -50%);
+  border: 2px solid rgb(255, 0, 0);
+  z-index: 1000;
+  width: 40px;
+  font-size: small;
+  padding-right: 10px;
+  background-color: white;
+}
+.article-widgets:hover {
+  transition: all 0.5s ease-in 0s;
+  width: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: large;
+}
+.article-widgets:hover img {
+  margin: 10px 10px;
+  transition: all 0.5s ease-in 0s;
+  cursor: pointer;
+
+  width: 45px !important;
+}
+.article-widgets img {
+  margin: 5px 5px;
+  transition: all 0.5s ease-in 0s;
+}
+
+@media only screen and (max-width: 760px) {
+  .article-widgets {
+    display: flex;
+    justify-content: space-around;
+    transition: all 0.5s ease-in 0s;
+    flex-direction: row;
+    left: auto;
+    width: auto;
+    position: relative !important;
+    text-align: center;
+    transform: translate(0%, 0%);
+  }
+
+  .article-widgets:hover {
+    position: relative !important;
+
+    transition: all 0.5s ease-in 0s;
+    flex-direction: row;
+    left: auto;
+    width: auto;
+    text-align: center;
+    transform: translate(0%, 0%);
+    padding: 1rem 0px;
+    font-size: small;
+  }
+  .article-widgets * {
+    align-self: center;
+  }
+  .post-article {
+    margin-left: 1rem;
+  }
+}
+.perfil-toggle {
+  display: flex;
+  padding: 10px;
+  margin-bottom: 30px;
+  justify-content: space-around;
+  margin: 0 auto;
+  /* border-bottom: 1px solid springgreen; */
+}
+.perfil-toggle button {
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.perfil-toggle button:focus {
+  outline: none;
+  border-bottom: 2px solid blue;
+}
+.perfil-toggle .toggled {
+  border-bottom: 2px solid blue;
+}
+@media print {
+  .article-widgets {
+    display: none !important;
+  }
+}
+.sign-in-btn {
+  transition: all 1s ease;
+  border: 3px solid black;
+  background-color: white;
+  padding: 5px 10px;
+  font-weight: bold;
+  color: black;
+  border-radius: 25px;
+}
+.sign-in-btn:hover {
+  background-color: black;
+  color: white;
+  border: 3px solid white;
+}
+.sign-in-btn:active {
+  transition: 0.3s ease;
+  background-color: red;
+  color: grey;
+}
+.session__for_mobile {
+  margin-left: 10px;
+  display: none;
+}
+@media only screen and (max-width: 1023px) {
+  .session__for_mobile {
+    display: block;
+    cursor: pointer;
+  }
+  .session__for_desktop {
+    display: none;
+  }
+}

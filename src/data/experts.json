@@ -1,0 +1,23 @@
+[
+  {
+      "id": 1,
+      "name": "Editor de Dediabetes",
+      "headshot": "author_std.jpg",
+      "description": "",
+      "profnumber":"",
+      "linkedIn":"",
+      "personalink":"",
+      "certifications": ""
+  },
+  {
+    "id": 2,
+    "name": "Luis Arturo Osorio Guzmán",
+    "headshot": "arturo_osorio.jpg",
+    "description": "El Dr. Arturo Osorio es un médico licenciado que ejerce en Nicaragua desde 2018. Estudió en la UNAN-León, donde obtuvo la Licenciatura en Medicina, Licenciatura en Cirugía.",
+    "profnumber":"",
+    "linkedIn":"https://www.linkedin.com/in/larturo92",
+    "personalink":"",
+    "certifications": "MBBS"
+}
+
+]

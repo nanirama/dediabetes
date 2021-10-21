@@ -1,0 +1,36 @@
+prose:
+  rooturl: 'src/drafts'
+  metadata:
+    src/drafts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "category"
+        field:
+          element: "select"
+          label: "Add Category"
+          placeholder: "Add Categories"
+          alterable: true
+          options:
+            - name: 'Sintomas de Diabetes'
+              value: 'sintomas-diabetes'
+            - name: "Alimentacion"
+              value: "alimentacion"
+            - name: "Bebidas"
+              value: "bebidas"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Categories"
+          placeholder: "Add Categories"
+          alterable: true
+          options:
+            - name: 'Sintomas de Diabetes'
+              value: 'sintomas-diabetes'
+            - name: "Alimentacion"
+              value: "alimentacion"
+            - name: "Bebidas"
+              value: "bebidas"

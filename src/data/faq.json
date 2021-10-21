@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "slug": "vol126",
+    "title": "Volumen 1.26",
+    "subtitle": "",
+    "aparef": "",
+    "preguntas": [
+      {
+        "id": 1,
+        "question": "¿Cuál debería ser mi nivel de azúcar en la sangre cuando me despierto (en ayunas) y antes de las comidas? ¿Y después?",
+        "answer": "Para la mayoría de las personas con diabetes, la Asociación Estadounidense de Diabetes recomienda un nivel de glucosa en la sangre (o azúcar en sangre) en ayunas o antes de las comidas de 70 a 130 mg / dl. Una o dos horas después de comer, se recomienda una lectura de azúcar en la sangre posprandial igual o inferior a 180 mg / dl."
+      },
+      {
+        "id": 2,
+        "question": "¿Cual es el beneficio de la actividad física?",
+        "answer": "La inactividad promueve la diabetes tipo 2 e incluso aumenta las necesidades de insulina en el tipo 1 al no acceder al beneficio de proteínas especiales que transportan glucosa a las células. Básicamente, el ejercicio funciona como una inyección de insulina, ya que reduce los niveles de glucosa en sangre. Trabajar los músculos con más frecuencia y hacer que trabajen más mejora su capacidad para utilizar la insulina y absorber la glucosa. Esto pone menos estrés en las células beta pancreáticas productoras de insulina.",
+        "fuente": "Hay Una Cura Para La Diabetes: Programa Holistico De Recuperacion En 21 Dias (2014) Revisado el 24 de Junio de 2021.",
+        "link": "https://amzn.to/3wTvdsW"
+      },
+      {
+        "id": 3,
+        "question": "¿Cuando se debe usar insulina en diabetes tipo 2?",
+        "answer": "Las necesidad de aquellos con diabetes tipo 2 de necesitar recibir inyecciones de insulina dependerá de varios factores, incluido cuando fue diagnosticado. Las investigaciones indican que unan persona con diabetes tipo 2 que se trata desde temprano y mantiene un buén control del azúcar en la sangre puede, con el paso de los años, tener una más alta probabilidad que el páncreas produzca suficiente insulina por más tiempo. Pero es poco probable que una persona que vive con DT2 durante más de 15 años continúe produciendo suficiente insulina y, lo más probable, deberá recibir insulina"
+      },
+      {
+        "id": 4,
+        "question": "¿Puedo tratar otros tratamientos antes de la insulina?",
+        "answer": "Existen muchos tratamientos diferentes para la diabetes tipo 2. Su médico puede recomendar otros tratamientos en lugar de la insulina. Por ejemplo, podrían tratar: cambios en el estilo de vida, perder peso, cambiar el plan de alimentación, aumentar el ejercicio, tomoar medicamentos orales, otros inyectables que no sean insulina.",
+        "answer1": "En algunos casos, estos tratamientos pueden ser efectivos para ayudar a controlar sus niveles de azúcar en sangre. En otros casos, es posible que necesite terapia con insulina. Si su médico le receta insulina, no significa que haya fallado. Solo significa que su diabetes ha progresado y su plan de tratamiento ha cambiado."
+      },
+      {
+        "id": 5,
+        "question": "¿Que causa la diabetes tipo 2?",
+        "answer": "En su esencia, la diabetes tipo 2 puede entenderse como una enfermedad causada por demasiada insulina, que nuestro cuerpo secreta cuando comemos demasiada azúcar. Enmarcar el problema de esta manera es muy poderoso porque la solución se vuelve inmediatamente obvia. Debemos reducir nuestros niveles de insulina reduciendo nuestra ingesta dietética de azúcar y carbohidratos refinados (una forma de azúcar).",
+        "fuente": "The Diabetes Code: Prevent And Reverse Type 2 Diabetes Naturally (The Code Series) Revisado el 25 de Junio de 2021.",
+        "link": "https://amzn.to/3vY4Dh8"
+      },
+      {
+        "id": 6,
+        "question": "¿Puedo revertir la diabetes tipo 2 si dejo de comer carbohidratos y / o pierdo mucho peso?",
+        "answer": "No, pero puedes controlarla. Si tiene prediabetes o le acaban de diagnosticar diabetes tipo 2, perder mucho peso puede poner la diabetes en remisión. En un estudio, las personas con diabetes tipo 2 se ejercitaron durante 175 minutos a la semana, limitaron sus calorías a entre 1.200 y 1.800 por día y recibieron asesoramiento y educación semanales sobre estos cambios en el estilo de vida.",
+        "answer1": "En un año, aproximadamente el 10% dejó de tomar sus medicamentos para la diabetes o mejoró hasta el punto en que su nivel de azúcar en sangre ya no estaba en el rango de diabetes y, en cambio, se clasificó como prediabetes.",
+        "fuente": "The Diabetes Code: Prevent And Reverse Type 2 Diabetes Naturally (The Code Series) Revisado el 25 de Junio de 2021.",
+        "link": "https://amzn.to/3vY4Dh8"
+      },
+      {
+        "id": 7,
+        "question": "¿Puedo probar otros tratamientos antes que insulina?",
+        "answer": "Existen muchos tratamientos diferentes para la diabetes tipo 2. Su médico puede recomendar otros tratamientos en lugar de la insulina. Por ejemplo, podrían tratar: cambios en el estilo de vida, perder peso, cambiar el plan de alimentación, aumentar el ejercicio, tomoar medicamentos orales, otros inyectables que no sean insulina.",
+        "answer1": "En algunos casos, estos tratamientos pueden ser efectivos para ayudar a controlar sus niveles de azúcar en sangre. En otros casos, es posible que necesite terapia con insulina. Si su médico le receta insulina, no significa que haya fallado. Solo significa que su diabetes ha progresado y su plan de tratamiento ha cambiado."
+      },
+      {
+        "id": 8,
+        "question": "¿Cuál es la relación entre hiperglucemia y la aparición de enfermedad cardiovascular (ECV)?",
+        "answer": "La enfermedad cardiovascular (ECV) es la principal causa de morbimortalidad en los pacientes con DM2 y es el principal factor que contribuye a los costes directos e indirectos en esta población, representando el 70-80% de todas las causas de muerte. Los pacientes con DM2 tienen un riesgo de 2 a 4 veces superior a la población general de desarrollar ECV, riesgo que se mantiene tras ajustar por otros factores de riesgo vascular. ",
+        "answer1": "Además, existe una clara relación entre hiperglucemia y aparición de ECV, incluso en sujetos con prediabetes (glucemia basal alterada/intolerancia a la glucosa) y/o síndrome metabólico. Así, estudios observacionales han demostrado que por cada reducción del 1% en los niveles de HbA1c, se produce un 21% menos de muertes relacionadas con la diabetes, una disminución del 14% en las tasas de infarto de miocardio y una reducción del 37% en aparición de complicaciones microvasculares.",
+        "fuente": "Impact of diabetes and hypertension on the heart : Current Opinion in Cardiology",
+        "link": "https://journals.lww.com/co-cardiology/Abstract/2008/07000/Impact_of_diabetes_and_hypertension_on_the_heart.11.aspx"
+      },
+
+      {
+        "id": 9,
+        "question": "¿Cada cuanto chequear el control de lipidos?",
+        "answer": "Al menos 1 vez al año, aunque en aquellos con buenos niveles lipidicos (HDL>50, LDL <100, triglicéridos<150) se puede realizar un análisis cada 2 años.",
+        "fuente": "Lipids, Diabetes and Vascular Disease",
+        "link": "https://amzn.to/36fdwbH"
+      },
+      {
+        "id": 10,
+        "question": "¿Cuando hacer screening por retinopatia?",
+        "answer": "Los adultos diabéticos tipo 1 deben realizarse un examen ocular completo por parte de un oftalmólogo u optometrista tras 5 años del debut de la diabetes. En pacientes tipo 2 la revisión oftalmológica debe realizarse tras el diagnostico.",
+        "answer1": "Se deben realizar exámenes repetitivos anuales en todos los diabéticos. Mas tardíos si no hay evidencia de retinopatía de forma repetitiva (cada 2-3 años) y más frecuentes si la retinopatía está progresando.",
+        "fuente": "Aspectos fundamentales de la retinopatia diabetica",
+        "link": "https://amzn.to/3yo7mSm"
+      },
+      {
+        "id": 11,
+        "question": "¿Cuando hacer screening por neuropatia?",
+        "answer": "La detección de síntomas o signos de neuropatía autonómica cardiovascular debe realizarse al diagnóstico de diabetes tipo 2 y a los 5 años del diagnóstico de diabetes tipo 1. No suelen ser necesarias pruebas especiales",
+        "fuente": "Overview of medical care in adults with diabetes mellitus. Uptodate. Dec 2013.",
+        "link": ""
+      },
+      {
+        "id": 12,
+        "question": "¿Que tan frecuente evaluar los pies si tienes diabetes?",
+        "answer": "En todo diabético hay que hacer un examen del pie anual para identificar posibles factores de riesgo para úlcera y amputación. El examen debe incluir la inspección, pulsos, test de monofilamento, reflejos osteotendinosos y sensibilidad vibratoria",
+        "fuente": "Standards of medical care in diabetes 2014. Diabetes care vol 37, supplement 1, January 2014",
+        "link": "https://care.diabetesjournals.org/content/37/Supplement_1/S14"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "vol127",
+    "title": "Volumen 1.27",
+    "subtitle": "Entrevista a Dr Melvin P. Brown del Paga Khash Hospital de Nairobi (Kenia)",
+    "aparef": "Jimmy Nelson, J. (2008, Octubre 2008). Entrevista a Dr Melvin P. Brown del Paga Khash Hospital de Nairobi (Kenia). https://diabetesdaily.com",
+    "preguntas": [
+      {
+        "id": 1,
+        "question": "¿De darme la insulina en los brazos tengo distrofia por el exceso de pinchazos que puedo hacer para curarme?",
+        "answer": "La insulina no puede ingerirse, los jugos digestivos la destruyen; pero si actúa, si es inyectada, si se inyecta siempre en el mismo lugar provoca abultamiento llamado distrofia. En ese lugar la insulina se absorbe con más dificultad. hay que cambiar cada vez el lugar de la inyección y no darla siempre en la misma zona."
+      },
+      {
+        "id": 2,
+        "question": "¿Cuantas veces puedo usar la jeringa o aguja?",
+        "answer": "La jeringa o aguja puede usarse repetidamente si la usa una sola persona y la tapa con el capuchón. Cuando la aguja se despunta es necesario cambiarla. Manipular siempre el material de inyección con las manos muy limpias y guardarla también en la heladera."
+      },
+      {
+        "id": 3,
+        "question": "¿Cuantas veces puedo usar una lanceta?",
+        "answer": "Manteniendo normas de higiene es recomendable usarlas una sola vez."
+      },
+      {
+        "id": 4,
+        "question": "¿La insulina solo puede administrarse inyectándosela?",
+        "answer": "La vía inyectable de administración es la más segura y efectiva. La insulina en aerosol y/o oral aún no se utiliza en nuestro país y solo estaría indicado en determinados casos que solo pueden ser establecidos por el médico tratante."
+      },
+      {
+        "id": 5,
+        "question": "¿La diabetes tiene cura?",
+        "answer": "Hasta el momento , la diabetes puede ser controlada pero no curada."
+      },
+      {
+        "id": 6,
+        "question": "¿Que significa NPH?",
+        "answer": "NPH es una sigla: N - (Neutral) P - (Protamina) H - (Hagedorm), significa que es de Ph neutro, contiene protamina y fue creada por Hagedorm (el apellido del científico que realizó por primera vez esta composición."
+      },
+      {
+        "id": 7,
+        "question": "¿Se pueden hacer transplantes de páncreas, riñón o de células?",
+        "answer": "Si se pueden y por unos pesos mas te opero esa nariz espantosa que tienes! (risas, del Dr obviamente)"
+      },
+      {
+        "id": 8,
+        "question": "¿Han tenido éxito transplantes de páncreas, riñón o de células?",
+        "answer": "Los trasplantes de riñón son los de mayor éxito y se realizan cuando la persona está en insuficiencia renal. Los trasplantes de páncreas han tenido mayor éxito cuando se han realizado junto con los de riñón. Los implantes de células B parecerían ser los más promisorios, pero hay muy pocos casos registrados hasta ahora que no tengan que realizar terapia antirechazo que conlleva bastante tiempo."
+      },
+      {
+        "id": 9,
+        "question": "¿Se puede tomar hipoglucemiantes e inyectarse insulina al mismo tiempo?",
+        "answer": "En niños y jóvenes no es conveniente. En la diabetes 2 del adulto, se pueden hacer combinaciones bajo inspección médica, algunos hipoglucemiantes son más capaces de producir hipoglucemia severa que otros sí no se toman precauciones alimentarias."
+      },
+      {
+        "id": 10,
+        "question": "¿Que son las células beta (ß)?",
+        "answer": "Son las células pancreáticas productoras de insulina."
+      },
+      {
+        "id": 11,
+        "question": "¿Los hijos de mujeres diabéticas embarazadas serán diabéticas?",
+        "answer": "No en todos los casos. Los hijos de mujeres diabéticas que se embarazan pueden tener hijos diabéticos aunque con escasa frecuencia. Los hijos de diabéticos tipo 2 suelen tener obesidad y con el tiempo, luego de varias décadas, adquirir la afección."
+      },
+      {
+        "id": 12,
+        "question": "¿El hijo de una pareja de diabéticos, si o si va a ser diabético?",
+        "answer": "Tiene muy alta posibilidad de ser diabético pero no sólo los factores genéticos intervienen para adquirir la enfermedad, se muestran otros factores (virosis, stress, obesidad, sedentarismo)."
+      },
+      {
+        "id": 13,
+        "question": "¿Que es la diabetes gestacional?",
+        "answer": "Es el trastorno metabólico que aparece en la gestación. De 50 a 60 % de los casos desaparece luego del parto, si hubo diabetes gestacional la persona debe vigilarse periódicamente porque los síntomas pueden desaparecer muchos años después."
+      },
+      {
+        "id": 14,
+        "question": "¿Que significa posprandial?",
+        "answer": "Postpandrial, significa después de comer."
+      },
+      {
+        "id": 15,
+        "question": "¿Cuantos tipos de diabetes existen?",
+        "answer": "2 fundamentales, la diabetes 1 y la diabetes 2. Hay muchas otras enfermedades que acompañan la diabetes. Por extracción quirúrgica del páncreas puede producir diabetes que no corresponde a los tipos anteriores."
+      },
+      {
+        "id": 16,
+        "question": "¿Que tratamiento hay para neuropatía?",
+        "answer": "El mejor tratamiento es el de la prevención con un buen control de la glucemia. El tratamiento de la neuropatía debe ser hecho por especialistas quien indicará el medicamento que sea más adecuado. Ningún medicamento ha resultado hasta ahora mejor que un buen control."
+      },
+      {
+        "id": 17,
+        "question": "¿Que es la neuropatía?",
+        "answer": "La neuropatía diabética consiste(hace una pausa. Busca en el indice de su libro...)es...es..una alteración de los nervios periféricos y/o del sistema nervioso autónomo debido a hiperglucemia crónica. Sus síntomas más comunes son: disminución de la sensibilidad de la piel, hormigueos, calambres, vejiga hipotómica, hipertensión arterial al pararse."
+      },
+      {
+        "id": 18,
+        "question": "¿Que es la retinopatía?",
+        "answer": "La retinopatía, se caracteriza por sesiones vasculares que pueden dar hemorragias y disminución de la sensibilidad de la piel, hormigueos y disminución de visión. Los factores que ayudan a su desarrollo y progresión son: pobre control glucémico, hipertensión arterial, duración de la diabetes, hiperpidemia, tabaquismo."
+      },
+      {
+        "id": 19,
+        "question": "¿Que es la nefropatía?",
+        "answer": "Nefropatía, consiste en un alteración progresiva de la función renal favorecida por el mal control de la diabetes, hipertensión y factores genéticos. Lo primero que aparece es la microalbuminuria por lo que éste es un test valioso para tratar precozmente esta complicación."
+      },
+      {
+        "id": 20,
+        "question": "¿Que riesgos se corren sin un adecuado control?",
+        "answer": "Los pies pueden sufrir el efecto de alteraciones vasculares como obstrucción de grandes vasos y de pequeños vasos que afectan la circulación, alteraciones por neuropatía y procesos traumáticos por mal apoyo. También infecciones que agravan las lesiones. por todo ello el cuidado de los pies y del calzado es fundamental."
+      },
+      {
+        "id": 21,
+        "question": "¿Porqué debo cuidar mis pies?",
+        "answer": "Porque solo tienes dos muchacho.(risas)La falta de control en diabéticos tipo 1 puede provocar alteraciones metabólicas severas y agudas. El mal control crónico favorece las lesiones vasculares en casi todos los órganos y adelanta los procesos de arteriosclerosis."
+      },
+      {
+        "id": 22,
+        "question": "¿Como se deben cuidar los pies de diabeticos?",
+        "answer": "Con calzado que no comprima y permita un buen apoyo y aeración del pie. Con buena higiene del área, masajes con lubricantes, conociendo como se realiza el corte de uñas. Asesorándose y atendiéndose con podólogos regularmente. No andar descalzo y no usar medias con costuras gruesas."
+      },
+      {
+        "id": 23,
+        "question": "¿Que resultados han tenido las operaciones de cataratas en diabéticos insulinodependientes jóvenes?",
+        "answer": "El resultado es igual al de un no diabético, si la persona mantiene un buen control glucémico."
+      },
+      {
+        "id": 24,
+        "question": "¿Que precauciones debo tomar un diabetico para ir a la playa?",
+        "answer": "Ir con calzado adecuado para evitar cortaduras o pinchazos. Evitar el sol entre las 10 hs y las 17 hs. No exponerse demasiadas horas al sol. Usar lentes negros para protegerse de la radiación solar excesiva."
+      },
+      {
+        "id": 25,
+        "question": "¿Como transportar insulina?",
+        "answer": "Si la temperatura ambiente es menos de 25ºC no se necesitan precauciones especiales. Si es mayor la temperatura, se pede transportar en una pequeña nevera, nunca debe congelarse."
+      },
+      {
+        "id": 26,
+        "question": "¿Que productos pueden aplicarse diabéticos con quemaduras solares?",
+        "answer": "Usar siempre protector, las quemaduras siempre deben evitarse, porque pueden descompensar la diabetes y si se abren pueden infectarse. Solo el médico tratante deberá aconsejar el producto a utilizar en estos casos."
+      },
+      {
+        "id": 27,
+        "question": "Puede un diabetico tomar jarabe?",
+        "answer": "Los jarabes están hechos con azúcar, si no hay otro sustituto considerar que cada cucharadita equivale a unos 5 g de azúcar (igual a media naranja o 100 g de tomate)."
+      },
+      {
+        "id": 28,
+        "question": "¿Que precauciones debo tener un diabetico cuando va a un dentista?",
+        "answer": "Antes de ir a un dentista asegurarse que el control glucémico muestra cifras normales. En situación de hiperglucemia se facilita la infección."
+      },
+      {
+        "id": 29,
+        "question": "¿Cuales son los niveles de glucosa en sangre normales?",
+        "answer": "El nivel normal de glucosa en sangre corresponde a cifras de 70 a 112 mg/ml."
+      },
+      {
+        "id": 30,
+        "question": "¿Como se detecta la diabetes?",
+        "answer": "La diabetes se detecta por el examen sanguíneo de la glucosa, valores menores a 126 mg/ml en ayunas en 2 oportunidades o de 200 mg/ml en cualquier momento del día aseguran el diagnóstico. Valores entre 110 mg/ml y 126 mg/ml en ayunas y entre 140 mg/ml y 200 mg/ml después de las comidas, se diagnostica como intolerancia a la glucosa y deben ser cuidadosamente vigilados y tratados con alimentación adecuada y ejercicio."
+      },
+      {
+        "id": 31,
+        "question": "¿Que es la hiperglucemia?",
+        "answer": "Hiperglucemia es la palabra que expresa valores anormalmente elevados de glucosa en sangre o sea mayores de 120 mg/ml en ayunas."
+      },
+      {
+        "id": 32,
+        "question": "¿Que es la hipoglucemia?",
+        "answer": "Hipoglucemia expresa disminución de la glucosa sanguínea por debajo de 70 mg/ml."
+      },
+      {
+        "id": 33,
+        "question": "¿Puede la hipoglucemia afectar a los riñones?",
+        "answer": "La hiperglucemia favorece la progresión y agravación de lesiones renales."
+      },
+      {
+        "id": 34,
+        "question": "¿Existe pan para diabéticos?",
+        "answer": "Los llamados \"pan para diabéticos\", tiene muy escasa diferencia en la concentración de sustancias transformadas en azúcar y son más caros, razones por lo que no suelen aconsejarse en la dietas alimentarias."
+      },
+      {
+        "id": 35,
+        "question": "¿Los diabéticos pueden tomar alcohol?",
+        "answer": "Poder pueden. Pero el alcohol no es aconsejable. Ingerido en ayunas puede provocar hipoglucemia severa. Ingerido con alimentos aumenta extraordinariamente la ingestión de calorías, favorece la hiperglucemia y el aumento de peso."
+      },
+      {
+        "id": 36,
+        "question": "¿Se han olvidado inyectarse, se pueden inyectar luego en cualquier momento?",
+        "answer": "La insulina NPH, no se puede inyectar en cualquier momento pues tiene determinada curva de acción máxima que debe coincidir con las comidas más abundantes. Podría darse la mitad de la dosis y cumplir con pequeñas dosis de insulina cristalina antes de las comidas (1 a 6 unidades), según la edad, peso, ejercicio a realizar, alimentación a ingerir."
+      },
+      {
+        "id": 37,
+        "question": "¿Cuales son los síntomas de la diabetes?",
+        "answer": "Síntomas, característicos de la diabetes: Adelgazamiento, Sed, Orina abundante y frecuente, sensación de hambre, disminución de fuerzas."
+      },
+      {
+        "id": 38,
+        "question": "¿Todos los productos dietéticos son para diabéticos?",
+        "answer": "No, también se etiquetan como dietéticos productos bajos en grasas, ricos en fibra, productos que eliminan la harina de trigo, pero que contienen otras harinas. Incluso alimentos etiquetados \"sin azúcar\" pueden contener otros azúcares no convenientes. Conviene consultar con el especialista médico o nutricionista antes de comprar uno de esos productos."
+      },
+      {
+        "id": 39,
+        "question": "¿Para que sirven las tiras reactivas?",
+        "answer": "Las tiras reactivas sirven para conocer en cualquier momento que concentración de azúcar tiene la sangre y tomar la medidas necesarias cuando se exceda de lo normal."
+      },
+      {
+        "id": 40,
+        "question": "¿Como un diabético se puede auto controlar?",
+        "answer": "Lo mejor para autocontrolarse es realizar un perfil glucémico es decir, observar y anotar la glucemia antes y 2 horas después de las comidas para poder ajustar la medicación. Una vez obtenido esto, el control antes de las comidas en quienes reciben insulina o 2 veces al día en los diabéticos tipo 2 puede ayudar a un buen control."
+      },
+      {
+        "id": 41,
+        "question": "¿Que actitud hay que tomar en caso de emergencia en un diabético?",
+        "answer": "Siempre realizar control de glucemia. Si es una hipoglucemia y aún traga puede dársele a ingerir agua con una cucharadita grande azúcar, si no traga, se le puede inyectar 1 ampolla de Glucagen ©, mientras se llama a un servicio de emergencia, si en 10 minutos no se repone, administrar suero glucosado intravenoso."
+      },
+      {
+        "id": 42,
+        "question": "¿Se puede tomar cualquier hipoglucemiante?",
+        "answer": "No todos los hipoglucemiantes son iguales, ni actúan de la misma manera, solo el médico puede establecer el cambio de medicación."
+      },
+
+      {
+        "id": 43,
+        "question": "¿Puede un diabético hacer ejercicio en forma competitiva?",
+        "answer": "Puede hacer ejercicio de competición sólo si está bien entrenado previamente y tiene educación diabetológica que le permita conocer medidas de prevención y tratamiento de las emergencias."
+      },
+      {
+        "id": 44,
+        "question": "¿Puede un diabético hacer una vida normal?",
+        "answer": "Puede hacer vida normal si está bien educado en relación a su diabetes."
+      },
+      {
+        "id": 45,
+        "question": "¿La diabetes es hereditaria?",
+        "answer": "Los hijos de diabéticos pueden heredar la tendencia a la diabetes. Para que esta se manifieste entran en juego otros factores (sedentarismo y obesidad para la diabetes tipo 2), infecciones y factores de alimentación en la diabetes tipo 1."
+      },
+      {
+        "id": 46,
+        "question": "¿Los nervios inciden en la diabetes?",
+        "answer": "El estrés psíquico puede incidir para que un estado diabético subinsulinico se manifieste."
+      },
+      {
+        "id": 47,
+        "question": "¿Los obesos son propensos a tener diabetes?",
+        "answer": "No todos los obesos son propensos a la diabetes, pero el 80 % de lso pacientes con diabetes tipo 2 fueron obesos previamente o son obesos actualmente."
+      },
+      {
+        "id": 48,
+        "question": "¿Dos glucemias dieron altas, puede ser diabetes o algo momentáneo?",
+        "answer": "Cuando dos glucemias dieron valores elevados es diabetes. Con tratamiento pueden mejorar y presentar luego valores normales durante algún tiempo, mientras mantiene la dieta y vida activa, lo que no significa que desaparezca la diabetes."
+      },
+      {
+        "id": 49,
+        "question": "¿Siendo diabético, cuales son los valores ideales pre y posprandial?",
+        "answer": "En ayunas entre 70 mg/ml y 120 mg/ml, Postprandial por debajo de 180 mg/ml."
+      },
+      {
+        "id": 50,
+        "question": "¿Cuales son las diferencias entre los tipos de diabetes?",
+        "answer": "La diabetes tipo 1 aparece en forma rápida, tiene tendencia a la cetoacidósis si no se trata adecuadamente, necesita siempre insulina. la diabetes tipo 2 aparece más frecuentemente en el adulto, en gran parte de los casos no presenta síntomas, suele ser precedida de obesidad, los síntomas son de aparición más lenta, puede ser tratada durante años solo con dieta y ejercicio, suele tener factores agravantes de las complicaciones vasculares como hipertensión arterial e hiperlipidemia."
+      },
+      {
+        "id": 51,
+        "question": "¿Me inyecto insulina rápida puedo cambiarla por la ultra rápida?",
+        "answer": "Puede cambiarse, teniendo en cuenta que la ultra rápida tiene un período de acción corto (solo 2 horas), mientras que la rápida actúa más prolongadamente, la ultra rápida se inyecta en el momento de comer, mientras que la rápida se debe dar 1/2 hora antes."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "vol128",
+    "title": "Volumen 1.28",
+    "subtitle": "Test",
+    "aparef": "",
+    "preguntas": [
+      {
+        "id": 1,
+        "question": "¿La insulina solo puede administrarse inyectándosela?",
+        "answer": "La vía inyectable de administración es la más segura y efectiva. La insulina en aerosol y/o oral aún no se utiliza en nuestro país y solo estaría indicado en determinados casos que solo pueden ser establecidos por el médico tratante.",
+        "fuente": "Dr Melvin P. Brown del Paga Khash Hospital de Nairobi (Kenia)",
+        "link": "https://www.diabetesdaily.com/"
+      }
+    ]
+  }
+]

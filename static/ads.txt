@@ -1,0 +1,15 @@
+google.com, pub-1904196131619018, DIRECT, f08c47fec0942fa0
+outbrain.com, 005c632e5b0d2b8c22f94904633f358f7d, DIRECT
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+revcontent.com, 84538, DIRECT
+appnexus.com, 7666, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 156042, RESELLER, 0bfd66d529a55807
+my6sense.com, 9732, RESELLER
+criteo.com, 7822, RESELLER
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2
+engagebdr.com, 10304, RESELLER
+synacor.com, 82291, RESELLER, e108f11b2cdf7d5b
+indexexchange.com, 192143, RESELLER

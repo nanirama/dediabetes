@@ -1,0 +1,8 @@
+[build] 
+command = "gatsby build"
+
+[dev]
+command = "gatsby develop"
+
+[functions]
+directory = "./.netlify/functions"

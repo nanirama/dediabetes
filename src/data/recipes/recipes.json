@@ -1,0 +1,5290 @@
+[
+  {
+    "id": 1,
+    "date": "2020-09-01",
+    "slug": "raviolis-de-lechuga",
+    "category": "recetas",
+    "title": "Raviolis de Lechuga para un Almuerzo de Verano",
+    "description": "Sabores crujientes, cremosos, redondos, relativamente fáciles de hacer, aquí hay unos rollos de lechuga saludables y de mucho sabor.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 60,
+    "servings": 4,
+    "calories": 93,
+    "protein": 7,
+    "fat": 2,
+    "carb": 10,
+    "fiber": 1,
+    "Magnesio": 28,
+    "VitaminaA": 187,
+    "racCarb": 1,
+    "tags": ["ensalada"],
+    "ingredientes": [
+      "8 unid Hojas de lechuga grandes",
+      "80 g Requesón o ricota",
+      "1 unid Yema de huevo",
+      "40 g Jamón cocido",
+      "300 g Tomate triturado",
+      "½ unid Cebolla",
+      "½ taza Consomé desgrasado",
+      "2 cdas Perejil picado",
+      "Orégano, sal, laurel, pimienta"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Mezclar el requesón con la mozzarella y el perejil picado."
+      },
+      {
+        "id": 2,
+        "paso": "Agregar la yema de huevo, el jamón cocido picado y condimentar con el orégano, pimienta y sal."
+      },
+      {
+        "id": 3,
+        "paso": "En un recipiente blanquear las hojas de lechuga sumergiendo por 30 segundos en agua hirviendo con sal."
+      },
+      {
+        "id": 4,
+        "paso": "Rellenar las hojas de lechuga con la preparación anterior envolver y fijar con palillos para que no se desarmen."
+      },
+      {
+        "id": 5,
+        "paso": "En un sartén Sofreír la cebolla picada en cuadritos agregar los tomates previamente licuados, la sal, la pimienta el orégano y el consomé"
+      },
+      {
+        "id": 6,
+        "paso": "Colocar las lechugas rellenas en la mezcla y dejar cocinar con la salsa"
+      }
+    ],
+    "image": "../../images/recipes/raviolis-de-lechuga.jpg"
+  },
+  {
+    "id": 2,
+    "date": "2017-05-04",
+    "slug": "receta-de-bizcocho-sin-azucar",
+    "category": "recetas",
+    "title": "Receta de Bizcocho sin Azucar, buena opción de postre para un diabético",
+    "description": "Una receta fácil y útil, apropiada para personas con diabetes. Es un postre que se puede comer solo o como base para muchas recetas aptas para una persona con diabetes.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 60,
+    "servings": 4,
+    "calories": 313,
+    "protein": 12,
+    "fat": 15,
+    "carb": 44,
+    "fiber": 5,
+    "Magnesio": 73,
+    "VitaminaA": 58,
+    "racCarb": 4.4,
+    "tags": ["postre"],
+    "ingredientes": [
+      "3 unid Huevos (Separadas las claras)",
+      "125 gr Yogurt natural (Desnatado y sin azúcar)",
+      "180 gr Harina Integral (3 mediciones de yogur)",
+      "25 gr Stevia (En polvo)",
+      "8 gr Levadura Química (En polvo)",
+      "40 gr Aceite Vegetal Suave (1 medición de yogur)",
+      "1 unid Limón (Zumo y ralladura)",
+      "1 pizca Sal"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Lo primero que haremos será precalentar el horno a 180º. Después engrasaremos el molde o lo forramos con papel vegetal. Yo prefiero el papel vegetal porque nos asegura que se va a desmoldar más fácilmente"
+      },
+      {
+        "id": 2,
+        "paso": "Para continuar, separamos los huevos, reservando las claras. Añadimos nuestro yogur a las yemas y removemos enérgicamente"
+      },
+      {
+        "id": 3,
+        "paso": "En este momento necesitamos tamizar los ingredientes secos. Este paso es muy importante para evitar que se nos formen grumos en la masa. Para medir la harina, si no disponemos de báscula, podemos utilizar el envase del yogur como medidor."
+      },
+      {
+        "id": 4,
+        "paso": "En este punto, agregamos el aceite y el limón; y una pizca de sal para potenciar el sabor de nuestro bizcocho."
+      },
+      {
+        "id": 5,
+        "paso": "Ahora, montamos las claras de huevo a punto de nieve con una batidora eléctrica. Luego las incorporamos con suavidad a nuestra masa haciendo movimientos envolventes para que se integre, pero sin que se bajen las claras."
+      },
+      {
+        "id": 6,
+        "paso": "Es el momento de verter nuestra mezcla en el molde y hornear a unos 160-180º durante 30-35 minutos. Para comprobar si nuestro bizcocho está bien horneado, podemos pincharlo con un palillo y este tiene que salir limpio"
+      }
+    ],
+    "image": "../../images/recipes/bizcocho-sin-azucar.jpg"
+  },
+  {
+    "id": 4,
+    "date": "2016-10-17",
+    "slug": "souffle-de-chocolate",
+    "category": "recetas",
+    "title": "Souffle de Chocolate bajo en carbohidratos",
+    "description": "Esta receta de soufflé de chocolate bajo en azúcar es dedicada a los amantes de los postres.Puede ser disfrutado por aquellos con una dieta baja en carbohidratos, cetogénica, sin gluten, sin granos, diabética o paleo.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 60,
+    "servings": 4,
+    "calories": 134,
+    "protein": 12,
+    "fat": 7,
+    "carb": 6,
+    "fiber": 1,
+    "Magnesio": 22,
+    "VitaminaA": 94,
+    "racCarb": 0.6,
+    "tags": ["postre"],
+    "ingredientes": [
+      "350 grms. de ricota descremada",
+      "2 cucharadas de endulzante en polvo para diabéticos o alternativa",
+      "2 claras",
+      "1 cucharada de cacao amargo",
+      "1 pizca de café instantáneo"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Licuamos la ricota con 5 cucharadas de agua mineral hasta lograr una crema homogénea y sin grumos."
+      },
+      {
+        "id": 2,
+        "paso": "Agregamos endulzante en polvo para diabéticos o alternativa, cacao y café y continuamos licuando unos instantes más, hasta que los ingredientes se mezclen bien."
+      },
+      {
+        "id": 3,
+        "paso": "Volcamos la preparación en un bol y agregamos las claras batidas a nieve."
+      },
+      {
+        "id": 4,
+        "paso": "Mezclamos en forma envolvente y vertemos en budinera apenas aceitada."
+      },
+      {
+        "id": 5,
+        "paso": "Cocinamos en horno suave, durante 15 minutos aproximadamente."
+      },
+      {
+        "id": 6,
+        "paso": "Retiramos y servimos felices."
+      }
+    ],
+    "image": "../../images/recipes/soufle-de-chocolate-sin-azucar.webp"
+  },
+  {
+    "id": 5,
+    "date": "2016-10-17",
+    "slug": "gelatina-cereza-fresa-diabeticos",
+    "category": "recetas",
+    "title": "Gelatina de cereza y fresa apta para Diabéticos",
+    "description": "Esta receta de gelatina de fresa y cereza apta para diabéticos es ideal como postre o para acompañar muchos de los dulces y momentos de sobremesa. Según sea tu régimen alimenticio es bueno que consultes con tu medico - nutricionista.",
+    "descriptionB": "Se tienen que hacer ciertos ajustes a la receta para prepararlos sin azúcar pero, aún sin azucar, puedes tener unos souffles de chocolates muy ricos. Estos souffle son delicados como para sacarlos del horno y llevarlos con reverencia a la mesa. Te sentirás como que has logrado algo grande, serás una estrella de la cocina.",
+    "preptime": 30,
+    "cooktime": 60,
+    "servings": 4,
+    "calories": 79,
+    "protein": 14,
+    "fat": 1,
+    "carb": 5,
+    "fiber": 0,
+    "Magnesio": 14,
+    "VitaminaA": 36,
+    "racCarb": 0.5,
+    "tags": ["postre"],
+    "ingredientes": [
+      "2 pqt. gelatina de cereza sin azúcar",
+      " 2 1/2 tzas. agua hirviendo ",
+      " 1 tza. agua fría ",
+      " 1 pqt. gelatina de fresa sin azúcar ",
+      " 1 tza. leche fría descremada ",
+      " 1/2 tza. frutos rojos fresa, frambuesa, moras. .. "
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "En las 2 tzas. de agua hirviendo vertemos gelatina de cereza, mezclamos hasta unificar. Vertemos en un molde refractario, refrigeramos en la nevera hasta que se solidifique (firme - cuajada)."
+      },
+      {
+        "id": 2,
+        "paso": "En la 1/2 tza. de agua hirviendo vertemos la gelatina de fresa, la leche, mezclamos hasta unificar, vertemos en un molde refractario, refrigeramos hasta que esté firme, desmoldamos las dos gelatinas y decoramos con los frutos rojos."
+      }
+    ],
+    "image": "../../images/recipes/gelatina-de-cereza-y-fresa.jpg"
+  },
+  {
+    "privateRecipe": true,
+    "id": 6,
+    "date": "2016-09-21",
+    "slug": "bistec-a-la-portuguesa",
+    "category": "recetas",
+    "title": "Bistec a la Portuguesa",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 60,
+    "servings": 4,
+    "calories": 223,
+    "fat": 8,
+    "carb": 8,
+    "fiber": 2,
+    "protein": 29,
+    "VitaminaA": 34,
+    "Magnesio": 44,
+    "racCarb": 0.5,
+    "tags": ["carne"],
+    "ingredientes": [
+      "500 g Carne roja",
+      " 1 Cebolla (grande) ",
+      " 1 Pimentón o ají morrón (grande) ",
+      " 250 gramos Tomate ",
+      " 2 dientes de Ajo ",
+      " Laurel, sal y azúcar"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Cortar la carne en bistec o lonjas finas, condimentar y cocinar a la plancha o en parrilla."
+      },
+      {
+        "id": 2,
+        "paso": "Sofreír en el sartén el ajo, la cebolla finamente picada y el pimentón cortado en juliana, cocinar por 15 o 20 minutos."
+      },
+      {
+        "id": 3,
+        "paso": "Incorpora los tomates pelados sin semilla y cortados en juliana. Condimentar con sal y pimienta al gusto dejar hervir por 15 o 20 minutos."
+      },
+      {
+        "id": 4,
+        "paso": "Cubrir la carne cocida con la salsa y servir."
+      }
+    ],
+    "image": "../../images/recipes/bistec-a-la-portuguesa.jpg"
+  },
+  {
+    "id": 7,
+    "date": "2017-06-19",
+    "slug": "torta-humeda-chocolate",
+    "category": "recetas",
+    "title": "Torta húmeda de chocolate",
+    "description": "La torta húmeda de chocolate puede ser lo más sabrosos que pruebes en tu vida, es un bizcocho húmedo, esponjoso y bastante sencillo de preparar.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 270,
+    "fat": 20,
+    "carb": 20,
+    "fiber": 4,
+    "protein": 5,
+    "VitaminaA": 127,
+    "Magnesio": 58,
+    "racCarb": 2,
+    "tags": ["postre", "torta"],
+    "ingredientes": [
+      "1/2 tza Harina",
+      "1 cda Polvo de hornear ",
+      " 2 unid Huevos ",
+      " 1/2 tza Mantequilla ",
+      " 1 tableta Chocolate amargo, sin azúcar ",
+      " 1/2 tza Cacao en polvo",
+      "20 gr Edulcorante granulado o en polvo",
+      "Coco rallado sin azúcar",
+      "Esencia de Vainilla"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentar el horno a 180º." },
+      {
+        "id": 2,
+        "paso": "Derretir la tableta de chocolate con la mantequilla a baño de maría."
+      },
+      {
+        "id": 3,
+        "paso": "Batir los huevos con el edulcorante hasta lograr una mezcla homogénea."
+      },
+      {
+        "id": 4,
+        "paso": "Incorporar la harina y el polvo para hornear."
+      },
+      {
+        "id": 5,
+        "paso": "Incorporar el chocolate derretido y mezclar hasta obtener una mezcla homogénea."
+      },
+      {
+        "id": 6,
+        "paso": "Incorporar el cacao en polvo a su gusto (dependiendo de qué tan oscura y amarga desee la torta)."
+      },
+      {
+        "id": 7,
+        "paso": "Hornear durante 30 minutos (debe quedar húmeda por dentro)."
+      },
+      {
+        "id": 8,
+        "paso": "Servir con un poco de coco."
+      },
+      {
+        "id": 9,
+        "paso": "Servir tibio, puede reposar unos 20 minutos después de salir de horno."
+      }
+    ],
+    "image": "../../images/recipes/torta-humeda-de-chocolate.jpg"
+  },
+  {
+    "id": 9,
+    "date": "2017-06-19",
+    "slug": "torta-ricota-pera",
+    "category": "recetas",
+    "title": "Torta de ricota y pera",
+    "description": "Esta torta es riquísima, con una crema de ricota suavecísima. Te va a encantar por la calidad de los ingredientes y textura, esta en el límite de carbohidratos por porción que recomendamos por lo que debes comer con moderación",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 246,
+    "fat": 8,
+    "carb": 31,
+    "fiber": 3,
+    "protein": 14,
+    "VitaminaA": 108,
+    "Magnesio": 28,
+    "racCarb": 3.1,
+    "tags": ["postre", "torta"],
+    "ingredientes": [
+      "500 gr Ricota",
+      "4 unid Huevos",
+      " 1 tza Yogurt descremado",
+      "15 gr Edulcorante granulado o en polvo",
+      "1 cda Vainilla",
+      "3/4 tza Harina",
+      "1 cda Polvo de hornear",
+      " 4 unid Peras"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentar el horno a 180º." },
+      {
+        "id": 2,
+        "paso": "Batir las claras de huevo a punto de nieve y reservar."
+      },
+      {
+        "id": 3,
+        "paso": "Batir las yemas de huevo e incorporar el yogurt, el edulcorante, la vainilla y el polvo para hornear hasta obtener una mezcla homogénea."
+      },
+      {
+        "id": 4,
+        "paso": "Incorporar manualmente la harina, la ricota y las claras de huevo."
+      },
+      {
+        "id": 5,
+        "paso": "Agregar las peras rebanadas a la mezcla."
+      },
+      {
+        "id": 6,
+        "paso": "Servir en un molde profundo."
+      },
+      {
+        "id": 7,
+        "paso": "Hornear durante 1 hora."
+      },
+      {
+        "id": 8,
+        "paso": "Dejar enfriar a temperatura ambiente."
+      }
+    ],
+    "image": "../../images/recipes/torta-de-ricotta.jpg"
+  },
+  {
+    "id": 10,
+    "date": "2017-10-16",
+    "slug": "panqueques-de-manzana",
+    "category": "recetas",
+    "title": "Deliciosos Panqueques de Manzana sin Azúcar ",
+    "description": "Los panqueques de manzana son fácil de preparar, pero lo fácil no quita lo sabroso. Esta receta esta adaptada para el disfrute de la persona con diabetes",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 149,
+    "fat": 3,
+    "carb": 27,
+    "fiber": 2,
+    "protein": 6,
+    "VitaminaA": 100,
+    "Magnesio": 22,
+    "racCarb": 2.7,
+    "tags": ["desayuno"],
+    "ingredientes": [
+      "---INGREDIENTES PARA LA MASA---",
+      "1 taza de harina",
+      "2 cdas. de cacao",
+      "1 huevo y 1 yema",
+      "½ lt. de leche descremada",
+      "1 cda. de aceite de maíz",
+      "1 cda. de endulzante para diabéticos.",
+      "---INGREDIENTES PARA EL RELLENO---",
+      "4 manzanas (3 tazas)",
+      "¼ taza de agua para el vapor",
+      "1 cda. de endulzante para diabéticos",
+      "½ cdita. de canela."
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "---INICIAR PREPARACION DE LA MASA---" },
+      {
+        "id": 2,
+        "paso": "licuar los ingredientes y dejar reposar ½ hora."
+      },
+      {
+        "id": 3,
+        "paso": "Calentar con aceite o rocío vegetal una sartén."
+      },
+      {
+        "id": 4,
+        "paso": "Verter con un cucharón chico la mezcla y dejar deslizar hasta formar una capa fina sobre el fondo."
+      },
+      {
+        "id": 5,
+        "paso": "Dorar y dar vuelta."
+      },
+      {
+        "id": 6,
+        "paso": "---INICIAR PREPARACION DEL RELLENO---"
+      },
+      {
+        "id": 7,
+        "paso": "Pelar, cortar en cubos y cocinar al vapor las manzanas con endulzante para diabéticos y la canela."
+      },
+      {
+        "id": 8,
+        "paso": "Rellenar cada panqueque, arrollar y espolvorear con canela."
+      }
+    ],
+    "image": "../../images/recipes/panqueques-manzana.webp"
+  },
+  {
+    "id": 11,
+    "date": "2021-9-8",
+    "slug": "berenjena-rellenas-con-vegetales",
+    "category": "recetas",
+    "title": "Receta Fácil de Berenjenas Rellenas con Vegetales",
+    "description": "Esta receta fácil de berenjenas rellenas comienza con tiernas mitades de berenjenas asadas que se rellenan con un simple relleno vegetariano. Excelente como plato principal o como acompañamiento junto a su proteína favorita.",
+    "descriptionB": "",
+    "preptime": 40,
+    "cooktime": 30,
+    "servings": 4,
+    "calories": 118,
+    "fat": 6,
+    "carb": 20,
+    "fiber": 8,
+    "protein": 4,
+    "VitaminaA": 425,
+    "Magnesio": 34,
+    "racCarb": 2,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "--- Para las berenjenas ---", "2 berenjenas grandes ", "2 cucharaditas de aceite de oliva", "Sal", "--- Para el relleno ---", "1 cucharada de aceite de oliva", "1 cebolla picada", "2 dientes de ajo picados", "2 zanahorias peladas y cortadas en cubitos", "1 pimiento morrón rojo cortado en cubitos", "1 calabacín cortado en cubos", "100 gramos de champiñones cortados en cubos", "¾ cucharadita de orégano seco", "½ cucharadita tomillo seco", "Sal y pimienta al gusto"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "--- Prepara las berenjenas ---" }, { "id": 2, "paso": "Precalentar el horno a 250°C. Lavar y cortar las berenjenas por la mitad y mojar con aceite de oliva a cada lado. Sazonar. Colocar cada mitad boca abajo en una bandeja de horno engrasada y hornear durante 20 minutos hasta que queden blandas por dentro, deberían quedar firmes por fuera. Retirar del horno y reservar." }, { "id": 3, "paso": "--- Preparar el relleno ---" }, { "id": 4, "paso": "Calentar el aceite en una olla grande a fuego medio y pochar la cebolla. Añadir el ajo y la zanahoria y seguir pochando. Añadir el resto de los ingredientes para el relleno y cocinar durante 15 minutos hasta que las verduras estén blandas." }, { "id": 5, "paso": "Empujar la pulpa de las berenjenas a los bordes de la misma con el dorso de una cuchara. Rellenar cada lado de berenjena con el mezcla" }
+    ],
+    "image": "../../images/recipes/berenjenas-rellenas-con-vegetales.jpg"
+  },
+  {
+    "id": 12,
+    "date": "2016-10-17",
+    "slug": "bizcocho-borracho",
+    "category": "recetas",
+    "title": "Bizcocho Borracho Delicioso y de Ingredientes Sencillos",
+    "description": "Los bizcochos borrachos son bizcochos de origen español que se cubren con un sabroso almíbar que contiene un licor, normalmente brandy o ron. En algunas regiones de España se les añade canela por encima, azúcar, azúcar glas o una capa de chocolate.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 6,
+    "calories": 234,
+    "fat": 4,
+    "carb": 27,
+    "fiber": 1,
+    "protein": 12,
+    "VitaminaA": 125,
+    "Magnesio": 24,
+    "racCarb": 2.7,
+    "tags": ["postre"],
+    "ingredientes": [
+      "4 huevos",
+      "½ taza de leche en polvo descremada",
+      "1 cdita. de polvo de hornear",
+      "2 cditas. de esencia de vainilla",
+      "Ralladura de limón y naranja",
+      "¼ taza de bebida alcohólica (whisky, cognac)",
+      "Harina cantidad necesaria",
+      "½ taza de queso blanco descremado",
+      "2 y ½ cucharadas de edulcurante para diabéticos",
+      "½ taza de pasas de uva."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Batimos los huevos con 2 cucharadas del edulcurante para diabéticos, vainilla y polvo de hornear hasta lograr punto letra."
+      },
+      {
+        "id": 2,
+        "paso": "Cernimos sobre el batido la leche en polvo, agregamos cognac, ralladura y las pasas de uva espolvoreadas con harina."
+      },
+      {
+        "id": 3,
+        "paso": "Mezclamos todo en forma envolvente."
+      },
+      {
+        "id": 4,
+        "paso": "Volcamos la preparación en una placa de 15 x 20 cms previamente aceitada y cocinamos en horno moderado durante 15 minutos."
+      },
+      {
+        "id": 5,
+        "paso": "Cortamos en cuadrados y decoramos con el queso batido junto con ½ cucharada de endulzante y esencia de vainilla."
+      },
+      {
+        "id": 6,
+        "paso": "Es un bocado ideal para acompañar una rica taza de té."
+      }
+    ],
+    "image": "../../images/recipes/bizcocho-borracho.jpg"
+  },
+  {
+    "id": 13,
+    "date": "2016-10-17",
+    "slug": "compota-de-damascos",
+    "category": "recetas",
+    "title": "Compota de Damascos hecha en Casa",
+    "description": "Esta receta te ofrece una opción deliciosa para incluir en tu dieta esta saludable fruta. La preparación toma unos pocos minutos.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 6,
+    "calories": 86,
+    "fat": 0,
+    "carb": 13,
+    "fiber": 1,
+    "protein": 2,
+    "VitaminaA": 25,
+    "Magnesio": 12,
+    "racCarb": 1.3,
+    "tags": ["postre", "merienda"],
+    "ingredientes": [
+      "200 g. de orejones de damascos",
+      "½ taza de agua",
+      "1 taza de vino blanco seco",
+      "1 cucharada de edulcurante para diabéticos",
+      "1 vasito de yogur descremado sabor vainilla"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Ponemos en un recipiente los damascos, agua y vino, colocamos al fuego hasta que levanta el hervor."
+      },
+      {
+        "id": 2,
+        "paso": "Agregamos edulcurante para diabéticos y con fuego bajito dejamos cocinar hasta que los orejones estén tiernos."
+      },
+      {
+        "id": 3,
+        "paso": "Retiramos y enfriamos."
+      },
+      {
+        "id": 4,
+        "paso": "Servimos cada porción con un copete de yogur y una hojita de menta fresca."
+      }
+    ],
+    "image": "../../images/recipes/compota-de-damascos.jpg"
+  },
+  {
+    "id": 14,
+    "date": "2017-07-17",
+    "slug": "helado-de-limon",
+    "category": "recetas",
+    "title": "Helado de Limon",
+    "description": "Amplia tus opciones de postre con esta deliciosa receta de helado de limón. Con bajo contenido de grasa, carbohidratos y alto sabor cítrico, esta receta será un exito en tu comida",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 89,
+    "fat": 4,
+    "carb": 10,
+    "fiber": 0,
+    "protein": 3,
+    "VitaminaA": 0,
+    "Magnesio": 13,
+    "racCarb": 1,
+    "tags": ["postre"],
+    "ingredientes": [
+      "1 paquete Galletas sin azúcar (cantidad al gusto)",
+      "350 ml Leche evaporada",
+      "1/2 tza Jugo de limón",
+      "20 gr Edulcorante en polvo o granulado",
+      "Ralladura de la cáscara de limón"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Poner a enfriar la leche en la nevera durante dos horas."
+      },
+      {
+        "id": 2,
+        "paso": "Batir la leche evaporada hasta que levante (duplique su tamaño), este proceso puede tomar alrededor de 15 minutos (si se le dificulta que la leche se duplique de tamaño, coloque el recipiente en el que está batiendo la leche sobre un recipiente con hielo, el frío ayudará a que la leche incorpore el aire y suba de tamaño)."
+      },
+      {
+        "id": 3,
+        "paso": "Incorporar el jugo de limón, la ralladura de la concha de limón y el edulcorante."
+      },
+      {
+        "id": 4,
+        "paso": "Triturar las galletas."
+      },
+      {
+        "id": 5,
+        "paso": "Colocar la mezcla en un molde grande y cubrir con las galletas y un poco de ralladura. "
+      },
+      {
+        "id": 6,
+        "paso": "Congelar."
+      },
+      {
+        "id": 7,
+        "paso": "Sacar del congelador aproximadamente 5 minutos antes de servir – para que se suavice. "
+      }
+    ],
+    "image": "../../images/recipes/helado-de-limon.webp"
+  },
+  {
+    "id": 15,
+    "date": "2016-10-17",
+    "slug": "pastel-oriental",
+    "category": "recetas",
+    "title": "Pastel Oriental",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 91,
+    "fat": 3,
+    "carb": 14,
+    "fiber": 3,
+    "protein": 3,
+    "VitaminaA": 657,
+    "Magnesio": 19,
+    "racCarb": 1.4,
+    "tags": ["postre", "torta"],
+    "ingredientes": [
+      "2 huevos",
+      "1 1/2 Cda de endulzante para diabéticos",
+      "¼ taza de jugo de naranja",
+      "1 cda. de ralladura de naranja",
+      "1 cta de ralladura de limón",
+      "½ quilo de zanahorias ralladas finas",
+      "2 cdas de almendras peladas y picadas",
+      "Una pizca de nuez moscada",
+      "¼ taza de harina",
+      "1 cdita. de polvo de hornear."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Batir los huevos hasta cremosos y agregar el endulzante para diabéticos, el jugo, la ralladura de naranja y de limón."
+      },
+      {
+        "id": 2,
+        "paso": "Agregar las zanahorias, las almendras y la nuez moscada."
+      },
+      {
+        "id": 3,
+        "paso": "Incorporar en forma envolvente la harina mezclada con el polvo de hornear."
+      },
+      {
+        "id": 4,
+        "paso": "Colocar en molde de 24 cm. diámetro aceitado o untado con rocío vegetal."
+      },
+      {
+        "id": 5,
+        "paso": "Hornear hasta que esté dorado y se desprenda de los bordes. "
+      },
+      {
+        "id": 6,
+        "paso": "Retirar y dejar enfriar antes de servir."
+      }
+    ],
+    "image": "../../images/recipes/pastel-oriental.webp"
+  },
+  {
+    "id": 16,
+    "date": "2017-10-19",
+    "slug": "torta-de-chocolate",
+    "category": "recetas",
+    "title": "Torta de Chocolate",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 466,
+    "fat": 25,
+    "carb": 56,
+    "fiber": 4,
+    "protein": 7,
+    "VitaminaA": 126,
+    "Magnesio": 76,
+    "racCarb": 5.6,
+    "tags": ["postre", "torta"],
+    "ingredientes": [
+      "4 unid Huevos",
+      "100 gr Mantequilla",
+      "250 gr Chocolate semi-amargo, sin azúcar",
+      "1 cda Cafe",
+      "200 gr Fructosa",
+      "1 cda Almidón de maíz",
+      "1/4 tza Cacao en polvo",
+      "1 tza Harina",
+      "Bombones o chocolates sin azúcar"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentar el horno a 180º." },
+      {
+        "id": 2,
+        "paso": "Batir los huevos hasta que aumenten su volumen."
+      },
+      {
+        "id": 3,
+        "paso": "Incorporar la fructuosa y seguir batiendo durante unos 5 minutos."
+      },
+      {
+        "id": 4,
+        "paso": "Derretir el chocolate con la mantequilla a baño de maría."
+      },
+      {
+        "id": 5,
+        "paso": "Incorporar el chocolate derretido a los huevos con la fructuosa. "
+      },
+      {
+        "id": 6,
+        "paso": "Agregar la taza de harina progresivamente, mezclando con una cuchara."
+      },
+      {
+        "id": 7,
+        "paso": "Incorporar el cacao, el almidón de maíz y la cucharada de café."
+      },
+      {
+        "id": 8,
+        "paso": "Hornear durante 30 minutos o hasta que al introducir un palillo salga seco."
+      },
+      {
+        "id": 9,
+        "paso": "Servir adornando con bombones o chocolate sin azúcar."
+      },
+      {
+        "id": 10,
+        "paso": "Se puede servir tibio o dejar enfriar."
+      }
+    ],
+    "image": "../../images/recipes/torta-de-chocolate.webp"
+  },
+  {
+    "id": 17,
+    "date": "2016-09-27",
+    "slug": "receta-champinones-rellenos",
+    "category": "recetas",
+    "title": "Receta: Champiñones Rellenos",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 92,
+    "fat": 5,
+    "carb": 5,
+    "fiber": 0,
+    "protein": 7,
+    "VitaminaA": 57,
+    "Magnesio": 9,
+    "racCarb": 0.5,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "12 unid Champiñones grandes",
+      "100 g Jamón cocido",
+      "250 g Requesón",
+      "2 unid Jugo de limón",
+      "25 g Mantequilla",
+      "50 g Crema de leche (nata)",
+      "25 g Queso parmesano rallado",
+      "Sal y Pimienta"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Cocinar los champiñones en agua, agregar sal, mantequilla y el jugo de limón dejar cocinar hasta que estén tiernos, retirar del fuego colar y dejarlos reposar hasta enfriar."
+      },
+      {
+        "id": 2,
+        "paso": "Quitar con cuidado los tallos y picarlos, unir con el jamón previamente picado, el requesón y el queso parmesano."
+      },
+      {
+        "id": 3,
+        "paso": "Rellenar las cabezas de los champiñones con la mezcla anterior."
+      },
+      {
+        "id": 4,
+        "paso": "Cubrir cada una de las cabezas rellenas con crema de leche y queso parmesano rallado,"
+      },
+      {
+        "id": 5,
+        "paso": "Colocarlos en una fuente y hornear hasta gratinar a 180 °C."
+      }
+    ],
+    "image": "../../images/recipes/Champinones-rellenos.webp"
+  },
+  {
+    "id": 18,
+    "date": "2016-10-17",
+    "slug": "besitos-de-nuez",
+    "category": "recetas",
+    "title": "Besitos de Nuez",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 4,
+    "calories": 139,
+    "fat": 6,
+    "carb": 11,
+    "fiber": 1,
+    "protein": 8,
+    "VitaminaA": 67,
+    "Magnesio": 20,
+    "racCarb": 1.1,
+    "tags": ["postre"],
+    "ingredientes": [
+      "250 gramos de ricota descremada",
+      "1 cucharada de chocolate en polvo",
+      "4 nueces picadas",
+      "1 cucharada de avena crocante",
+      "1 y ½ cucharadas de endulzante en polvo para diabéticos o alternativa",
+      "1 cucharadita de esencia de vainilla",
+      "1 cucharada de pasas de uva",
+      "1 cucharada de gelatina sin sabor",
+      "2 cucharadas de whisky."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Calentamos el whisky hasta que hierva un par de minutos, y luego lo mezclamos con la ricota, chocolate en polvo, nueces, avena, endulzante en polvo para diabéticos o alternativa, esencia y pasas de uva."
+      },
+      {
+        "id": 2,
+        "paso": "Espolvoreamos la gelatina sin sabor y mezclamos bien."
+      },
+      {
+        "id": 3,
+        "paso": "Volcamos toda la preparación en molde rectangular, previamente mojado con agua fría."
+      },
+      {
+        "id": 4,
+        "paso": "Ponemos en la heladera dos horas, retiramos y cortamos en rombos."
+      },
+      {
+        "id": 5,
+        "paso": "Conservamos en la heladera hasta el momento de servir."
+      }
+    ],
+    "image": "../../images/recipes/besitos-de-nuez.webp"
+  },
+  {
+    "id": 19,
+    "date": "2017-06-19",
+    "slug": "torta-americana",
+    "category": "recetas",
+    "title": "Torta Americana",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 50,
+    "cooktime": 40,
+    "servings": 8,
+    "calories": 177,
+    "fat": 8,
+    "carb": 21,
+    "fiber": 1,
+    "protein": 6,
+    "VitaminaA": 325,
+    "Magnesio": 17,
+    "racCarb": 2.1,
+    "tags": ["postre", "torta"],
+    "ingredientes": [
+      "--- PARA LA TORTA ---",
+      "1 tza Harina",
+      "1 cda Polvo de hornear",
+      "4 unid Huevo separados",
+      "10 gr Edulcorante en polvo o granulado",
+      "30 gr Mantequilla",
+      "1/4 tza Jugo de naranja",
+      "1 tza Pure de calabaza",
+      "Canela al gusto",
+      "--- PARA LA CUBIERTA ---",
+      "50 gr Queso crema",
+      "1/2 tza Zumo de naranja",
+      "10 gr Edulcorante en polvo o granulado"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Inicia la preparación de la torta" },
+      {
+        "id": 2,
+        "paso": "Precalentar el horno a 180º."
+      },
+      {
+        "id": 3,
+        "paso": "Batir los huevos a punto de nieve y reservar."
+      },
+      {
+        "id": 4,
+        "paso": "Batir la mantequilla con el edulcorante hasta que adquiera un color blanco."
+      },
+      {
+        "id": 5,
+        "paso": "Incorporar el jugo de naranja y el puré de calabaza (se puede hacer horneando la calabaza y pasándola por un procesador)."
+      },
+      {
+        "id": 6,
+        "paso": "Incorporar la harina, la canela y el polvo para hornear hasta lograr una mezcla homogénea."
+      },
+      {
+        "id": 7,
+        "paso": "Incorporar las claras de huevo haciendo círculos envolventes."
+      },
+      {
+        "id": 8,
+        "paso": "Hornear durante 40 minutos o hasta que al introducir un palillo a la mezcla el mismo salga seco."
+      },
+      {
+        "id": 9,
+        "paso": "Dejar enfriar a temperatura ambiente durante 2 horas."
+      },
+      {
+        "id": 10,
+        "paso": "Ahora a preparar la cubierta"
+      },
+      {
+        "id": 11,
+        "paso": "Mezclar el queso crema, el zumo de naranja y el edulcorante."
+      },
+      {
+        "id": 12,
+        "paso": "Cubrir la torta una vez horneada con la mezcla."
+      }
+    ],
+    "image": "../../images/recipes/torta-americana.webp"
+  },
+  {
+    "id": 20,
+    "date": "2017-07-07",
+    "slug": "panna-cotta",
+    "category": "recetas",
+    "title": "Panna Cotta",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 10,
+    "servings": 8,
+    "calories": 131,
+    "fat": 6,
+    "carb": 13,
+    "fiber": 2,
+    "protein": 5,
+    "VitaminaA": 60,
+    "Magnesio": 41,
+    "racCarb": 1.3,
+    "tags": ["postre"],
+    "ingredientes": [
+      " 300 ml nata (o crema de leche) ",
+      " 300 ml leche descremada ",
+      " 20 gr edulcorante granulado o en polvo ",
+      " 10 gr gelatina sin sabor ",
+      "ralladura de limón",
+      "--- PARA LA CUBIERTA ---",
+      " 1 tableta chocolate amargo sin azúcar ",
+      " 50 gr crema de leche ",
+      "Frambuesas o fresas naturales"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "En una olla honda calentar a fuego medio-bajo la nata con la leche descremada, la ralladura de limón y el edulcorante (sin llevar a hervor)."
+      },
+      {
+        "id": 2,
+        "paso": "Retirar del fuego e incorporar la gelatina (previamente hidratada en un par de cucharitas de agua o leche tibia)."
+      },
+      {
+        "id": 3,
+        "paso": "Revolver hasta disolver y servir en moldes individuales."
+      },
+      {
+        "id": 4,
+        "paso": "Llevar a la nevera durante 2 horas o hasta alcanzar una consistencia firme."
+      },
+      {
+        "id": 5,
+        "paso": "Cobertura: Derretir en baño de maría el chocolate con la nata, hasta alcanzar una consistencia cremosa."
+      },
+      {
+        "id": 6,
+        "paso": "Montaje: Una vez que la panna cotta haya alcanzado una consistencia firme en la nevera, cubrir con la cobertura y dejar enfriar unos 20 minutos más (si prefieres que el chocolate esté más suave y derretido no es necesario enfriarlo)."
+      }
+    ],
+    "image": "../../images/recipes/panna-cotta.webp"
+  },
+  {
+    "id": 21,
+    "date": "2017-07-07",
+    "slug": "mermelada-de-peras",
+    "category": "recetas",
+    "title": "Mermelada de Peras",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 4,
+    "calories": 185,
+    "fat": 0,
+    "carb": 45,
+    "fiber": 9,
+    "protein": 5,
+    "VitaminaA": 3,
+    "Magnesio": 20,
+    "racCarb": 4.5,
+    "tags": ["merienda"],
+    "ingredientes": [
+      "1 kg. de peras firmes",
+      "4 clavos de olor",
+      "1 ramita de canela",
+      "pizca de nuez moscada",
+      "2 cucharadas de gelatina sin sabor",
+      "cáscara de 1 limón cortada como cinta (sólo la parte amarilla)",
+      "1 y ½ cucharadas de endulzante para diabéticos."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Pelamos y retiramos las semillas de las peras: ponemos la cáscara y semillas en un liencito y atamos fuerte, para que no se salgan."
+      },
+      {
+        "id": 2,
+        "paso": "Cortamos las peras en cuartos, ponemos en cacerola adecuada y agregamos también el atadito de cáscaras y semillas, ya que en la cocción le darán textura a la mermelada."
+      },
+      {
+        "id": 3,
+        "paso": "Agregamos también canela, clavos de olor, cáscara de limón y nuez moscada."
+      },
+      {
+        "id": 4,
+        "paso": "Cubrimos apenas con agua y ponemos al fuego."
+      },
+      {
+        "id": 5,
+        "paso": "Cuando levanta el hervor, bajamos el fuego y dejamos que conserve el hervor hasta que el agua prácticamente, se evapore cuidando que no se queme."
+      },
+      {
+        "id": 6,
+        "paso": "Retiramos y hacemos puré con las peras, retirando la cáscara de limón, canela y clavos."
+      },
+      {
+        "id": 7,
+        "paso": "Hidratamos la gelatina sin sabor con media taza de agua, entibiamos hasta que se disuelva bien y la volcamos en el puré de peras."
+      },
+      {
+        "id": 8,
+        "paso": "Calentamos nuevamente toda la preparación mezclando con cuchara de madera y retiramos."
+      },
+      {
+        "id": 9,
+        "paso": "Dejamos la cacerola destapada y, cuando está tibia, le agregamos el endulzante para diabéticos."
+      },
+      {
+        "id": 10,
+        "paso": "Mezclamos bien y dejamos enfriar."
+      },
+      {
+        "id": 11,
+        "paso": "Envasamos en recipiente limpio, seco y previamente enjuagado con alcohol."
+      },
+      {
+        "id": 12,
+        "paso": "Tapamos bien el recipiente y conservamos en heladera, hasta terminar de consumir la mermelada."
+      }
+    ],
+    "image": "../../images/recipes/mermelada-de-peras.webp"
+  },
+  {
+    "id": 22,
+    "date": "2017-06-19",
+    "slug": "torta-bombon-menta",
+    "category": "recetas",
+    "title": "Torta Bombón de Menta",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 25,
+    "cooktime": 35,
+    "servings": 8,
+    "calories": 320,
+    "protein": 0,
+    "fat": 0,
+    "carb": 0,
+    "racCarb": 0,
+    "tags": ["postre", "torta"],
+    "ingredientes": [
+      "--- PARA LA TORTA ---",
+      "3 unid Huevos",
+      "20 gr Edulcorante granulado o en polvo",
+      "1/2 tza Cacao tostado amargo (o cacao convencional)",
+      "2 tza Harina",
+      "50 gr Mantequilla",
+      "120 ml Leche descremada",
+      "1 cda Polvo de hornear",
+      "1 cda Bicarbonato de Sodio",
+      "--- PARA LA COBERTURA ---",
+      "4 unid claras de huevo",
+      "10 gr Edulcorante granulado o en polvo",
+      "1 cda Esencia de menta",
+      "1 cda Gelatina sin sabor"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "--- PREPARAR LA TORTA ---" },
+      {
+        "id": 2,
+        "paso": "Precalentar el horno a 180º."
+      },
+      {
+        "id": 3,
+        "paso": "Batir los huevos hasta que aumenten su volumen e incorporar el edulcorante."
+      },
+      {
+        "id": 4,
+        "paso": "Incorporar la mantequilla derretida y el cacao, continuar batiendo hasta lograr una mezcla homogénea."
+      },
+      {
+        "id": 5,
+        "paso": "Agregar la harina, el bicarbonato y el polvo para hornear y batir manualmente."
+      },
+      {
+        "id": 6,
+        "paso": "Retiramos y hacemos puré con las peras, retirando la cáscara de limón, canela y clavos."
+      },
+      {
+        "id": 7,
+        "paso": "Incorporar la leche descremada."
+      },
+      {
+        "id": 8,
+        "paso": "Hornear durante 35 minutos o hasta que al introducir un palillo en la mezcla el mismo salga seco."
+      },
+      {
+        "id": 9,
+        "paso": "Dejar enfriar en el refrigerador."
+      },
+      {
+        "id": 10,
+        "paso": "--- PREPARAR LA COBERTURA ---"
+      },
+      {
+        "id": 11,
+        "paso": "Batir las claras de huevo hasta punto de nieve."
+      },
+      {
+        "id": 12,
+        "paso": "Hidratar la gelatina sin sabor e incorporarla a la mezcla."
+      },
+      {
+        "id": 13,
+        "paso": "Agregar el saborizante de menta y el edulcorante."
+      },
+      {
+        "id": 14,
+        "paso": "Dejar enfriar y servir sobre la torta."
+      }
+    ],
+    "image": "../../images/recipes/torta-bombon-de-menta.webp"
+  },
+  {
+    "id": 23,
+    "date": "2017-06-2",
+    "slug": "crumble-de-peras",
+    "category": "recetas",
+    "title": "Crumble de Peras",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 25,
+    "cooktime": 35,
+    "servings": 8,
+    "calories": 320,
+    "protein": 0,
+    "fat": 0,
+    "carb": 0,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      " 1 tza Harina de trigo ",
+      " 1 tza Leche descremada en polvo ",
+      " 2 cda Mantequilla ",
+      " 1/3 tza Edulcorante líquido más 1 cucharada para las peras ",
+      " 3 unid Peras cortadas en cubos ",
+      "Un poquito de agua",
+      "Canela al gusto"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentar el horno a 180º." },
+      {
+        "id": 2,
+        "paso": "Colocar las peras en una ollita con un poquito de agua, la cuchara de edulcorante y la pizca de canela. Cocinar a fuego bajo hasta que se suavicen las peras."
+      },
+      {
+        "id": 3,
+        "paso": "Mezclar la harina de trigo, la leche descremada y la mantequilla hasta lograr que se formen grumos finos."
+      },
+      {
+        "id": 4,
+        "paso": "Servir en moldes individuales o en un molde grande las peras, cubrir con la mezcla de anterior y llevar al horno hasta que esté dorado."
+      }
+    ],
+    "image": "../../images/recipes/crumble-de-peras.webp"
+  },
+  {
+    "id": 24,
+    "date": "2016-10-09",
+    "slug": "receta-ensalada-hinojo-salmon-ahumado",
+    "category": "recetas",
+    "title": "Ensalada hinojo y salmón ahumado",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 10,
+    "servings": 8,
+    "calories": 320.4,
+    "protein": 18.6,
+    "fat": 24.5,
+    "carb": 7.7,
+    "racCarb": 0.5,
+    "tags": ["ensalada", "pescado"],
+    "ingredientes": [
+      "400 g Hinojo",
+      "2 Pepinos grandes",
+      "6 tallos Célery",
+      "400 g Salmón ahumado",
+      "--- PARA LA VINAGRETA ---",
+      "2 cdas Salsa de mostaza dulce",
+      "½ taza Aceite oliva",
+      "2 cdas Vinagre de vino",
+      "4 cdas Mostaza",
+      "1 Cda Eneldo finamente picado"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Lavar el hinojo y utilizar solo la parte blanca y bulbosa,"
+      },
+      {
+        "id": 2,
+        "paso": "Pelar el pepino y cortarlo verticalmente a la mitad para eliminar las semillas,"
+      },
+      {
+        "id": 3,
+        "paso": "Escoger los tallos del célery eliminando las hojas y los nervios gruesos que los recubren. Se pican en forma de cubo de 1cm, mezclar con 2 cucharadas de mostaza y se deja reposar en la nevera."
+      },
+      {
+        "id": 4,
+        "paso": "En un envase de vidrio colocar la mostaza y el aceite poco a poco hasta obtener una mezcla bien emulsionada. Agregar el vinagre y batir."
+      },
+      {
+        "id": 5,
+        "paso": "Antes de servir agregar el eneldo."
+      },
+      {
+        "id": 6,
+        "paso": "Armar con el salmón ahumado un timbal y rellenar con la mezcla y se baña con la salsa que se reservó aparte."
+      }
+    ],
+    "image": "../../images/recipes/ensalada-hinojo-y-salmon-ahumado.webp"
+  },
+  {
+    "id": 25,
+    "date": "2016-10-17",
+    "slug": "flan-de-cafe",
+    "category": "recetas",
+    "title": "Flan de Café",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 10,
+    "servings": 8,
+    "calories": 85,
+    "protein": 6.5,
+    "fat": 2.4,
+    "carb": 9.2,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "4 yemas",
+      "8 claras",
+      "2 tazas de leche descremada",
+      "½ taza de almidón de maíz",
+      "1 taza de agua caliente",
+      "1 y ½ cucharadas de café instantáneo",
+      "2 y ½ cucharadas de edulcorante para diabéticos",
+      "1 cucharada de esencia de vainilla."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Batimos con batidor de alambre manual las claras y las yemas con el edulcurante para diabéticos"
+      },
+      {
+        "id": 2,
+        "paso": "Agregamos la esencia, el almidón disuelto en la leche descremada y el café previamente disuelto en la taza de agua caliente."
+      },
+      {
+        "id": 3,
+        "paso": "Volcamos toda la preparación en budinera y cocinamos en horno convencional a baño María o en molde adecuado para microondas, sin baño María."
+      },
+      {
+        "id": 4,
+        "paso": "Cuando está cuajado, retiramos, dejamos enfriar y desmoldamos."
+      }
+    ],
+    "image": "../../images/recipes/flan-de-cafe.webp"
+  },
+  {
+    "id": 26,
+    "date": "2017-06-12",
+    "slug": "tarta-de-manzana-y-canela",
+    "category": "recetas",
+    "title": "Tarta de Manzana y Canela",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 40,
+    "cooktime": 20,
+    "servings": 8,
+    "calories": 92,
+    "protein": 0,
+    "fat": 0,
+    "carb": 0,
+    "racCarb": 0,
+    "tags": ["postre", "tarta"],
+    "ingredientes": [
+      "4 unid Huevos separados",
+      "20 gr Edulcorante granulado o en polvo",
+      "1 cda Miel",
+      "2/3 tz Harina",
+      "1 cda Polvo de hornear",
+      "1 unid Ralladura de Limón cáscara",
+      "3 unid Manzanas",
+      "pizca de sal",
+      "Canela para decorar"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentamos el horno a 180º." },
+      {
+        "id": 2,
+        "paso": "Se baten las claras en punto de nieve."
+      },
+      {
+        "id": 3,
+        "paso": "Se incorpora poco a poco la harina, la ralladura de limón, la sal, el edulcorante, el polvo de hornear y las yemas hasta obtener una mezcla homogénea (preferiblemente con una cuchara de madera)."
+      },
+      {
+        "id": 4,
+        "paso": "Se cortan las manzanas en rodajas muy finas."
+      },
+      {
+        "id": 5,
+        "paso": "Se vierte la mezcla en un molde bajo, con un poco de mantequilla, y se colocan las manzanas superpuestas, formando un círculo."
+      },
+      {
+        "id": 6,
+        "paso": "Se espolvorea un poco de canela y se hornea durante 20 minutos a 180º, o hasta introducir un palillo en la mezcla y que salga seco."
+      },
+      {
+        "id": 7,
+        "paso": "Se puede servir tibio con un poco de helado o dejar enfriar."
+      }
+    ],
+    "image": "../../images/recipes/tarta-de-manzana-y-canela.webp"
+  },
+  {
+    "id": 27,
+    "date": "2017-06-12",
+    "slug": "tarta-de-almendras",
+    "category": "recetas",
+    "title": "Tarta de Almendras",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 40,
+    "cooktime": 20,
+    "servings": 8,
+    "calories": 197,
+    "protein": 0,
+    "fat": 0,
+    "carb": 0,
+    "racCarb": 0,
+    "tags": ["postre", "tarta"],
+    "ingredientes": [
+      "200 gr Almendras molidas (harina de almendra)",
+      "1 cda Harina",
+      "1 cda Mantequilla",
+      "20 gr Edulcorante (preferiblemente que venga de la Stevia, granulado o en polvo)",
+      "4 unid Huevos",
+      "1 unid Ralladura de Limón",
+      "1 cda Canela"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentamos el horno a 180º C." },
+      {
+        "id": 2,
+        "paso": "Batimos los huevos con el edulcorante. Incorporamos la mantequilla derretida y seguimos batiendo hasta blanquear la mezcla."
+      },
+      {
+        "id": 3,
+        "paso": "Mezclamos las almendras molidas, la cucharada de harina y la ralladura de limón. Incorporamos esta mezcla a los huevos con una cuchara de madera o removedor."
+      },
+      {
+        "id": 4,
+        "paso": "Incorporamos la harina y la cucharada de canela."
+      },
+      {
+        "id": 5,
+        "paso": "Horneamos en moldes individuales o en un molde grande durante 20-30 minutos, o hasta que se pinche con un palillo la mezcla y salga seco."
+      },
+      {
+        "id": 6,
+        "paso": "Dejar enfriar fuera del refrigerador, aproximadamente 2 horas."
+      }
+    ],
+    "image": "../../images/recipes/tarta-de-almendras.webp"
+  },
+  {
+    "id": 28,
+    "date": "2017-06-12",
+    "slug": "tarta-de-chocolate-y-aceite-de-oliva",
+    "category": "recetas",
+    "title": "Tarta de Chocolate y Aceite de Oliva",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 40,
+    "cooktime": 20,
+    "servings": 6,
+    "calories": 206,
+    "protein": 0,
+    "fat": 0,
+    "carb": 0,
+    "racCarb": 0,
+    "tags": ["postre", "tarta"],
+    "ingredientes": [
+      "1 unid Huevos",
+      "20 ml Aceite de Oliva",
+      "80 gr Fructosa",
+      "60 ml Leche descremada",
+      "50 ml Agua",
+      "60 gr Harina",
+      "20 gr Cacao en polvo",
+      "Polvo de hornear",
+      "Nueces trituradas, al gusto"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentamos el horno a 180º." },
+      {
+        "id": 2,
+        "paso": "Mezclamos manualmente todos los ingredientes líquidos de la receta."
+      },
+      {
+        "id": 3,
+        "paso": "Posteriormente incorporamos el cacao, la harina, el polvo para hornear, la fructuosa y las nueces trituradas."
+      },
+      {
+        "id": 4,
+        "paso": "Se vierte la mezcla en un molde refractario y se hornea durante 20 minutos o hasta que al introducir un palillo en la mezcla el mismo salga seco."
+      },
+      {
+        "id": 5,
+        "paso": "Se puede servir tibio con un poco de helado o dejar enfriar."
+      }
+    ],
+    "image": "../../images/recipes/tarta-de-chocolate-y-aceite-de-oliva.webp"
+  },
+  {
+    "id": 29,
+    "date": "2017-06-12",
+    "slug": "tarta-de-limon",
+    "category": "recetas",
+    "title": "Tarta de Limón",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 40,
+    "cooktime": 20,
+    "servings": 6,
+    "calories": 256,
+    "protein": 4.2,
+    "fat": 11,
+    "carb": 30.4,
+    "racCarb": 0,
+    "tags": ["postre", "tarta"],
+    "ingredientes": [
+      "Para el relleno",
+      "5 unid yemas de huevo",
+      "20 gr Edulcorante granulado o en polvo",
+      "4 unid zumo de limones",
+      "1 unid Ralladura de Limón",
+      "1 cda Almidón de maíz",
+      "100 gr Mantequilla fría",
+      "Para el crust",
+      "150 gr Galletas sin azúcar trituradas",
+      "30 gr Mantequilla derretida",
+      "Fresas para decorar",
+      "Hojas de menta para decorar"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentamos el horno a 180º." },
+      {
+        "id": 2,
+        "paso": "Calentar en una olla el zumo de limón, la ralladura de limón y el edulcorante."
+      },
+      {
+        "id": 3,
+        "paso": "Una vez que se haya disuelto se incorpora el almidón de maíz (disuelto en un poquito de agua) y las yemas de huevo, sin dejar de revolver."
+      },
+      {
+        "id": 4,
+        "paso": "Una vez que se logre una textura de crema, se incorpora la mantequilla fría removiendo rápidamente, hasta lograr una crema homogénea."
+      },
+      {
+        "id": 5,
+        "paso": "Enfriar la mezcla."
+      },
+      {
+        "id": 6,
+        "paso": "Mezclar las galletas con la mantequilla derretida y hornear durante 20 minutos a 180º, o hasta que estén tostadas."
+      },
+      {
+        "id": 7,
+        "paso": "Se puede servir en capas, o se puede colocar la galleta en la parte baja de un molde y verter la mezcla de limón sobre la misma."
+      },
+      {
+        "id": 8,
+        "paso": "Decorar con fresas y hojas de menta."
+      },
+      {
+        "id": 9,
+        "paso": "Enfriar en el refrigerador durante 2 horas y servir frío."
+      }
+    ],
+    "image": "../../images/recipes/tarta-de-limon.webp"
+  },
+  {
+    "id": 30,
+    "date": "2017-06-12",
+    "slug": "tarta-de-queso",
+    "category": "recetas",
+    "title": "Tarta de Queso",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 40,
+    "cooktime": 20,
+    "servings": 6,
+    "calories": 256,
+    "protein": 4.2,
+    "fat": 11,
+    "carb": 30.4,
+    "racCarb": 0,
+    "tags": ["postre", "tarta"],
+    "ingredientes": [
+      "220 gr Queso crema",
+      "2 cda Mantequilla",
+      "6 unid Huevos separados",
+      "1/2 tza Leche entera",
+      "5 cda Almidón de maíz",
+      "1 cda zumo de limones",
+      "1/3 tza Edulcorante granulado o en polvo",
+      "1/2 cdta Polvo de hornear",
+      "pizca de sal",
+      "Fresas para decorar"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentamos el horno a 170º." },
+      {
+        "id": 2,
+        "paso": "En una olla a fuego muy bajo mezclamos el queso crema, la mantequilla y la leche; los sacamos de la olla hasta para bajar la temperatura."
+      },
+      {
+        "id": 3,
+        "paso": "Batimos las claras de huevo incorporando poco a poco el edulcorante hasta que alcancen el punto de nieve."
+      },
+      {
+        "id": 4,
+        "paso": "Batimos las yemas de huevo con el polvo de hornear, la pizca de sal y el almidón de maíz hasta que suban su volumen y la mezcla se vuelva más blanca."
+      },
+      {
+        "id": 5,
+        "paso": "Se incorpora la mezcla de queso a la de yemas de huevo y se bate hasta que esté homogénea. Posteriormente, agregamos las claras de huevo en punto de nieve haciendo movimientos envolventes suaves con una cuchara de madera."
+      },
+      {
+        "id": 6,
+        "paso": "Se coloca la mezcla en un molde alto cubierto con mantequilla. El molde se debe colocar en otra bandeja con agua caliente (en baño de maría)."
+      },
+      {
+        "id": 7,
+        "paso": "Se hornea durante 1 hora y 10 minutos. (No abrir el horno durante los primeros 45 minutos para que no se escape el vapor)."
+      },
+      {
+        "id": 8,
+        "paso": "Se colocan las fresas con un poco de agua en una olla y se cocinan a fuego lento hasta obtener una mermelada (se puede incorporar un poco de edulcorante si están muy ácidas). Se sirve sobre la tarta de queso."
+      },
+      {
+        "id": 9,
+        "paso": "Dejar enfriar fuera del refrigerador y servir a temperatura ambiente"
+      }
+    ],
+    "image": "../../images/recipes/tarta-de-queso.webp"
+  },
+  {
+    "id": 31,
+    "date": "2017-06-12",
+    "slug": "tarta-de-queso-blanco",
+    "category": "recetas",
+    "title": "Tarta de Queso Blanco",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 45,
+    "cooktime": 45,
+    "servings": 6,
+    "calories": 274,
+    "protein": 0,
+    "fat": 0,
+    "carb": 0,
+    "racCarb": 0,
+    "tags": ["postre", "tarta"],
+    "ingredientes": [
+      "250 gr Queso blanco rallado",
+      "250 gr Queso amarillo holandés, rallado",
+      "20 gr Edulcorante granulado o en polvo",
+      "3 cda Harina",
+      "1 cda Polvo de hornear",
+      "4 unid Huevos"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentamos el horno a 180º." },
+      {
+        "id": 2,
+        "paso": "Se mezclan los dos tipos de queso hasta que estén homogéneos."
+      },
+      {
+        "id": 3,
+        "paso": "Se baten los huevos a mano con el edulcorante"
+      },
+      {
+        "id": 4,
+        "paso": "Se incorpora el queso blanco y amarillo a la mezcla de huevos y poco a poco se incorpora la harina y el polvo para hornear."
+      },
+      {
+        "id": 5,
+        "paso": "Se puede verter la mezcla en moldes individuales o en un molde refractario grande para la tarta."
+      },
+      {
+        "id": 6,
+        "paso": "Se hornea durante 45 minutos o hasta que esté dorada."
+      },
+      {
+        "id": 7,
+        "paso": "Dejar enfriar fuera del refrigerador y servir a temperatura ambiente."
+      },
+      {
+        "id": 8,
+        "paso": "Dejar enfriar fuera del refrigerador y servir a temperatura ambiente"
+      }
+    ],
+    "image": "../../images/recipes/tarta-de-queso-blanco.webp"
+  },
+  {
+    "id": 32,
+    "date": "2017-06-12",
+    "slug": "tarta-de-peras",
+    "category": "recetas",
+    "title": "Tarta de Peras",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 240,
+    "protein": 3.9,
+    "fat": 6.3,
+    "carb": 34.7,
+    "racCarb": 0,
+    "tags": ["postre", "tarta"],
+    "ingredientes": [
+      "--- Para la masa ---",
+      "100 gr Mantequilla",
+      "1 unid Huevo",
+      "10 gr Edulcorante granulado o en polvo",
+      "1 1/2 tza Harina",
+      "1 cda Polvo de hornear",
+      "1 cda Ralladura de cáscara de naranja",
+      "2 cda Jugo de naranja",
+      "1 cda Canela y especies trituradas (anís dulce o cardamomo)",
+      "--- Para el Relleno ---",
+      "3 unid Peras en rodajas",
+      "2 unid Peras en puré",
+      "20 gr Edulcorante granulado o en polvo",
+      "1 cda Almidón de maíz",
+      "2 tza Jugo de naranja",
+      "1 cda Gelatina sin sabor en polvo",
+      "1/4 tza Agua tibia",
+      "1 cda Esencia de Vainilla"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "--- Preparar Masa ---" },
+      {
+        "id": 2,
+        "paso": "Precalentar el horno a 180º."
+      },
+      {
+        "id": 3,
+        "paso": "Batir la mantequilla y el huevo hasta que alcance un color blanco."
+      },
+      {
+        "id": 4,
+        "paso": "Incorporar la harina, el polvo para hornear, el edulcorante, la ralladura y el jugo de naranja y las especies."
+      },
+      {
+        "id": 5,
+        "paso": "Amasar y estirar, colocar la masa sobre un molde bajo."
+      },
+      {
+        "id": 6,
+        "paso": "Hornear durante 20 minutos o hasta que dore."
+      },
+      {
+        "id": 7,
+        "paso": "--- Preparar Relleno ---"
+      },
+      {
+        "id": 8,
+        "paso": "Mezclar las peras en puré con el agua tibia, la vainilla, la gelatina sin sabor y el jugo de naranja. Cocinar hasta espesar"
+      },
+      {
+        "id": 9,
+        "paso": "Colocar la mezcla sobre la masa cocida."
+      },
+      {
+        "id": 10,
+        "paso": "Cubrir con rebanadas de peras."
+      },
+      {
+        "id": 11,
+        "paso": "Hornear durante 10 minutos o hasta que las peras se doren."
+      },
+      {
+        "id": 12,
+        "paso": "Tiempo de reposo: dejar enfriar a temperatura ambiente durante 2 horas."
+      }
+    ],
+    "image": "../../images/recipes/tarta-de-peras.webp"
+  },
+  {
+    "id": 33,
+    "date": "2017-06-19",
+    "slug": "pastel-de-manzana",
+    "category": "recetas",
+    "title": "Pastel de Manzana",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 15,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 280,
+    "protein": 0,
+    "fat": 0,
+    "carb": 0,
+    "racCarb": 0,
+    "tags": ["postre", "torta"],
+    "ingredientes": [
+      "--- Para la masa ---",
+      "2 tza Harina",
+      "20 gr Edulcorante granulado o en polvo",
+      "50 gr Mantequilla",
+      "1 cda Polvo de hornear",
+      "--- Para el Relleno ---",
+      "2 unid Huevos",
+      "1 tza Leche descremada",
+      "20 gr Edulcorante en polvo o granulado",
+      "5 unid Manzanas",
+      "1 tza Mermelada de frutas sin azúcar (manzana, naranja o moras funciona bien)"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalentar el horno a 180º" },
+      {
+        "id": 2,
+        "paso": "Derretir la mantequilla e incorporarla a la harina, el polvo para hornear y agregar el edulcorante."
+      },
+      {
+        "id": 3,
+        "paso": "Formar una masa, extenderla y cubrir un molde bajo con ella."
+      },
+      {
+        "id": 4,
+        "paso": "Hornear durante 15 minutos o hasta que dore."
+      },
+      {
+        "id": 5,
+        "paso": "Mezclar los huevos con la leche descremada y el edulcorante."
+      },
+      {
+        "id": 6,
+        "paso": "Rebanar las manzanas."
+      },
+      {
+        "id": 7,
+        "paso": "Cubrir el molde con las manzanas ordenadas formando un círculo (o un cuadrado si el molde es cuadrado)."
+      },
+      {
+        "id": 8,
+        "paso": "Agregar una capa de la mezcla de leche."
+      },
+      {
+        "id": 9,
+        "paso": "Hacer otra capa de manzanas y cubrirla con un poco de mermelada sin azúcar."
+      },
+      {
+        "id": 10,
+        "paso": "Hornear durante 15 minutos o hasta que dore."
+      },
+      {
+        "id": 11,
+        "paso": "Se puede servir tibia o dejar enfriar a temperatura ambiente (no en la nevera)."
+      }
+    ],
+    "image": "../../images/recipes/pastel-de-manzana.webp"
+  },
+  {
+    "id": 34,
+    "date": "2016-11-03",
+    "slug": "enrollado-de-carne",
+    "category": "recetas",
+    "title": "Enrollado de carne",
+    "description": "",
+    "descriptionB": "Nota: en el agua de cocción del matambre puede colocarse algunos vegetales para dar mayor sabor, logrando un caldo gustoso.",
+    "preptime": 30,
+    "cooktime": 45,
+    "servings": 4,
+    "calories": 223,
+    "protein": 33.5,
+    "fat": 7,
+    "carb": 7,
+    "racCarb": 0.5,
+    "tags": ["carne"],
+    "ingredientes": [
+      "600 g Falda o matahambre de res",
+      "1  Zanahoria rallada (grande)",
+      "80 g Perejil picado",
+      "2 unid Huevos duros",
+      "40 g Queso rallado",
+      "3 dientes Ajo",
+      "1 grande Pimentón rojo",
+      "Orégano, ají molido, Vinagre, sal y pimienta."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Eliminar de la carne el exceso de grasa. Colocarlo sobre la mesada con la grasita hacia abajo."
+      },
+      {
+        "id": 2,
+        "paso": "Rociarlo con un poco de vinagre, para suavizar."
+      },
+      {
+        "id": 3,
+        "paso": "Condimentar a gusto con orégano, ají molido y provenzal (ajo y perejil picados)."
+      },
+      {
+        "id": 4,
+        "paso": "Condimentar a gusto con orégano, ají molido y provenzal (ajo y perejil picados)."
+      },
+      {
+        "id": 5,
+        "paso": "Enrollar el matambre, atarlo con hilo de cocina ajustando bien."
+      },
+      {
+        "id": 6,
+        "paso": "Cocinarlo en agua hirviendo con sal durante dos horas más o menos, hasta que quede tierno."
+      },
+      {
+        "id": 7,
+        "paso": "Retirarlo del agua de cocción y prensarlo hasta que se enfríe bien."
+      },
+      {
+        "id": 8,
+        "paso": "Retirar el hilo de atar y servir cortado en rodajas finas."
+      }
+    ],
+    "image": "../../images/recipes/enrollado-de-carne.webp"
+  },
+  {
+    "id": 35,
+    "date": "2016-10-17",
+    "slug": "espuma-de-fresas",
+    "category": "recetas",
+    "title": "Espuma de Fresas",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 45,
+    "servings": 4,
+    "calories": 105,
+    "protein": 9.6,
+    "fat": 0.5,
+    "carb": 15.4,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "½ Kg. de frutillas",
+      "300 g. de queso blanco descremado",
+      "200 g. de yogur de frutilla light",
+      "1 ½ cdas. de edulcurante para diabéticos",
+      "2 cdas. de almidón de maíz",
+      "½ litro de leche descremada."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Licuar las frutillas con el queso blanco, el yogur y edulcurante para diabéticos."
+      },
+      {
+        "id": 2,
+        "paso": "Disolver el almidón de maíz con la leche fría y cocinar hasta que espese."
+      },
+      {
+        "id": 3,
+        "paso": "Dejar enfriar, agregar al licuado y mezclar."
+      },
+      {
+        "id": 4,
+        "paso": "Verter en copas y colocar en heladera durante 2 horas antes de servir."
+      },
+      {
+        "id": 5,
+        "paso": "Decorar con 1 frutilla o 2 hojitas de menta fresca."
+      }
+    ],
+    "image": "../../images/recipes/espuma-de-fresas.webp"
+  },
+  {
+    "id": 36,
+    "date": "2016-10-17",
+    "slug": "sorbete-de-naranja",
+    "category": "recetas",
+    "title": "Sorbete de Naranja",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 60,
+    "servings": 5,
+    "calories": 132,
+    "protein": 6.9,
+    "fat": 0.2,
+    "carb": 12.3,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "1 taza de vino dulce (tipo Marsala)",
+      "2 Cdas. de jugo de naranja",
+      "1 cdita. de ralladura de naranja",
+      "Pizca de nuez moscada",
+      "1 Cda. de endulzante para diabéticos",
+      "½ lt. de yogur natural descremado"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Mezclar el vino con el jugo de naranja, ralladura, nuez moscada y endulzante para diabéticos."
+      },
+      {
+        "id": 2,
+        "paso": "Colocar en heladera tapado durante 1 hora."
+      },
+      {
+        "id": 3,
+        "paso": "Agregar el yogur bien helado y batir hasta que esté espumoso."
+      },
+      {
+        "id": 4,
+        "paso": "Verter en copas altas y conservar 3 días en refrigerador; el vino se depositará en el fondo y la crema en la parte superior."
+      },
+      {
+        "id": 5,
+        "paso": "Servir el sorbete frío sin congelar."
+      }
+    ],
+    "image": "../../images/recipes/sorbete-de-naranja.webp"
+  },
+  {
+    "id": 37,
+    "date": "2016-10-17",
+    "slug": "barritas-crunch",
+    "category": "recetas",
+    "title": "Barritas “Crunch",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 60,
+    "servings": 4,
+    "calories": 0,
+    "protein": 6.3,
+    "fat": 5.8,
+    "carb": 60,
+    "racCarb": 0,
+    "tags": ["merienda"],
+    "ingredientes": [
+      "½ taza de pasas de uva",
+      "½ taza de avena arrollada",
+      "½ taza de harina integral",
+      "½ taza de mezcla de cereales",
+      "1 cucharada de semillas de sésamo",
+      "2 nueces",
+      "2 cucharadas de endulzante en polvo para diabéticos o alternativa, 3 claras",
+      "1 naranja"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Rallamos la cáscara de la naranja y luego la pelamos totalmente."
+      },
+      {
+        "id": 2,
+        "paso": "Picamos la pulpa pelada y cocinamos todo junto a fuego suave, hasta que el jugo se reduce y empieza a caramelizar."
+      },
+      {
+        "id": 3,
+        "paso": "Mezclamos la harina, nueces picadas, avena, pasas de uva y mezcla de cereales, agregamos la naranja cocida y endulzante en polvo para diabéticos o alternativa."
+      },
+      {
+        "id": 4,
+        "paso": "Batimos las claras a nieve y las unimos a la preparación en forma envolvente."
+      },
+      {
+        "id": 5,
+        "paso": "Aceitamos apenas una placa rectangular para horno, volcamos la preparación y presionamos suavemente para alisar."
+      },
+      {
+        "id": 6,
+        "paso": "Cocinamos en horno moderado durante 15 minutos, retiramos y cortamos en forma de bastones."
+      },
+      {
+        "id": 7,
+        "paso": "Rociamos con las semillas de sésamo y cocinamos 20 minutos más en horno suave."
+      },
+      {
+        "id": 8,
+        "paso": "Retiramos, dejamos enfriar y servimos."
+      }
+    ],
+    "image": "../../images/recipes/barritas-crunch.webp"
+  },
+  {
+    "id": 38,
+    "date": "2016-10-21",
+    "slug": "ensalada-multisabores",
+    "category": "recetas",
+    "title": "Ensalada Multisabores",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 180,
+    "cooktime": 30,
+    "servings": 6,
+    "calories": 288.3,
+    "protein": 10.4,
+    "fat": 22.7,
+    "carb": 11.5,
+    "racCarb": 0.8,
+    "tags": ["ensalada"],
+    "ingredientes": [
+      "--- ENSALADA ---",
+      "500 g Remolacha",
+      "4 tazas Agua",
+      "250 g Champiñones",
+      "2 unid Limones",
+      "150 g Cebolla",
+      "3 dientes Ajo",
+      "50 g Almendras fileteadas",
+      "200 g Queso de cabra",
+      "--- VINAGRETA ---",
+      "1/3 taza Aceite de oliva",
+      "20 cc Vinagre",
+      "3 cdas Mostaza",
+      "Sal"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Cocinar la remolacha en olla a presión durante 20 ó 25 minutos. Una vez cocida, pelar dejar enfriar."
+      },
+      {
+        "id": 2,
+        "paso": "Una vez fría la remolacha cortarla en ruedas de 1/2 cm de grosor o en cuadritos."
+      },
+      {
+        "id": 3,
+        "paso": "En una bandeja de metal distribuir en forma uniforme las almendras e introducir en el horno a 200 °F para tostar por unos 10 minutos, cuide de no quemarlas"
+      },
+      {
+        "id": 4,
+        "paso": "Mezclar la remolacha con las almendras tostadas y trozos de queso de cabra picados en cubitos."
+      },
+      {
+        "id": 5,
+        "paso": "Eliminar el extremo duro de los tallos de los champiñones. Enjuagar con agua y el jugo de limón, dejar escurrir."
+      },
+      {
+        "id": 6,
+        "paso": "Cortar los tallos en forma vertical y reservar en un envase con la cebolla picada en cuadritos y los ajos machacados."
+      },
+      {
+        "id": 7,
+        "paso": "Batir los ingredientes de la vinagreta hasta emulsificar."
+      },
+      {
+        "id": 8,
+        "paso": "Mezclar la vinagreta con los champiñones, cebolla picada y ajos machacados. Se lleva a la nevera por 2 o 3 horas."
+      },
+      {
+        "id": 9,
+        "paso": "Antes de servir agregar la mezcla de las remolachas, almendras y queso de cabra"
+      }
+    ],
+    "image": "../../images/recipes/ensalada-multisabores.webp"
+  },
+  {
+    "id": 39,
+    "date": "2016-10-17",
+    "slug": "mermelada-de-manzanas",
+    "category": "recetas",
+    "title": "Mermelada de Manzanas",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 4,
+    "calories": 105,
+    "protein": 0,
+    "fat": 0,
+    "carb": 0,
+    "racCarb": 0,
+    "tags": ["merienda"],
+    "ingredientes": [
+      "½ kg. de manzanas",
+      "2 y ½ cucharadas de endulzante en polvo para diabéticos o alternativa",
+      "1 cucharada de gelatina sin sabor",
+      "1 cucharadita de ralladura de naranja",
+      "½ taza de agua"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Pelamos las manzanas, retiramos las semillas y cortamos en trozos."
+      },
+      {
+        "id": 2,
+        "paso": "Ponemos en un recipiente el agua, ralladura de naranja, las semillas (en una gasa) y las manzanas."
+      },
+      {
+        "id": 3,
+        "paso": "Cocinamos hasta que se reduce el líquido."
+      },
+      {
+        "id": 4,
+        "paso": "Retiramos el paquetito de las semillas y hacemos un puré con la fruta."
+      },
+      {
+        "id": 5,
+        "paso": "Disolvemos la gelatina en agua fría, incorporamos a la preparación y llevamos a hervor un par de minutos."
+      },
+      {
+        "id": 6,
+        "paso": "Retiramos del fuego, agregamos endulzante en polvo para diabéticos o alternativa y dejamos enfriar."
+      },
+      {
+        "id": 7,
+        "paso": "Podemos utilizarla como postre, relleno de bizcochos, para untar u otras variadas opciones."
+      }
+    ],
+    "image": "../../images/recipes/mermelada-de-manzanas.webp"
+  },
+  {
+    "id": 40,
+    "date": "2016-10-17",
+    "slug": "bocaditos-de-cafe",
+    "category": "recetas",
+    "title": "Bocaditos de Café",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 15,
+    "servings": 4,
+    "calories": 220,
+    "protein": 21,
+    "fat": 34,
+    "carb": 21.7,
+    "racCarb": 0,
+    "tags": ["postre", "merienda"],
+    "ingredientes": [
+      "1 y ½ tazas de leche en polvo descremada",
+      "2 huevos y 4 claras",
+      "2 cucharadas de endulzante en polvo para diabéticos o alternativa",
+      "1 cucharadita de canela en polvo",
+      "2 cucharaditas de café instantáneo en polvo",
+      "½ cucharadita de cacao amargo",
+      "3 gotas de esencia de almendras",
+      "1 cucharadita de polvo de hornear."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Mezclamos la leche en polvo junto con el café y el cacao."
+      },
+      {
+        "id": 2,
+        "paso": "Aparte batimos los huevos y las claras junto con las esencias y canela, endulzante en polvo para diabéticos o alternativa y polvo de hornear, hasta punto letra."
+      },
+      {
+        "id": 3,
+        "paso": "Unimos las dos preparaciones mezclando en forma envolvente."
+      },
+      {
+        "id": 4,
+        "paso": "Volcamos sobre una placa rectangular de 18 x 25 cms. previamente aceitada y cocinamos en horno moderado durante 15 minutos."
+      },
+      {
+        "id": 5,
+        "paso": "Retiramos, cortamos en rombos y ponemos en otra placa, nuevamente al horno muy suave, para que se sequen y queden crocantes."
+      }
+    ],
+    "image": "../../images/recipes/bocaditos-de-cafe.webp"
+  },
+  {
+    "id": 41,
+    "date": "2016-10-17",
+    "slug": "casi-helado-festivo",
+    "category": "recetas",
+    "title": "Casi Helado Festivo",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 40,
+    "servings": 8,
+    "calories": 162,
+    "protein": 10,
+    "fat": 5.8,
+    "carb": 17.2,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "½ kg. de ricotta, 1 huevo",
+      "4 claras",
+      "2 y ½ cucharadas de edulcurante para diabéticos",
+      "1 cucharada de ralladura de limón y naranja",
+      "1 cucharadita de canela en polvo",
+      "1 taza de fruta seca picada (pasas de uva, ciruelas o damascos)."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Batimos el huevo y las claras con edulcurante para diabéticos y la canela."
+      },
+      {
+        "id": 2,
+        "paso": "Incorporamos la ricota, ralladura y frutas picadas y mezclamos bien."
+      },
+      {
+        "id": 3,
+        "paso": "Vertemos la preparación en molde apenas aceitado y cocinamos en horno moderado durante 40 minutos."
+      },
+      {
+        "id": 4,
+        "paso": "Cuando está cuajado, lo retiramos, dejamos enfriar y luego ponemos en heladera durante 2 horas."
+      },
+      {
+        "id": 5,
+        "paso": "Servimos frío adornado con frutas y hojitas de menta o salvia."
+      }
+    ],
+    "image": "../../images/recipes/casi-helado-festivo.webp"
+  },
+  {
+    "id": 42,
+    "date": "2016-10-17",
+    "slug": "moldecitos-de-boniato",
+    "category": "recetas",
+    "title": "Moldecitos de Boniato",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 40,
+    "servings": 6,
+    "calories": 115,
+    "protein": 7.6,
+    "fat": 3.7,
+    "carb": 13.1,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "4 huevos",
+      "200 g de puré de boniato cocido",
+      "2 tazas de leche descremada",
+      "1 cucharadita de vainilla",
+      "1 cucharadita de ralladura de limón",
+      "2 cucharadas de endulzante para personas diabéticas",
+      "1 cucharada de mermelada de duraznos diet"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Lavamos bien los boniatos y cocinamos en el horno hasta que estén tiernos."
+      },
+      {
+        "id": 2,
+        "paso": "Retiramos la cáscara y hacemos puré."
+      },
+      {
+        "id": 3,
+        "paso": "Batimos apenas los huevos, incorporamos el puré y la leche."
+      },
+      {
+        "id": 4,
+        "paso": "Luego agregamos la vainilla, ralladura y endulzante para personas diabéticas."
+      },
+      {
+        "id": 5,
+        "paso": "Vertemos la preparación en moldes individuales y cocinamos a baño María en horno convencional o directamente en microondas, hasta que se cuaje."
+      },
+      {
+        "id": 6,
+        "paso": "Cuando pinchamos con la hoja de un cuchillo y sale limpia, retiramos."
+      },
+      {
+        "id": 7,
+        "paso": "Dejamos enfriar y desmoldamos."
+      },
+      {
+        "id": 8,
+        "paso": "Disolvemos la mermelada con alguna cucharada de agua hirviendo y bañamos los moldecitos desmoldados. "
+      }
+    ],
+    "image": "../../images/recipes/moldecitos-de-boniato.webp"
+  },
+  {
+    "id": 43,
+    "date": "2016-10-17",
+    "slug": "pan-de-naranja",
+    "category": "recetas",
+    "title": "Pan de Naranja",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 40,
+    "servings": 6,
+    "calories": 186,
+    "protein": 8.4,
+    "fat": 4.1,
+    "carb": 29,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "2 huevos",
+      "2 y ½ cucharadas de edulcorante para diabéticos",
+      "1 y ¼ taza de harina",
+      "1 taza de queso blanco descremado",
+      "2 cucharaditas de polvo de hornear",
+      "Vainilla",
+      "Ralladura de naranja."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Batimos los huevos con el edulcurante para diabéticos hasta formar una crema espesa."
+      },
+      {
+        "id": 2,
+        "paso": "Agregamos de a poco el queso blanco, harina, polvo de hornear y al final, vainilla y la ralladura de naranja."
+      },
+      {
+        "id": 3,
+        "paso": "Mezclamos bien y volcamos sobre molde forrado con papel manteca."
+      },
+      {
+        "id": 4,
+        "paso": "Cocinamos en horno moderado, a 200º hasta que está cocido y empieza a dorarse."
+      },
+      {
+        "id": 5,
+        "paso": "Retiramos, dejamos enfriar y saboreamos."
+      }
+    ],
+    "image": "../../images/recipes/pan-de-naranja.webp"
+  },
+  {
+    "id": 44,
+    "date": "2016-10-17",
+    "slug": "helado-canela-chocolate",
+    "category": "recetas",
+    "title": "Helado de Canela y Chocolate",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 40,
+    "servings": 4,
+    "calories": 75,
+    "protein": 4.4,
+    "fat": 2.3,
+    "carb": 9,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "300 g de helado de chocolate diet o sin azúcar",
+      "1 vasito de yogur descremado natural (185 c.c.)",
+      "2 cucharaditas de canela en polvo",
+      "pizca de nuez moscada",
+      "½ taza de agua",
+      "1 cucharada de café instantáneo",
+      "1 cucharada de endulzante para personas diabéticas",
+      "1 cucharada de chocolate en barra sin agregado de azúcar, picado."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Mezclamos el yogur con café, endulzante para personas diabéticas, nuez moscada y canela."
+      },
+      {
+        "id": 2,
+        "paso": "Ponemos el helado ya batido en un bol y le agregamos de a poco la mezcla anterior, hasta que quede una crema bien homogénea."
+      },
+      {
+        "id": 3,
+        "paso": "Volcamos la preparación en molde a gusto, tapamos y ponemos en freezer."
+      },
+      {
+        "id": 4,
+        "paso": "Lo servimos rociado con el chocolate picado por arriba."
+      }
+    ],
+    "image": "../../images/recipes/helado-canela-chocolate.webp"
+  },
+  {
+    "id": 45,
+    "date": "2016-10-17",
+    "slug": "flan-de-chocolate",
+    "category": "recetas",
+    "title": "Flan de Chocolate",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 40,
+    "servings": 12,
+    "calories": 65,
+    "protein": 5.7,
+    "fat": 2.7,
+    "carb": 4.2,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "6 huevos",
+      "1 litro de leche descremada",
+      "3 cucharadas de SUCRALIGHT POLVO",
+      "2 cucharadas de cacao",
+      "1 cucharadita de esencia de vainilla"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Mezclamos con batidor de mano los huevos con la leche, SUCRALIGHT o alternativa, cacao y vainilla."
+      },
+      {
+        "id": 2,
+        "paso": "Volcamos la preparación en budinera con tubo en el medio y cocinamos en horno moderado a baño María, o en microondas."
+      },
+      {
+        "id": 3,
+        "paso": "En ambos casos, controlamos que esté totalmente cuajado antes de retirarlo."
+      },
+      {
+        "id": 4,
+        "paso": "Se omiten los tiempos de cocción porque dependen de la temperatura de los huevos y la leche que podrían, o no, estar en la heladera."
+      },
+      {
+        "id": 5,
+        "paso": "Dejamos enfriar, ponemos en la heladera un par de horas y recién después desmoldamos."
+      }
+    ],
+    "image": "../../images/recipes/flan-de-chocolate.webp"
+  },
+  {
+    "id": 46,
+    "date": "2016-10-17",
+    "slug": "copa-caribena",
+    "category": "recetas",
+    "title": "Copa Caribeña",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 15,
+    "cooktime": 15,
+    "servings": 2,
+    "calories": 189,
+    "protein": 8.6,
+    "fat": 0.8,
+    "carb": 36.3,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "2 kiwis (160 g.)",
+      "10 frutillas (80 g.)",
+      "1 banana (125 g.)",
+      "2 Cucharadas de pasas de uva",
+      "1 taza de yogur descremado",
+      "1 cucharadita. de esencia de vainilla",
+      "1 Cucharada de endulzante para personas diabéticas."
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Pelamos y cortamos los kiwis en rodajitas." },
+      {
+        "id": 2,
+        "paso": "Pelamos la banana y cortamos en rodajas de 1 cm. de grosor."
+      },
+      {
+        "id": 3,
+        "paso": "Lavamos las frutillas con el cabo, luego se lo retiramos, damos el último enjuague y las cortamos al medio."
+      },
+      {
+        "id": 4,
+        "paso": "Mezclamos el yogur con vainilla y el endulzante para personas diabéticas y ponemos la mitad en cada una de las dos copas que preparamos."
+      },
+      {
+        "id": 5,
+        "paso": "Acomodamos encima las frutas frescas y rociamos con las pasas de uva. También podemos licuar el yogur con algunas frutillas o con duraznos y endulzamos con endulzante para personas diabéticas."
+      },
+      {
+        "id": 6,
+        "paso": "Servimos las copas bien frías con una hojita de menta fresca como decoración."
+      }
+    ],
+    "image": "../../images/recipes/copa-caribena.webp"
+  },
+  {
+    "id": 47,
+    "date": "2016-10-17",
+    "slug": "moldecitos-citricos",
+    "category": "recetas",
+    "title": "Moldecitos Citricos",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 15,
+    "cooktime": 15,
+    "servings": 4,
+    "calories": 88,
+    "protein": 12.3,
+    "fat": 0.1,
+    "carb": 9.4,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "400 g. de queso blanco",
+      "1 Cda. de gelatina sin sabor",
+      "2 Cdas. de endulzante para diabéticos",
+      "1 Cda. de ralladura de limón y naranja",
+      "2 Cdas. de pasas de uvas",
+      "4 Cdas. de copos integrales"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Espolvorear la gelatina sobre el queso blanco." },
+      {
+        "id": 2,
+        "paso": "Mezclar y agregar el endulzante para diabéticos, la ralladura, las pasas de uva y los copos."
+      },
+      {
+        "id": 3,
+        "paso": "Verter en moldecitos previamente mojados con agua fría."
+      },
+      {
+        "id": 4,
+        "paso": "Colocar en heladera dos horas, desmoldar y servir."
+      },
+      {
+        "id": 5,
+        "paso": "Conservar en heladera hasta el momento de consumir."
+      }
+    ],
+    "image": "../../images/recipes/moldecitos-citricos.webp"
+  },
+  {
+    "id": 48,
+    "date": "2016-10-17",
+    "slug": "duraznos-de-fiesta",
+    "category": "recetas",
+    "title": "Duraznos de Fiesta",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 15,
+    "cooktime": 15,
+    "servings": 4,
+    "calories": 256,
+    "protein": 6.5,
+    "fat": 0.1,
+    "carb": 13.1,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "4 duraznos frescos firmes rociados con 1 cucharada de SUCRALIGHT POLVO o alternativa",
+      "1 taza de galletitas integrales molidas",
+      "2 cucharadas de SUCRALIGHT POLVO o alternativa",
+      "½ taza de jugo de naranja",
+      "½ taza de nueces molidas",
+      "1 cucharada de ralladura de naranja."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Pelamos los duraznos, cortamos en mitades y rociamos con SUCRALIGHT."
+      },
+      {
+        "id": 2,
+        "paso": "Formamos una pasta con las galletitas, SUCRALIGHT, jugo de naranja, nueces y ralladura."
+      },
+      {
+        "id": 3,
+        "paso": "En el hueco de cada mitad de durazno ponemos una cucharadita colmada de esta preparación."
+      },
+      {
+        "id": 4,
+        "paso": "Cubrimos con film adherente y ponemos en la heladera durante dos horas."
+      },
+      {
+        "id": 5,
+        "paso": "Servimos el postre bien frío."
+      }
+    ],
+    "image": "../../images/recipes/duraznos-de-fiesta.webp"
+  },
+  {
+    "id": 49,
+    "date": "2016-10-17",
+    "slug": "semifreddo-de-ricotta",
+    "category": "recetas",
+    "title": "Semifreddo de Ricotta",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 15,
+    "cooktime": 40,
+    "servings": 4,
+    "calories": 124,
+    "protein": 9.6,
+    "fat": 5.2,
+    "carb": 9.8,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "1 huevo y 4 claras,",
+      "2 cdas. de endulzante para diabéticos",
+      "1 cdita. de esencia de vainilla",
+      "½ k. de ricota",
+      "1 cda. de ralladura de limón",
+      "½ taza de fruta deshidratada picada (pasas de uva, ciruela o damasco)."
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Batir el huevo y las claras junto con endulzante para diabéticos y vainilla."
+      },
+      {
+        "id": 2,
+        "paso": "Agregar y mezclar la ricota, la ralladura, y las frutas."
+      },
+      {
+        "id": 3,
+        "paso": "Verter en molde untado con aceite o rocío vegetal."
+      },
+      {
+        "id": 4,
+        "paso": "Cocinar en horno moderado durante 40 minutos."
+      },
+      {
+        "id": 5,
+        "paso": "Retirar cuando esté cuajado y dejar enfriar en heladera 2 horas como mínimo."
+      },
+      {
+        "id": 6,
+        "paso": "Servir frío, decorado con hojitas de menta fresca."
+      }
+    ],
+    "image": "../../images/recipes/semifreddo-de-ricotta.webp"
+  },
+  {
+    "id": 50,
+    "date": "2016-09-14",
+    "slug": "ensalada-primavera",
+    "category": "recetas",
+    "title": "Ensalada Primavera",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 15,
+    "cooktime": 10,
+    "servings": 4,
+    "calories": 480,
+    "protein": 39.1,
+    "fat": 4.9,
+    "carb": 72.5,
+    "racCarb": 4.8,
+    "tags": ["ensalada", "marisco"],
+    "ingredientes": [
+      "240 g Pasta",
+      "125 g Frijol blanco",
+      "350 g Brócoli",
+      "400 g Calabacín",
+      "500 g Camarones",
+      "25 g Queso parmesano",
+      "Sal y Pimienta"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Cocinar la pasta por 5 minutos" },
+      {
+        "id": 2,
+        "paso": "Una vez lista agregar los frijoles blancos y el brócoli, cocinar por 2 minutos."
+      },
+      {
+        "id": 3,
+        "paso": "Posteriormente incorporar el calabacín y los mariscos, dejar cocinar hasta que estén tiernas."
+      },
+      {
+        "id": 4,
+        "paso": "Servir caliente y agregar queso parmesano rallado."
+      }
+    ],
+    "image": "../../images/recipes/ensalada-primavera.webp"
+  },
+  {
+    "id": 51,
+    "date": "2016-10-17",
+    "slug": "budin-de-arroz",
+    "category": "recetas",
+    "title": "Budín de Arroz",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 30,
+    "servings": 8,
+    "calories": 233,
+    "protein": 5.5,
+    "fat": 2.1,
+    "carb": 40.7,
+    "racCarb": 0,
+    "tags": ["postre"],
+    "ingredientes": [
+      "2 tazas de arroz blanco",
+      "4 tazas de agua",
+      "1 pizca de sal",
+      "3 huevos",
+      "1 taza de vino rosado",
+      "2 ½ Cdas. de edulcorante para diabéticos"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Cocinar el arroz en con una pizca de sal." },
+      {
+        "id": 2,
+        "paso": "Agregar y mezclar los huevos batidos, el vino y el edulcurante para diabéticos."
+      },
+      {
+        "id": 3,
+        "paso": "Verter la preparación en budinera aceitada o untada con rocío vegetal."
+      },
+      {
+        "id": 4,
+        "paso": "Cocinar hasta que cuaje."
+      }
+    ],
+    "image": "../../images/recipes/budin-de-arroz.webp"
+  },
+  {
+    "id": 52,
+    "date": "2016-10-17",
+    "slug": "muffins-especias-manzanas",
+    "category": "recetas",
+    "title": "Muffins de Especias y Manzanas",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 15,
+    "servings": 15,
+    "calories": 134,
+    "protein": 3.1,
+    "fat": 6.3,
+    "carb": 15.9,
+    "racCarb": 0,
+    "tags": ["merienda"],
+    "ingredientes": [
+      "2 huevos",
+      "6 medidas de edulcurante para diabéticos",
+      "1/3 taza de aceite de maíz",
+      "1 ½ taza de manzanas verdes",
+      "¾ taza de yogurt descremado natural",
+      "1 cdita. de vainilla",
+      "1 cdita.de ralladura de limón",
+      "1 cdita.de canela pizca de nuez moscada",
+      "1 pizca de sal",
+      "1 ½ taza de harina",
+      "2 cditas.de polvo de hornear",
+      "½ cdita. de bicarbonato de sodio",
+      "1/3 taza de harina de maíz",
+      "¼ taza de almidón de maíz"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Pelar y rallar las manzanas." },
+      {
+        "id": 2,
+        "paso": "Batir los huevos, el edulcurante para diabéticos, el aceite de maíz, las manzanas, el yogurt, la vainilla, la ralladura de limón, la canela, la nuez moscada y la sal."
+      },
+      {
+        "id": 3,
+        "paso": "Mezclar la harina, el polvo de hornear, el bicarbonato de sodio, la harina de maíz y el almidón de maíz."
+      },
+      {
+        "id": 4,
+        "paso": "Agregar en el centro la preparación anterior y unir."
+      },
+      {
+        "id": 5,
+        "paso": "Aceitar o untar con rocío vegetal moldes y colocar la mezcla por cucharadas."
+      },
+      {
+        "id": 6,
+        "paso": "Hornear a 160º C durante 15 minutos."
+      }
+    ],
+    "image": "../../images/recipes/muffins-especias-manzanas.webp"
+  },
+  {
+    "id": 53,
+    "date": "2021-06-14",
+    "slug": "panquecas-de-avena",
+    "category": "recetas",
+    "title": "Panquecas de avena, fáciles y sin harina!",
+    "description": "Estas panquecas son fáciles de preparar, para que las disfrutes todos los días. Además, se hacen con cereales integrales (avena) y otros ingredientes saludables. Este desayuno te mantendrán lleno hasta la hora del almuerzo.",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 8,
+    "servings": 4,
+    "porcion-g":50,
+    "calories": 327,
+    "protein": 16,
+    "fat": 9,
+    "carb": 49,
+    "racCarb": 4.9,
+    "tags": ["desayuno"],
+    "ingredientes": [
+      "1 huevo entero", "1 taza leche de almendras natural o de vainilla", "1 taza y media harina de avena", "1 cda avena instantánea de tu preferencia", "1 pizca sal", "1 cdta de stevia", "1 pizca canela(opcional)", "1 cta polvo de hornear", "usar como medida la taza de café salen 4 panquecas medianas"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Batir el huevo con la sal, la leche y la stevia" }, { "id": 2, "paso": "Agregar la harina y la avena en hojuela la de tu preferencia, el polvo de hornear y la canela." }, { "id": 3, "paso": "Mezclar todo muy bien hasta conseguir una mezcla homogénea. Y dejen reposar unos minutos." }, { "id": 4, "paso": "En un sartén anti adherentes, le colocamos un poquito de aceite o mantequilla, solo para untarla y le ponemos la porción del producto (tan grande o pequeña quieran la panqueca) !! Dejar cocinar por ambos lados y listo" }
+
+    ],
+    "image": "../../images/recipes/panquecas-de-avena.jpg"
+  },
+  {
+    "id": 54,
+    "date": "2021-06-14",
+    "slug": "mermelada-de-arandanos",
+    "category": "recetas",
+    "title": "Simplemente la Mejor Mermelada de arándanos",
+    "description": "Saborea lo dulce del verano durante todo el año con esta receta fácil de mermelada de arándanos. Combinamos ingredientes simples para hacer una mermelada excelente para untar.",
+    "descriptionB": "",
+    "preptime": 40,
+    "cooktime": 30,
+    "servings": 20,
+    "porcion-g": 15,
+    "calories": 327,
+    "protein": 16,
+    "fat": 9,
+    "carb": 49,
+    "racCarb": 1,
+    "tags": ["desayuno", "merienda"],
+    "ingredientes": [
+      "250 gramos de arándanos",
+      "3 gramos de gelatina en polvo",
+      "5 gramos de stevia",
+      "125 mililitros de agua"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Coloca una olla al fuego y añade los arándanos, el agua y la estevia. "
+      },
+      {
+        "id": 2,
+        "paso": "Cuando rompa a hervir, cocina unos 20 minutos, hasta que comience a espesarse."
+      },
+      {
+        "id": 3,
+        "paso": "Remueve de vez en cuando para evitar que se queme. "
+      },
+      {
+        "id": 4,
+        "paso": "Agrega la gelatina en polvo, remueve y cocina otros 10 minutos."
+      },
+      {
+        "id": 5,
+        "paso": "Pasa la mermelada a un recipiente hermético para conservarla durante más tiempo."
+      }
+    ],
+    "image": "../../images/recipes/receta-foto-general.jpg"
+  },
+  {
+    "id": 55,
+    "date": "2021-06-15",
+    "slug": "tortilla-espinacas",
+    "category": "recetas",
+    "title": "Tortilla de espinacas",
+    "description": "",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 15,
+    "servings": 4,
+    "porcion-g": 150,
+    "calories": 210,
+    "protein": 12,
+    "fat": 16.25,
+    "carb": 7.25,
+    "fiber": 3,
+    "Magnesio": 63.75,
+    "VitaminaA": 781,
+    "racCarb": 0.7,
+    "tags": ["desayuno"],
+    "ingredientes": [
+      "Espinacas frescas, 400 g",
+      "1 Cebolla grande",
+      "6 Huevos",
+      "Aceite de oliva virgen extra, 2 cucharadas",
+      "Sal"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Calentar una sartén mediana" },
+      {
+        "id": 2,
+        "paso": "Agregar huevo  en un bowl y batirlo. Agregar sal y pimienta y mezclar."
+      },
+      { "id": 3, "paso": "Agregar los ingredientes adicionales." },
+      {
+        "id": 4,
+        "paso": "Mezclar bien los ingredientes agregados para que se distribuyan de manera pareja. Verter la preparación en la sartén caliente."
+      },
+      {
+        "id": 5,
+        "paso": "Cuando tome cierta consistencia es el momento de doblarla."
+      },
+      {
+        "id": 6,
+        "paso": "Doblar la tortilla al medio ayudándose con una espátula. Cocinar unos minutos de cada lado para sellar los bordes y servir."
+      }
+    ],
+    "image": "../../images/recipes/tortilla-de-espinacas.webp"
+  },
+  {
+    "id": 56,
+    "date": "2021-06-15",
+    "slug": "huevos-revueltos",
+    "category": "recetas",
+    "title": "Huevos Revueltos en Cinco Minutos",
+    "description": "Estos sabrosos huevos revueltos con espinacas es un maravilloso desayuno cetogénico (keto). La combinación de espinacas frescas, cebolla y ajo es increíble.",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 15,
+    "servings": 1,
+    "calories": 339,
+    "protein": 20,
+    "porcion-u": 1,
+    "fat": 27,
+    "carb": 4,
+    "fiber": 0,
+    "Magnesio": 23,
+    "VitaminaA": 313,
+    "racCarb": 0.4,
+    "tags": ["desayuno"],
+    "ingredientes": [
+      "1 cucharadita de aceite de oliva",
+      "1/4 cebollas, finamente picada",
+      "1 diente de ajo, finamente picado",
+      "1 huevo, batido",
+      "1 cucharada de eneldo, fresco y picado",
+      "1 pizca de sal",
+      "1 pizca de pimienta",
+      "1 taza de espinaca "
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Calienta una sartén a fuego medio." },
+      {
+        "id": 2,
+        "paso": "Agregar el aceite de oliva con la cebolla, el ajo, hasta que esté perfectamente bien cocido."
+      },
+      {
+        "id": 3,
+        "paso": "Agrega el huevo para que se cocine bien, añade el eneldo y sazona."
+      },
+      {
+        "id": 4,
+        "paso": "Retira la preparación de la sartén, sirve con Espinaca ."
+      }
+    ],
+    "image": "../../images/recipes/huevos-revueltos-espinacas.jpg"
+  },
+  {
+    "id": 57,
+    "date": "2021-06-15",
+    "slug": "panquecas-avena-zanahoria",
+    "category": "recetas",
+    "title": "Panquecas de avena y zanahoria sin Gluten",
+    "description": "Estas esponjosas y saludables panquecas se preparan sin dificultad en una licuadora. Las endulzamos con una mezcla de nuez moscada y canela.",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 10,
+    "servings": 4,
+    "porcion-u": 1,
+    "calories": 377,
+    "protein": 16,
+    "fat": 10,
+    "carb": 63,
+    "fiber": 6,
+    "Magnesio": 129,
+    "VitaminaA": 218,
+    "racCarb": 6,
+    "tags": ["desayuno", "vegetariana"],
+    "ingredientes": [
+      "1 Zanahoria grande (80g)",
+      "2 Huevos (80 g)",
+      "1 taza de leche descremada (240 ml)",
+      "1 cucharadita de stevia en polvo (6 g)",
+      "1 cucharadita de Extracto de vainilla",
+      "½ cucharadita de canela",
+      "¼  cucharadita de nuez moscada",
+      "1 ½ taza de harina de avena(192 g)",
+      "2 cdas. de avena en hojuelas (130 g)"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Lavar y rallar la zanahoria. Luego colocarla en la licuadora con la leche, los huevos, la vainilla, el stevia, la canela y nuez moscada. Procesar hasta que se integren bien todos los ingredientes."
+      },
+      {
+        "id": 2,
+        "paso": "Trasvasar a un cuenco la mezcla de la licuadora e incorporar con una varilla o con una cuchara de madera la harina, tamizándola por un colador, al mismo tiempo se revuelve para que no forme grumos."
+      },
+      {
+        "id": 3,
+        "paso": "Incorporar la avena y seguir revolviendo hasta que los copos se hayan integrado bien a la mezcla."
+      },
+      {
+        "id": 4,
+        "paso": "Cocinar en una sartén plana anti-adherente. Voltear la primera vez cuando se pueda ver que se crean las burbujas en la parte de arriba."
+      },
+      {
+        "id": 5,
+        "paso": "Servir tibias con mermelada sin azúcar o queso cottage."
+      }
+    ],
+    "image": "../../images/recipes/panquecas-avena-zanahoria.webp"
+  },
+  {
+    "id": 58,
+    "date": "2021-06-15",
+    "slug": "atun-al-ajillo",
+    "category": "recetas",
+    "title": "Medallon de Atún al Ajillo con Hierbas Finas",
+    "description": "El disfrute de un medallon de atún a la plancha no tiene que limitarse a un restaurante. Esta receta te ofrece un plato de preparación muy sencilla con un delicado y fresco sabor.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 15,
+    "servings": 4,
+    "porcion-g":90,
+    "calories": 199,
+    "protein": 24,
+    "fat": 11,
+    "carb": 2,
+    "fiber": 0,
+    "Magnesio": 2,
+    "VitaminaA": 57,
+    "racCarb": 0.2,
+    "tags": ["pescado"],
+    "ingredientes": [
+      "3 lomos de atún (aprox 420 g)",
+      "1 cabeza de ajos",
+      "1 puñado de perejil",
+      "sal y pimienta",
+      "2 cdas. de aceite de oliva"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Para hacer este atún al ajillo, lo primero que debemos hacer es retirar la piel y las espinas de este pescado. De cada rodaja, vamos a cortar 4 porciones de tamaño de bocado. Las salpimentamos para cocinarlas a continuación."
+      },
+      {
+        "id": 2,
+        "paso": "En una sartén amplia y antiadherente, ponemos un chorrito de aceite y lo calentamos a fuego fuerte. Cuando esté caliente, ponemos las porciones de pescado. Dejamos que se cocinen durante alrededor de 2 minutos por cada cara, hasta que estén doradas. "
+      },
+      {
+        "id": 3,
+        "paso": "Después, bajamos la potencia del fuego y dejamos que el pescado se cocine unos 5 minutos más. Así el atún al ajillo quedará bien cocinado en su interior. Pasado este tiempo, retiramos el atún de la sartén y reservamos las porciones en un plato."
+      },
+      {
+        "id": 4,
+        "paso": "Hecho esto, en la misma sartén, añadimos un poco más de aceite y volvemos a calentarlo. Cuando esté caliente, agregamos los dientes de ajo pelados y picados. Dejamos que se doren un poco, durante 2 minutos, removiendo de vez en cuando. "
+      },
+      {
+        "id": 5,
+        "paso": "Pasado este tiempo, añadimos también el perejil picado. Dejamos que se cocine junto con el ajo alrededor de 1 minuto, removiendo de vez en cuando. Esta mezcla es la que le dará todo el sabor al atún al ajillo."
+      },
+      {
+        "id": 6,
+        "paso": "Finalmente, devolvemos a la sartén el atún que habíamos reservado. Lo rehogamos durante 2 minutos con el resto de ingredientes, salteándolo. De este modo, los sabores se terminarán de desarrollar y mezclar."
+      },
+      {
+        "id": 7,
+        "paso": "Pasado este tiempo, lo retiramos del fuego y servimos nuestro atún al ajillo de inmediato."
+      }
+    ],
+    "image": "../../images/recipes/atun-al-ajillo.webp"
+  },
+  {
+    "id": 59,
+    "date": "2021-06-15",
+    "slug": "supremas-pollo-verduras",
+    "category": "recetas",
+    "title": "Supremas de pollo Jugosas con verduras al horno",
+    "description": "¡Unas Supremas de Pollo con verduras es una comida llena de sabor! Una combinación de verduras crujientes y pollo sazonado que no solo es saludable sino también delicioso",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 15,
+    "servings": 4,
+    "porcion-g": 260,
+    "calories": 341,
+    "protein": 31,
+    "fat": 12,
+    "carb": 32,
+    "fiber": 5,
+    "Magnesio": 70,
+    "VitaminaA": 669,
+    "racCarb": 3.2,
+    "tags": ["pollo"],
+    "ingredientes": [
+      "4 supremas de pollo (140 g c/U)",
+      "2 papas medianas",
+      "2 berenjena medianas",
+      "2 zanahorias medianas",
+      "1 pimentón mediano",
+      "1 cebolla mediana",
+      "1 cucharada de aceite de oliva",
+      "1 cucharadita de pimentón",
+      "1 cucharadita de orégano seco",
+      "1/2 cucharadita de ajo en polvo",
+      "1/2 cucharadita de sal",
+      "1/4 cucharadita de pimienta"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Precaliente el horno a 220 °C. Cubre una bandeja para hornear con papel de aluminio."
+      },
+      {
+        "id": 2,
+        "paso": "Corta las papas, berenjenas y zanahorias en rodajas, el pimentón y las cebollas en juliana, colócalos en la bandeja. "
+      },
+      {
+        "id": 3,
+        "paso": "Pon las supremas en la bandeja para hornear, rocía con aceite y frota sobre ambos lados del pollo con las especias. Tapa la bandeja con papel de aluminio."
+      },
+      {
+        "id": 4,
+        "paso": "Hornea por 30 - 40 minutos. Retira el papel de aluminio y deja dorar por 10 min."
+      }
+    ],
+    "image": "../../images/recipes/supremas-pollo-verduras.webp"
+  },
+  {
+    "id": 60,
+    "date": "2021-06-15",
+    "slug": "lentejas",
+    "category": "recetas",
+    "title": "Sopa de lentejas Vegetariana y de gran Sabor",
+    "description": "Nuestra receta de sopa de lentejas está hecha principalmente con ingredientes de la despensa, pero incluye verduras abundantes y un toque de pimenton dulce para un sabor fresco y brillante.",
+    "descriptionB": "",
+    "preptime": 15,
+    "cooktime": 60,
+    "servings": 4,
+    "porcion-g": 260,
+    "calories": 259,
+    "protein": 9,
+    "fat": 15,
+    "carb": 30,
+    "fiber": 9,
+    "Magnesio": 43,
+    "VitaminaA": 355,
+    "racCarb": 3,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "1 taza de lentejas (200 g)",
+      "1 Pimentón verde (100 g)",
+      "1 Cebolla (80 g)",
+      "1 Ajo porro (70 g)",
+      "1 Zanahoria (100 g)",
+      "1 Papa (100 g)",
+      "1 trozo de Auyama (100 g)",
+      "3 cdas. de Aceite de oliva virgen ",
+      "2 Dientes de ajo",
+      "1 hoja de Laurel",
+      "1 cda. de Sal",
+      "1 cdta de Pimentón dulce "
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Picamos en trozos menudos el ajo, la cebolla, la zanahoria, el pimiento verde y el ajo porro."
+      },
+      {
+        "id": 2,
+        "paso": "Calentamos 1 cda de aceite de oliva en una cacerola, añadimos las verduras y sofreímos a fuego bajo durante cinco minutos."
+      },
+      { "id": 3, "paso": "Sazonamos ligeramente y cocer tres minutos más." },
+      {
+        "id": 4,
+        "paso": "Añadimos las lentejas, la hoja de laurel y las papas cortadas en cubos y cocemos un par de minutos."
+      },
+      {
+        "id": 5,
+        "paso": "Cubrimos con abundante agua fría y cocemos (mejor tapadas) durante 40-50 minutos o hasta que estén tiernas."
+      },
+      {
+        "id": 6,
+        "paso": "Si se vieran muy secas, añadimos más agua durante el proceso."
+      }
+    ],
+    "image": "../../images/recipes/lentejas.webp"
+  },
+  {
+    "id": 61,
+    "date": "2021-06-15",
+    "slug": "arroz-integral-champinones",
+    "category": "recetas",
+    "title": "Arroz integral Rápido con Champiñones",
+    "description": "A veces, los acompañamientos son la mejor parte de la comida. Esta receta de arroz integral con champiñones entra definitivamente en esa categoría de excelencia.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 20,
+    "servings": 4,
+    "porcion-g": 260,
+    "calories": 290,
+    "protein": 6,
+    "fat": 11,
+    "carb": 45,
+    "fiber": 3,
+    "Magnesio": 9,
+    "VitaminaA": 1,
+    "racCarb": 4.5,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "1 taza de arroz integral (320 g)",
+      "1 cucharada aceite de oliva ",
+      "Caldo de pollo (1000 ml)",
+      "1 taza de champiñones laminados (250 g)",
+      "1 cebolla pequeña (70 g)",
+      "Sal y pimienta"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Se lavan los champiñones y se pela y pica la cebolla. Mientras se va calentando el caldo de pollo o de vegetal, como se prefiera, y se pocha la cebolla en una sartén con un poco de aceite."
+      },
+      {
+        "id": 2,
+        "paso": "Se añaden los champiñones y al cabo de dos minutos, el arroz. Se remueve todo durante tres minutos más, se echa la mitad del caldo y un poco de sal. Se deja cocer durante un cuarto de hora a fuego suave y removiendo continuamente con una cuchara de madera."
+      },
+      {
+        "id": 3,
+        "paso": "A medida que el caldo se vaya evaporando se va echando un poco más."
+      },
+      {
+        "id": 4,
+        "paso": "Cuando el arroz esté en su punto, se retira del fuego y se deja reposar durante cinco minutos antes de servir."
+      }
+    ],
+    "image": "../../images/recipes/arroz-champinones.webp"
+  },
+  {
+    "id": 62,
+    "date": "2021-06-15",
+    "slug": "sardinas-plancha",
+    "category": "recetas",
+    "title": "Sardinas, Ligeramente Sazonadas y a la Plancha",
+    "description": "Estan sardinas se sazonan ligeramente en una mezcla de sal y ajo; se cocinan en la plancha rápidamente para realzar su tierna textura. Las puedes incorporar en tus comidas con un acompañamiento rico y saludable. También se conservan bien en la nevera hasta por una semana y podrías agregarselo a una pasta integral o comerlos como tentempié.",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 6,
+    "servings": 1,
+    "porcion-g":120,
+    "calories": 254,
+    "protein": 29,
+    "fat": 15,
+    "carb": 1,
+    "fiber": 0,
+    "Magnesio": 1,
+    "VitaminaA": 16,
+    "racCarb": 0,
+    "tags": ["pescado"],
+    "ingredientes": [
+      "4 filete de sardinas (140 g)",
+      "1 diente de ajo (2 g)",
+      "1 cda. de perejil (5 g)",
+      "Jugo de  1 limón",
+      "1 cda de aceite",
+      "Sal"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Pela los dientes de ajo, córtalos, colócalos en el mortero y májalos."
+      },
+      {
+        "id": 2,
+        "paso": "Vierte el aceite en el mortero, mezcla bien y pasa a una fuente."
+      },
+      {
+        "id": 3,
+        "paso": "Sazona las sardinas con sal gruesa, pásalas por el recipiente de aceite y ajo y colócalas sobre una plancha bien caliente."
+      },
+      {
+        "id": 4,
+        "paso": "Cocínalas 3 minutos por cada lado. Sírvelas en una fuente y decora con una rama de perejil y limón"
+      }
+    ],
+    "image": "../../images/recipes/sardinas-plancha.webp"
+  },
+  {
+    "id": 63,
+    "date": "2021-06-15",
+    "slug": "ensalada-frijoles",
+    "category": "recetas",
+    "title": "Ensalada de frijoles Multicolores",
+    "description": "Esta receta de ensalada de frijoles negros es pefecta para entretener una multitud y se ha convertido en una de las recetas más populares. Es muy práctica porque puedes prepararla con anterioridad; que deberías hacerlo porque se pone más rica cuanto más tiempo reposa!",
+    "descriptionB": "NOTA: Puedes combinar el aderezo en toda la ensalada poco antes de servirlo o bien, agregar el aderezo al gusto en cada porción.",
+    "preptime": 60,
+    "cooktime": 30,
+    "servings": 4,
+    "porcion-g": 200,
+    "calories": 203,
+    "protein": 13,
+    "fat": 6,
+    "carb": 38,
+    "fiber": 14,
+    "Magnesio": 85,
+    "VitaminaA": 108,
+    "racCarb": 3.8,
+    "tags": ["ensalada", "vegetariana"],
+    "ingredientes": [
+      "--- Para el Aderezo ---",
+      "1/3 taza de jugo de limón",
+      "1/4 taza de aceite de aguacate",
+      "2 cucharadas de perejil picado",
+      "--- Para la Ensalada ---",
+      "1 taza de frijoles bayos, cocidos y sin caldo",
+      "1 taza de frijoles negros cocidos y sin caldo",
+      "1/4 taza de cebolla morada finamente picada",
+      "1/4 taza de granos de maíz tierno",
+      "1/4 taza de celery finamente picado",
+      "2 hojas de espinaca ligeramente picadas"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Para el aderezo, combinar el jugo de limón con el aceite poco a poco batiendo fuertemente con la ayuda de un batidor globo o tenedor."
+      },
+      {
+        "id": 2,
+        "paso": "En un tazón grande incorporar los frijoles, cebolla, granos de elote y apio."
+      },
+      {
+        "id": 3,
+        "paso": "Servir una cama de espinaca, encima la mezcla de la ensalada y espolvorear el perejil picado."
+      }
+    ],
+    "image": "../../images/recipes/ensalada-frijoles.webp"
+  },
+  {
+    "id": 64,
+    "date": "2021-06-15",
+    "slug": "milanesa-pollo-curry",
+    "category": "recetas",
+    "title": "Milanesa de pollo al curry",
+    "description": "Un toque indio a la clásica milanesa de pollo. El sabor es genial, dulce y picante al mismo tiempo, el curry le da un color dorado más profundo.",
+    "descriptionB": "",
+    "preptime": 60,
+    "cooktime": 30,
+    "servings": 4,
+    "porcion-g": 100,
+    "calories": 297,
+    "protein": 26,
+    "fat": 19,
+    "carb": 8,
+    "fiber": 3,
+    "Magnesio": 38,
+    "VitaminaA": 6,
+    "racCarb": 0.8,
+    "tags": ["pollo"],
+    "ingredientes": [
+      "4 milanesa de pollo troceadas (480 g)",
+      "2 cebollas medianas (100 g)",
+      "1 ajoporro (100 g)",
+      "2 cdas. de curry",
+      "2 cdas de aceite de oliva",
+      "1 cdta de sal",
+      "¾  taza de agua"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Sofreír en una sartén con aceite de oliva virgen los trozos de ajoporro y cebolla, a fuego medio y con sal por encima para que se ablanden. "
+      },
+      {
+        "id": 2,
+        "paso": "Cuando empiecen a tomar buen color, añadir el curry y removemos bien para que se mezcle con el resto de ingredientes."
+      },
+      {
+        "id": 3,
+        "paso": "Agregar los trozos de pollo y el agua, seguir cocinando a fuego medio durante unos 10 minutos."
+      }
+    ],
+    "image": "../../images/recipes/milanesa-pollo-curry.webp"
+  },
+  {
+    "id": 65,
+    "date": "2021-06-15",
+    "slug": "quinoa-cebolla",
+    "category": "recetas",
+    "title": "Quinoa con Cebolla Caramelizada",
+    "description": "Esta quinoa de cebolla caramelizada vegetariana es puro sabor, satisface, y es un excelente contorno para servir con pollo o pescado.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 25,
+    "servings": 4,
+    "porcion-g":150,
+    "calories": 166,
+    "protein": 8,
+    "fat": 8,
+    "carb": 35,
+    "fiber": 7,
+    "Magnesio": 125,
+    "VitaminaA": 0,
+    "racCarb": 3.5,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "1 taza de quinoa (200 g)",
+      "1 cebolla mediana (50 g)",
+      "2 dientes de ajo",
+      "1 cdta de aceite de oliva",
+      "2 tazas de caldo de pollo desgrasado o agua",
+      "Sal y pimienta"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Lavar con abundate agua la quinoa y reservar" },
+      {
+        "id": 2,
+        "paso": "Pica la cebolla y el ajo sofríelos en una sartén con aceite caliente. "
+      },
+      {
+        "id": 3,
+        "paso": "Cuando esté transparente, añade el caldo o agua caliente con cuidado y condimenta con sal al gusto."
+      },
+      {
+        "id": 4,
+        "paso": "Inmediatamente agrega la quinoa, revuelve y deja cocinar a fuego medio hasta que se seque, luego baja el fuego, tapa y espera 20 minutos hasta su cocción completa"
+      }
+    ],
+    "image": "../../images/recipes/quinoa-cebolla.webp"
+  },
+  {
+    "id": 66,
+    "date": "2021-06-15",
+    "slug": "crema-vegetales",
+    "category": "recetas",
+    "title": "Crema de vegetales Rápida y Fácil de preparar",
+    "description": "Esta receta es fácil de hacer, saludable y cautivadora. Ponga muchas verduras en una olla grande, agregue el agua y las hierbas. Cocine a fuego lento hasta que esté listo, licúa y listo.",
+    "descriptionB": "",
+    "preptime": 90,
+    "cooktime": 60,
+    "servings": 4,
+    "porcion-g": 200,
+    "calories": 76,
+    "protein": 3,
+    "fat": 1,
+    "carb": 18,
+    "fiber": 4,
+    "Magnesio": 8,
+    "VitaminaA": 901,
+    "racCarb": 1.8,
+    "tags": ["vegetariana", "sopa"],
+    "ingredientes": [
+      "Auyama (400 g)",
+      "Zanahoria (160 g)",
+      "Calabacín (160g)",
+      "Ajoporro (60 g)",
+      "Cebolla (60g)",
+      "Pimentón rojo (30 g)",
+      "4 dientes de Ajo (8 g)",
+      "Cilantro",
+      "Sal  y pimienta"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Pica todos los ingredientes en trozos medianos y agrégalos a la olla con agua junto a una cucharadita de sal y 1/2 de pimienta"
+      },
+      {
+        "id": 2,
+        "paso": "Tapa, y al hervir baja el fuego y cocina a fuego lento por 1 hora aproximadamente."
+      },
+      {
+        "id": 3,
+        "paso": " Cuando estén blandas las verduras y veas que están casi deshechas, licúa todo."
+      },
+      { "id": 4, "paso": "Decorar con algunas hojitas de cilantro." }
+    ],
+    "image": "../../images/recipes/crema-verduras.webp"
+  },
+  {
+    "id": 67,
+    "date": "2021-06-15",
+    "slug": "ninos-envueltos",
+    "category": "recetas",
+    "title": "Niños envueltos",
+    "description": "Ricos con los sabores del sofrito, estos sabrosos rollos de repollo blanco son irresistibles. El nombre proviene de la forma de los propios rollos de repollo, pero también puede ser por su naturaleza profundamente gratificante.",
+    "descriptionB": "",
+    "preptime": 60,
+    "cooktime": 20,
+    "servings": 4,
+    "porcion-g":200,
+    "calories": 303,
+    "protein": 25,
+    "fat": 14,
+    "carb": 25,
+    "fiber": 5,
+    "Magnesio": 35,
+    "VitaminaA": 194,
+    "racCarb": 2.5,
+    "tags": ["carne"],
+    "ingredientes": [
+      "320 g de carne molida",
+      "2 cdas de mostaza",
+      "20 g de ají dulce ",
+      "4 dientes de ajo",
+      "1 cdta de pimienta negra",
+      "600 g de repollo blanco",
+      "2 cdas de puré de tomate",
+      "½ taza de arroz blanco cocido",
+      "3 tomate perita grandes",
+      "4 cdas de queso parmesano",
+      "4 cdas de aceite",
+      "Sal"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Preparar la carne molida guisada. Calentar en un caldero el aceite de oliva. Agregar los ajos machacados, el ají dulce picadito, el puré de tomate, la mostaza y la sal. Tapar y cocinar hasta que resulte una salsa."
+      },
+      {
+        "id": 2,
+        "paso": "Añadir la carne y desmoronarla con una cuchara de madera. Dejar que se seque."
+      },
+      {
+        "id": 3,
+        "paso": "Agregar el arroz blanco cocinado. Separar las hojas del repollo y pasarlas por agua hirviendo con sal para que se ablanden y se puedan enrollar. Dejarlas enfriar."
+      },
+      {
+        "id": 4,
+        "paso": "Al estar lista la preparación de carne molida y arroz, se coloca una o dos cucharadas sobre cada hoja de repollo y se enrollan como tabaquitos: se envuelven cerrando primero los extremos. Colocarlos en un recipiente refractario."
+      },
+      {
+        "id": 5,
+        "paso": "Trocear los tomates y colocarlo junto al queso parmesano por encima de los tabaquitos. Hornearlos tapados. por 20 min."
+      }
+    ],
+    "image": "../../images/recipes/ninos-envueltos.jpg"
+  },
+  {
+    "id": 68,
+    "date": "2021-06-15",
+    "slug": "pollo-plancha",
+    "category": "recetas",
+    "title": "Pollo con Ajo y Perejil a la plancha",
+    "description": "¡La receta de pollo perfecta! Este pollo a la plancha súper rápido y fácil esta sazonado con una cubierta de ajo y perejil que será todo un éxito. Es un plato sabroso, rico en proteínas y justo lo que necesita para esos días de semana ocupados.",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 10,
+    "servings": 1,
+    "porcion-g": 120,
+    "calories": 272,
+    "protein": 28,
+    "fat": 17,
+    "carb": 3,
+    "fiber": 0,
+    "Magnesio": 34,
+    "VitaminaA": 7,
+    "racCarb": 0.3,
+    "tags": ["pollo"],
+    "ingredientes": [
+      "1 milanesa de pollo (120 g)",
+      "1 diente de ajo (2 g)",
+      "1 cda. de perejil (5 g)",
+      "1 cda de aceite",
+      "Sal"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Pela los dientes de ajo, córtalos, colócalos en el mortero y májalos."
+      },
+      {
+        "id": 2,
+        "paso": "Vierte el aceite en el mortero, mezcla bien y pasa a una fuente."
+      },
+      {
+        "id": 3,
+        "paso": "Sazona las pechugas con sal, pásalas por el recipiente de aceite y ajo y colócalas sobre una plancha bien caliente. Cocínalas 4 minutos por cada lado."
+      },
+      { "id": 4, "paso": "Sírvela con perejil picado por encima" }
+    ],
+    "image": "../../images/recipes/milanesa-pollo.webp"
+  },
+  {
+    "id": 69,
+    "date": "2021-06-15",
+    "slug": "torticas-calabacin",
+    "category": "recetas",
+    "title": "Torticas de calabacín y Avena",
+    "description": "Estas torticas de calabacin son increíblemente fáciles de hacer, bajas en calorías y la manera perfecta de incluir vegetales en tu alimentación.",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 10,
+    "servings": 1,
+    "calories": 229,
+    "protein": 13,
+    "fat": 11,
+    "carb": 25,
+    "fiber": 5,
+    "Magnesio": 29,
+    "VitaminaA": 57,
+    "racCarb": 2.5,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "1 calabacines mediano ",
+      "Media cebolla mediana",
+      "1 huevo",
+      "2 cucharadas de avena en hojuelas",
+      "50 gr de ricotta ",
+      "Sal y pimienta molida",
+      "Perejil picado"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Lavamos los calabacines y los secamos bien. Los rallamos con un rallador grueso o con un cortador de juliana."
+      },
+      {
+        "id": 2,
+        "paso": "Cortamos también en una juliana fina la cebolla. Lo mezclamos todo en un bol."
+      },
+      {
+        "id": 3,
+        "paso": "Salpimentamos y añadimos el huevo batido, avena, la ricotta y el perejil picado. También puedes hacer un batido con todos estos ingredientes y añadir a la mezcla de calabacines y cebolla."
+      },
+      {
+        "id": 4,
+        "paso": "Dejamos reposar la mezcla obtenida unos 15 minutos."
+      },
+      {
+        "id": 5,
+        "paso": "Calentamos una sartén grande o una plancha y poner varios montoncitos de masa dándoles forma con unas cucharas y aplastándolas en forma de tortita."
+      }
+    ],
+    "image": "../../images/recipes/torticas-calabacin.webp"
+  },
+  {
+    "id": 70,
+    "date": "2021-06-15",
+    "slug": "mix-lechugas",
+    "category": "recetas",
+    "title": "Ensalada de lechugas y Vegetales Verdes",
+    "description": "Prepara una ensalada con un mix que contenga variedades diferetes de lechugas y vegetales verdes. Una gran ensalada verde se adapta a casi cualquier ocasión, puede ser simple o sofisticada. Puedes variar la receta usando diferentes mezclas de lechugas y vegetales. Las hojas verdes son una buena fuente de hierro y ácido fólico (regenerantes de las células), y ayudan a evitar anemia.",
+    "descriptionB": "",
+    "preptime": 10,
+    "cooktime": 10,
+    "servings": 4,
+    "porcion-g": 200,
+    "calories": 132,
+    "protein": 2,
+    "fat": 6,
+    "carb": 23,
+    "fiber": 9,
+    "Magnesio": 18,
+    "VitaminaA": 209,
+    "racCarb": 2.3,
+    "tags": ["vegetariana", "ensalada"],
+    "ingredientes": [
+      "1 Limón, el jugo ",
+      "1 sobre de stevia ",
+      "1/4 taza Aceite de Oliva ",
+      "Sal y pimienta al gusto ",
+      "4 tazas Mix de lechugas ",
+      "1 taza Piña, en cubos ",
+      "1 taza Cebolla morada, fileteada"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Limpia y corta las lechugas, la piña, la cebolla. Vierte el aderezo y mezcla."
+      },
+      {
+        "id": 2,
+        "paso": "MEZCLA en un tazón todos los ingredientes y salpimienta"
+      }
+    ],
+    "image": "../../images/recipes/mix-lechugas.webp"
+  },
+  {
+    "id": 71,
+    "date": "2021-06-15",
+    "slug": "tiras-carne-pimenton",
+    "category": "recetas",
+    "title": "Tiras de carne con pimentón y cebolla",
+    "description": "Esta receta fácil de sartén para tiras de carne con pimenton y cebolla es bien completa, llena de sabor y exactamente lo que necesita para una cena rápida entre semana. Esta receta no solo es fácil y deliciosa, sino que también es compatible con Paleo y no contiene gluten. Seguro que será un nuevo favorito para la familia.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 20,
+    "servings": 4,
+    "porcion-g": 120,
+    "calories": 212,
+    "protein": 23,
+    "fat": 12,
+    "carb": 3,
+    "fiber": 1,
+    "Magnesio": 1,
+    "VitaminaA": 126,
+    "racCarb": 0.3,
+    "tags": ["carne"],
+    "ingredientes": [
+      "1/2 kilo de bistec cortado en tiras (del tamaño de bocado)",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada de jengibre rallado",
+      "1 pimentón verde cortado en juliana",
+      "1 pimentón rojo cortado en juliana",
+      "2 dientes de ajo picados",
+      "1 cebolla cortada en cuñas finas",
+      "Sal y pimienta"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "En una sartén grande a fuego medio, agregar una cucharada de aceite de oliva, el jengibre y cocinar por 30 segundos. "
+      },
+      {
+        "id": 2,
+        "paso": "Llevar a fuego medio-alto e incorporar la carne cortada en tiras. "
+      },
+      {
+        "id": 3,
+        "paso": "Cocinar hasta que esté dorado y ligeramente crujiente, revolviendo constantemente. Retirar de la sartén y colocar en un plato."
+      },
+      {
+        "id": 4,
+        "paso": "En la misma sartén, a fuego medio-alto, verter una cucharada de aceite de oliva, los pimentones y la cebolla. Cocinar hasta que comiencen a dorarse en los bordes, aproximadamente tres minutos. Retirar de la sartén y transferir a un plato."
+      },
+      {
+        "id": 5,
+        "paso": "Cuando los pimentones y las cebollas estén listos, retirar del fuego y servir caliente."
+      }
+    ],
+    "image": "../../images/recipes/tiras-carne-pimenton.webp"
+  },
+  {
+    "id": 72,
+    "date": "2021-06-16",
+    "slug": "pizza-avena",
+    "category": "recetas",
+    "title": "Pizza de avena, una opción sin gluten",
+    "description": "Aquí te ofrecemos una solución fácil de masa de pizza sin harina, sin gluten, con ingredientes simples, que toma minutos para preparar y no crea un desastre de harina en la cocina. Sin dejar de mencionar lo delicioso que sabe esta pizza de avena.",
+    "descriptionB": "",
+    "preptime": 50,
+    "cooktime": 30,
+    "servings": 4,
+    "porcion-g": 200,
+    "calories": 480,
+    "protein": 17,
+    "fat": 27,
+    "carb": 51,
+    "fiber": 9,
+    "Magnesio": 116,
+    "VitaminaA": 497,
+    "racCarb": 5.1,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "--- MASA ---",
+      "250 gramos de avena (molida hasta harina)",
+      "2 cucharaditas de aceite de oliva extra virgen",
+      "1/2 cucharadita (3 gr.) de sal",
+      "1 taza de agua",
+      "--- SALSA ---",
+      "400 g de tomate triturado",
+      "1 cebolla rallada",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "2 dientes de ajo, picados",
+      "½ cucharadita de sal",
+      "Una pizca de pimienta",
+      "Albahaca, una hoja",
+      "Laurel, una hoja",
+      "--- Toppins ---",
+      "200 g de hongos",
+      "140 g de pimentón rojo en tiras",
+      "160 g de queso mozzarela",
+      "100 g de espinaca"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "--- MASA ---" },
+      {
+        "id": 2,
+        "paso": "Para preparar tu pizza de avena, primero tritura las hojuelas de avena en la licuadora o en un procesador de alimentos. Tritura hasta que tenga una textura similar a la de la harina."
+      },
+      {
+        "id": 3,
+        "paso": "Vacía la harina de avena en un recipiente, agrega una pizca de sal y una cucharada de queso parmesano y mezcla para que se integren bien."
+      },
+      {
+        "id": 4,
+        "paso": "Disuelve la levadura en una taza de agua caliente, después agrégala al recipiente de la harina, mezcla y comienza a amasar hasta obtener una textura manejable."
+      },
+      {
+        "id": 5,
+        "paso": "Cuando logres una textura de masa, añade una cucharada de aceite de oliva y vuelve a amasar."
+      },
+      {
+        "id": 6,
+        "paso": "Precalienta tu horno a 200 °C por 10 minutos y extiende tu masa en un molde para pizza, asegúrate de que quede de un grosor uniforme. Después, precocina la masa en el horno por 10 minutos."
+      },
+      { "id": 7, "paso": "--- SALSA ---" },
+      {
+        "id": 8,
+        "paso": "Cortamos la cebolla en trozos finos, así como los ajos bien picados. Los ponemos a sofreír en una sartén durante un minuto junto a la hoja de laurel."
+      },
+      {
+        "id": 9,
+        "paso": "Removemos con frecuencia para evitar que el ajo se nos queme. Añadimos los ingredientes restantes una pizca de albahaca, otra de orégano, y el tomate. "
+      },
+      {
+        "id": 10,
+        "paso": "Lo ponemos a fuego lento y tapamos el recipiente. Se trata de que se cocine a fuego lento, que es como mejor sale las cosas. De vez en cuando removemos."
+      },
+      {
+        "id": 11,
+        "paso": "Armar la pizza, colocarle la salsa a la masa y los toppins, por último el queso y llevar al horno por 20 min a 200 °C"
+      }
+    ],
+    "image": "../../images/recipes/pizza-avena.webp"
+  },
+  {
+    "id": 73,
+    "date": "2021-06-16",
+    "slug": "pollo-empanizado-horno",
+    "category": "recetas",
+    "title": "Pollo empanizado al horno",
+    "description": "Una maravillosa receta de pollo al horno que es rápida, fácil, y baja en carbohidratos. Con solo unos pocos ingredientes, crea este delicioso plato principal. Sirve con ensalada o arroz para una cena rápida y deliciosa.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 10,
+    "servings": 2,
+    "porcion-g": 110,
+    "calories": 185,
+    "protein": 30,
+    "fat": 2,
+    "carb": 12,
+    "fiber": 1,
+    "Magnesio": 37,
+    "VitaminaA": 27,
+    "racCarb": 1.2,
+    "tags": ["pollo"],
+    "ingredientes": [
+      "2 milanesas de pollo",
+      "3-4 dientes ajo pequeños",
+      "1/2 limón (jugo)",
+      "1/2 cucharadita orégano seco",
+      "1/2 cucharadita pimienta",
+      "1/2 cucharadita sal",
+      "1/2 cucharadita perejil seco",
+      "1 cucharadita aceite oliva",
+      "3 cdas de harina de avena",
+      "1 huevo",
+      "3 cdas. de pan integral rallado"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Lavar bien las milanesas y dejarlas escurrir. " },
+      { "id": 2, "paso": "Machacar los ajos y sacar el jugo del limón." },
+      {
+        "id": 3,
+        "paso": "Añadirlo junto con el aceite, las especias, la sal y la pimienta en un plato plano y mezclarlo todo, dejar marinar."
+      },
+      {
+        "id": 4,
+        "paso": "Empanizar las milanesas pasándolas primero por la harina de avena, luego el huevo batido y por último el pan integral rallado, colócalos en una bandeja de horno con papel vegetal. llevar al horno a 180 °C por 10 min"
+      }
+    ],
+    "image": "../../images/recipes/pollo-empanizado-horno.webp"
+  },
+  {
+    "id": 74,
+    "date": "2021-06-16",
+    "slug": "torticas-batata",
+    "category": "recetas",
+    "title": "Torticas de Batata, saludables y sin gluten",
+    "description": "Estas torticas de batata son saludables, deliciosas y fáciles de hacer. Al no contener gluten ni lácteos son perfectas como acompañamiento en tus comidas. Prepáralas en 20 minutos y disfrútelas frescas o congélalas para otro momento.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 20,
+    "servings": 4,
+    "porcion-g": 130,
+    "calories": 358,
+    "protein": 8,
+    "fat": 15,
+    "carb": 53,
+    "fiber": 5,
+    "Magnesio": 75,
+    "VitaminaA": 74,
+    "racCarb": 5.3,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "400 g de batata",
+      "150 g o 1 taza de harina de avena",
+      "1 huevo",
+      "2 cdtas. de aceite de oliva",
+      "1 g de Sal"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Sancochar las batatas hasta ablandar, retirar del fuego y hacer un puré. Agregar el huevo, la sal y revolver"
+      },
+      {
+        "id": 2,
+        "paso": "Agregar progresivamente la harina de avena hasta obtener una masa moldeable."
+      },
+      {
+        "id": 3,
+        "paso": "Proceder a moldear las torticas (mas o menos de 50 g, pesar la masa) y llevarlas a una sartén previamente engrasada, dorar por ambos lados y servir "
+      }
+    ],
+    "image": "../../images/recipes/torticas-batata.webp"
+  },
+  {
+    "id": 75,
+    "date": "2021-06-16",
+    "slug": "hamburguesas-res",
+    "category": "recetas",
+    "title": "Hamburguesas de carne de res saludables",
+    "description": "Una receta de hamburguesas dondde mezclas la carne con sabrosas especias y las cocinas por  10 minutos. Así de fácil ¡la cena está lista!",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 10,
+    "servings": 4,
+    "porcion-g": 100,
+    "calories": 192,
+    "protein": 24,
+    "fat": 10,
+    "carb": 1,
+    "fiber": 0,
+    "Magnesio": 0,
+    "VitaminaA": 42,
+    "racCarb": 0.1,
+    "tags": ["carne"],
+    "ingredientes": [
+      "440 g de carne de res picada",
+      "½ cebolla",
+      "½ puñado de perejil fresco",
+      "1 huevo",
+      "½ cdta de Orégano",
+      "1 cdta de aceite de oliva ",
+      "Sal y pimienta negra molida "
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Para hacer las hamburguesas de res caseras deberás colocar la carne de res molida en un recipiente junto con el perejil fresco y la cebolla, bien picados."
+      },
+      {
+        "id": 2,
+        "paso": "Mezcla con una cuchara o con tus manos e incorpora el orégano, la sal y la pimienta negra molida. Continúa mezclando hasta incorporar."
+      },
+      {
+        "id": 3,
+        "paso": "Añade el huevo y amasa con tus manos para que queden bien incorporados."
+      },
+      {
+        "id": 4,
+        "paso": "Finalmente, divide la mezcla de las hamburguesas caseras en 4 porciones iguales."
+      },
+      {
+        "id": 5,
+        "paso": "Dale a cada una de las porciones la forma de una hamburguesa o ayúdate con un molde de hamburguesas y cocínalas en una sartén antiadherente por ambos lados hasta que estén bien cocidas"
+      }
+    ],
+    "image": "../../images/recipes/hamburguesa-res.webp"
+  },
+  {
+    "id": 76,
+    "date": "2021-06-16",
+    "slug": "torticas-espinacas-avena",
+    "category": "recetas",
+    "title": "Torticas de espinacas y avena",
+    "description": "Sin gluten, estas torticas de espinacas son saludables, sin azúcar refinada, y fácil de preparar. Llenas de esa rica avena que es saludable para el corazón y espinacas llenas de vitaminas. Ideal para un desayuno perfecto, divertido y sabroso para comenzar el día.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 10,
+    "servings": 2,
+    "porcion-g": 150,
+    "calories": 290,
+    "protein": 13,
+    "fat": 17,
+    "carb": 27,
+    "fiber": 6,
+    "Magnesio": 103,
+    "VitaminaA": 783,
+    "racCarb": 2.7,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "1 taza de espinacas",
+      "1/2 taza de avena en hojuelas",
+      "3 huevos",
+      "½ taza de Pimentón",
+      "½ taza de cebolla",
+      "1 cdta. de aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Limpia y corta finamente las espinacas, colócalas en un envase y agrega la avena, bate los tres huevos y agrégalos a la mezcla, sazónalo con sal y pimienta. "
+      },
+      {
+        "id": 2,
+        "paso": "En otro sartén coloca el pimentón y la cebolla a saltear con una cucharadita de aceite de oliva, agrégalo a la mezcla."
+      },
+      { "id": 3, "paso": "Hacer las torticas en una sartén antiadherente " },
+      { "id": 4, "paso": "Sirve en un plato y a comer" }
+    ],
+    "image": "../../images/recipes/torticas-espinacas-avena.webp"
+  },
+  {
+    "id": 77,
+    "date": "2021-06-16",
+    "slug": "carne-molida-canela",
+    "category": "recetas",
+    "title": "Carne molida con canela, fácil y paleo",
+    "description": "Para agregarle variedad a tu consumo de carne molida, aquí te presentamos esta receta para esos días donde tienes que prepara la cena a última hora. El truco para no aburrirte es cambiar las especias en las recetas de carne molida.",
+    "descriptionB": "",
+    "preptime": 10,
+    "cooktime": 20,
+    "servings": 4,
+    "porcion-g": 100,
+    "calories": 137,
+    "protein": 22,
+    "fat": 5,
+    "carb": 1,
+    "fiber": 0,
+    "Magnesio": 1,
+    "VitaminaA": 0,
+    "racCarb": 0.1,
+    "tags": ["carne"],
+    "ingredientes": [
+      "400 g de carne molida ",
+      "2 o 3 dientes de ajo",
+      "½ cdta de canela",
+      "½ cdta de pimienta negra",
+      " 1/cdta de sal ",
+      "1 cdta de aceite"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Coloca en un sartén el ajo a saltear con una cucharadita de aceite de oliva, agrega la carne y cocina revolviendo constantemente."
+      },
+      {
+        "id": 2,
+        "paso": "Luego agrega la canela, pimienta y la sal, deja cocinar completamente."
+      },
+      { "id": 3, "paso": "Sirve en un plato y a comer" }
+    ],
+    "image": "../../images/recipes/carne-molida-canela.webp"
+  },
+  {
+    "id": 78,
+    "date": "2021-06-16",
+    "slug": "pisillo-pollo",
+    "category": "recetas",
+    "title": "Pisillo de pollo a la Margarita",
+    "description": "Pechuga de pollo mechada pasado al sartén, tostadito, con cebolla y pimenton. Bajo en grasas, sin gluten, versátil y divina",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 30,
+    "servings": 4,
+    "porcion-g": 100,
+    "calories": 166,
+    "protein": 28,
+    "fat": 5,
+    "carb": 4,
+    "fiber": 1,
+    "Magnesio": 35,
+    "VitaminaA": 80,
+    "racCarb": 0.4,
+    "tags": ["pollo"],
+    "ingredientes": [
+      "1 pechuga de pollo entera sin piel",
+      "2 o 3 dientes de ajo",
+      "2 ajíes dulces",
+      "1 cebolla mediana",
+      "1 pimentón rojo mediano",
+      "1 atado de cilantro",
+      "1 hoja de laurel",
+      "1/cdta. de pimienta",
+      "1 cdta. de sal",
+      "1 cda de aceite de oliva"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Sancochar la pechuga de pollo con 1 ajo, mitad del cilantro y ½ aji. Puede reservar el caldo para otra preparación."
+      },
+      {
+        "id": 2,
+        "paso": "Una vez listo proceder a desmechar el pollo y reservar."
+      },
+      {
+        "id": 3,
+        "paso": "Cortar finamente ajo, cebolla, pimentón aji y saltearlos en la cda. de aceite de oliva hasta dormir los vegetales, luego agregar el laurel y el pollo, sazonar con la pimienta y la sal, cocinar por 5 min. mas."
+      },
+      { "id": 4, "paso": "Sirve en un plato y a comer" }
+    ],
+    "image": "../../images/recipes/pisillo-pollo.webp"
+  },
+  {
+    "id": 79,
+    "date": "2021-06-16",
+    "slug": "panquecas-auyama",
+    "category": "recetas",
+    "title": "Panquecas de auyama bien esponjosas",
+    "description": "Ligeras y esponjosas con bordes perfectos, estas panquecas de auyama tienen un delicioso sabor de otoño, perfectos con una taza de café caliente en una mañana fresca",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 10,
+    "servings": 4,
+    "porcion-g": 100,
+    "calories": 241,
+    "protein": 9,
+    "fat": 8,
+    "carb": 35,
+    "fiber": 2,
+    "Magnesio": 12,
+    "VitaminaA": 418,
+    "racCarb": 3.5,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "2 tazas de auyama cocida",
+      "2 huevos",
+      "¾ tazas de harina de avena",
+      "1 pizca de canela molida",
+      "1 sobre de stevia"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Lavar y pelar la auyama" },
+      {
+        "id": 2,
+        "paso": "Cocinar con poca agua hasta que ablande. Escurrir y dejar enfriar."
+      },
+      {
+        "id": 3,
+        "paso": "Licuar la auyama con el resto de los ingredientes hasta obtener una mezcla homogénea y espesa."
+      },
+      {
+        "id": 4,
+        "paso": "Colocar en una sartén antiadherente montoncitos de mezcla dándole forma de panquecas, cocinar por ambos lados"
+      },
+      { "id": 5, "paso": "Servir." }
+    ],
+    "image": "../../images/recipes/panquecas-auyama.webp"
+  },
+  {
+    "id": 80,
+    "date": "2021-06-23",
+    "slug": "arepas-platano",
+    "category": "recetas",
+    "title": "Arepas de plátano maduros, rápidas y fáciles",
+    "description": "La Arepa es uno de los alimentos más populares en Colombia y Venezuela. La arepa más común se prepara con harina de maíz precocido, sin embargo, también se puede hacer con maíz dulce fresco (choclo, mandioca (yuca) y plátanos",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 15,
+    "servings": 6,
+    "porcion-g": 150,
+    "calories": 279,
+    "protein": 4,
+    "fat": 5,
+    "carb": 56,
+    "fiber": 3,
+    "Magnesio": 6,
+    "VitaminaA": 251,
+    "racCarb": 5.6,
+    "tags": ["desayuno"],
+    "ingredientes": [
+      "2 plátanos maduros 600 g.",
+      "1 taza de harina de maíz precocida 145 g.",
+      "1 taza de leche 240 ml",
+      "2 cucharadas de mantequilla derretida",
+      "Una pizca de sal",
+      "1 cda. de aceite para el budare o sartén"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Lave bien los plátanos. Corte un centímetro de cada extremo, y con un cuchillo afilado, haga un corte, o una línea en la concha del plátano, pero sin pelarlos. Solo debe cortar ligeramente la concha para facilitar la cocción."
+      },
+      {
+        "id": 2,
+        "paso": "Coloque los plátanos en una olla con abundante agua y se lleva a la ebullición, se cocinan por unos 15-20 minutos o hasta que este suaves y cocidos por dentro."
+      },
+      {
+        "id": 3,
+        "paso": "Cuando estén tibios, pero pueda tocar los plátanos. Quítele la concha, y ábralos por la mitad de forma transversal. Extraiga las venas y las semillas."
+      },
+      { "id": 4, "paso": "Tritúrelos hasta convertirlos en puré" },
+      {
+        "id": 5,
+        "paso": "Coloque el puré dentro de un bol, y agregue la leche. Amase con sus manos, hasta obtener una masa suave y pegajosa. Entonces agregue la harina de maíz poco a poco, hasta obtener una masa totalmente homogénea."
+      },
+      { "id": 6, "paso": "Separe la masa en 6 porciones de similar tamaño." },
+      {
+        "id": 7,
+        "paso": "Haga cinco a seis esferas, bien redonditas, y luego aplánelas cuidadosamente entre las palmas de sus manos."
+      },
+      { "id": 8, "paso": "Lleve a cocción en un budare o sartén hasta dorar" }
+    ],
+    "image": "../../images/recipes/arepas-platano.webp"
+  },
+  {
+    "id": 81,
+    "date": "2021-06-23",
+    "slug": "pan-cambur",
+    "category": "recetas",
+    "title": "Pan de cambur con Avena y sin Harina  ",
+    "description": "Esta pan de cambur/plátano es similar al original: rico, dulce, abundante y perfecto para el desayuno, pero sin gluten gracias a la avena. Tiene una dulzura natural que le aporta el cambur.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 15,
+    "servings": 10,
+    "calories": 253,
+    "protein": 5,
+    "fat": 16,
+    "carb": 28,
+    "fiber": 4,
+    "Magnesio": 45,
+    "VitaminaA": 31,
+    "racCarb": 2.8,
+    "tags": ["desayuno"],
+    "ingredientes": [
+      "2 tazas avena",
+      "1 cda de stevia",
+      "2 cucharaditas polvo para hornear",
+      "3 bananas",
+      "1/2 taza aceite",
+      "2 huevos",
+      "1 chorrito esencia de vainilla"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Pisar las bananas. Agregar el aceite y los huevos y mezclar"
+      },
+      { "id": 2, "paso": "En otro bowl, mezclar los secos" },
+      {
+        "id": 3,
+        "paso": "Agregar la mezcla de las bananas a la de secos y mezclar hasta tener una masa homogénea"
+      },
+      {
+        "id": 4,
+        "paso": "Llevar a horno previamente precalentado a 180º por 20-25 minutos"
+      }
+    ],
+    "image": "../../images/recipes/pan-cambur.jpg"
+  },
+  {
+    "id": 82,
+    "date": "2021-06-23",
+    "slug": "muffin-auyama",  
+    "category": "recetas",
+    "title": "Como hacer un Muffin de auyama perfecto",
+    "description": "Estos muffins de auyama suaves y tiernos se preparan en solo unos minutos y se mantienen suaves ¡durante días! Son perfectamente dulces y, por supuesto, con mucho sabor a calabaza.",
+    "descriptionB": "",
+    "preptime": 10,
+    "cooktime": 25,
+    "servings": 10,
+    "porcion-g": 70,
+    "calories": 136,
+    "protein": 4,
+    "fat": 7,
+    "carb": 16,
+    "fiber": 2,
+    "Magnesio": 28,
+    "VitaminaA": 143,
+    "racCarb": 1.6,
+    "tags": ["desayuno"],
+    "ingredientes": [
+      "250 g calabaza asada",
+      "180 g harina integral (de trigo, espelta o avena)",
+      "2 huevos",
+      "50 g aceite de coco",
+      "120 ml leche",
+      "1 cucharadita bicarbonato sódico",
+      "1 cucharadita aroma de vainilla",
+      "1 cucharadita canela",
+      "1/2 cucharadita jengibre",
+      "1/2 cucharadita nuez moscada",
+      "1 pizca sal"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Precalienta el horno a 180 ºC." },
+      {
+        "id": 2,
+        "paso": "En una picadora, tritura la calabaza, el aceite de coco y los huevos. Añade la leche y la vainilla y vuelve a triturar."
+      },
+      {
+        "id": 3,
+        "paso": "En un bol grande, mezcla la harina, el bicarbonato, la sal y las especias. Vierte en el bol el contenido de la batidora y mezcla hasta que quede homogéneo."
+      },
+      {
+        "id": 4,
+        "paso": "Engrasa un molde de magdalenas (o coloca en él las cápsulas de papel) y reparte la masa en 10 huecos. Hornea entre 20 y 25 minutos."
+      }
+    ],
+    "image": "../../images/recipes/muffin-auyama.webp"
+  },
+  {
+    "id": 83,
+    "date": "2021-06-23",
+    "slug": "poke-salmon",
+    "category": "recetas",
+    "title": "Poke de salmón hawaiano, sin Gluten",
+    "description": "El poke de salmón, originario de Hawaii, es una comida perfecta que es fácil de preparar y está repleta de nutrientes. La receta utiliza una salsa extra aromática que tiene el equilibrio adecuado entre salado, agrio, dulce y picante. El plato es lo suficientemente rápido como para preparar una cena de lunes a viernes y lo suficientemente elegante como para servirlo en su cena de fin de semana. Esta receta ha sido adaptada para no tener gluten.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 20,
+    "servings": 1,
+    "porcion-g": 300,
+    "calories": 455,
+    "protein": 24,
+    "fat": 14,
+    "carb": 62,
+    "fiber": 7,
+    "Magnesio": 44,
+    "VitaminaA": 56,
+    "racCarb": 6.2,
+    "tags": ["pescado"],
+    "ingredientes": [
+      "Salmón 90 g",
+      "Wakame 20 g",
+      "1 taza de arroz integral cocido",
+      "1 Cebolla pequeña",
+      "Repollo blanco, 1 4 de taza",
+      "Aguacate 50 g",
+      "Chips de batata 20 g",
+      "Piña 50 g",
+      " 1 cdta de soya",
+      "1 cdta de salsa de anguila sin azúcar"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Hacer el arroz, solo condimentar con sal" },
+      { "id": 2, "paso": "Pasar el salmón por la plancha para cocinar" },
+      {
+        "id": 3,
+        "paso": "Cortar la cebolla, el repollo, el aguacate y la piña en cubos"
+      },
+      {
+        "id": 4,
+        "paso": "Colocar el arroz como una cama y encima colocar el salmón y los demás ingredientes ya cortados, agregar también el wakame y los chips de batata."
+      },
+      {
+        "id": 5,
+        "paso": "Por último, agregar la salsa soya, la de anguila y mezclar todo los ingredientes uniformemente"
+      }
+    ],
+    "image": "../../images/recipes/poke-salmon.webp"
+  },
+  {
+    "id": 84,
+    "date": "2021-07-01",
+    "slug": "salsa-bolognesa",
+    "category": "recetas",
+    "title": "Salsa Bolognesa Clásica",
+    "description": "Una salsa boloñesa clásica debería estar en el repertorio de todo cocinero casero. Esta versión es suave, rica, abundante y cocinada a fuego lento durante horas para un sabor a la perfección. La esencia misma de la comida casera italiana.",
+    "descriptionB": "",
+    "preptime": 90,
+    "cooktime": 60,
+    "servings": 4,
+    "calories": 278,
+    "protein": 20,
+    "fat": 17,
+    "carb": 15,
+    "fiber": 4,
+    "Magnesio": 17,
+    "VitaminaA": 704,
+    "racCarb": 1.5,
+    "tags": ["carne"],
+    "ingredientes": [
+      "1 pizca de sal",
+      "1 pizca de pimienta",
+      "½ kg de carne magra molida ",
+      "1 zanahoria grande, pelada y picada en procesador",
+      "1 cebolla blanca cabezona picada diminuta",
+      "1 pimiento verde picado diminuto",
+      "1 pizca de tomillo",
+      "1 taza de pasta de tomate",
+      "1 cucharadas soperas de aceite de oliva",
+      "1 pizca de laurel",
+      "1 pimiento rojo picado finamente"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Empezaremos esta receta de salsa bolognesa casera poniendo una olla con aceite a fuego alto. Agregamos la cebolla junto con los pimientos y dejamos dorar. "
+      },
+      {
+        "id": 2,
+        "paso": "Seguidamente, agregamos la carne molida al sofrito de la bolognesa y seguimos removiendo constantemente hasta que se cocine. En este momento a nosotros nos gusta añadir la pimienta molida al gusto."
+      },
+      {
+        "id": 3,
+        "paso": "Cuando la carne ya esté hecha, añadimos la zanahoria e inmediatamente la pasta de tomate junto con agua, tomillo y laurel. Dejamos reducir la salsa. Recuerda cocinar la salsa bolognesa a fuego lento, de esta forma todo se cocinará poco a poco, desprendiendo los sabores."
+      },
+      {
+        "id": 4,
+        "paso": "El punto final a la hora de saber cómo hacer salsa bolognesa es dejarla reposar después de todo este proceso durante unos 20 minutos. ¡Y ya está lista la salsa bolognesa! Puedes servirla encima de la pasta cocinada al dente. Deliciosa y fácil de hacer."
+      }
+    ],
+    "image": "../../images/recipes/salsa-bolognesa.webp"
+  },
+  {
+    "id": 85,
+    "date": "2021-07-01",
+    "slug": "berenjenas-fileto",
+    "category": "recetas",
+    "title": "Berenjenas Fileto con Tomate, Vegetarianas y Deliciosas",
+    "description": "Este sencilla plato de berenjena y tomate es delicioso, hecho con berenjenas en cubitos guisadas con tomates, ajo y cebolla. Me encanta que se sirva sobre pasta, pero también es excelente sobre fideos de calabacín, polenta o como merienda sola..",
+    "descriptionB": "",
+    "preptime": 90,
+    "cooktime": 60,
+    "servings": 1,
+    "porcion-g": 200, 
+    "calories": 218,
+    "protein": 4.53,
+    "fat": 16.32,
+    "carb": 20.39,
+    "fiber": 7.3,
+    "Magnesio": 26.25,
+    "VitaminaA": 274.35,
+    "racCarb": 2,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "½ berenjena",
+      "2 tomate perita",
+      "2 cdas de puré de tomate",
+      "1 cda de aceite de oliva",
+      "1 diente de ajo",
+      "1 cebolla pequeña",
+      "1 pizca de sal ",
+      "1 hoja de laurel",
+      "1 pizca de pimienta negra",
+      "2 hojas de albahaca",
+      "1 pizca de orégano",
+      "1 sobre de stevia"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Escaldar los tomates para pelarlos, retirar la piel, cortarlos por la mitad y retirar las semillas, cortar en cubitos y reservar. Picar la cebolla y los ajos, reservar."
+      },
+      {
+        "id": 2,
+        "paso": "En una olla poner el aceite con la cebolla y el laurel, freír. Cuando la cebolla este transparente agregar los ajos y dejar unos minutos revolviendo. Agregar el tomate y el puré y dejar que se cocine a fuego lento por 45 minutos."
+      },
+      {
+        "id": 3,
+        "paso": "Cortar la berenjena en cubos pequeños y agregarla a la salsa"
+      },
+      {
+        "id": 4,
+        "paso": "Condimentamos a gusto, agregar la albahaca y el orégano. Probar y si esta un poquito acida agregar la stevia."
+      }
+    ],
+    "image": "../../images/recipes/berenjenas-fileto.webp"
+  },
+  {
+    "id": 86,
+    "date": "2021-07-01",
+    "slug": "pollo-plancha-mostaza",
+    "category": "recetas",
+    "title": "Pollo a la plancha con mostaza",
+    "description": "En esta comida de sartén, las pechugas de pollo cubiertas de mostaza se marinan sobre una cama de cebollas y ajo. Déspues de un hora, se cocinan a fuego medio para que resulte en unas pechugas jugosas que conservan todos los ricos sabores de los ingredientes.",
+    "descriptionB": "",
+    "preptime": 60,
+    "cooktime": 20,
+    "servings": 2,
+    "porcion-g": 140,
+    "calories": 316,
+    "protein": 24,
+    "fat": 20,
+    "carb": 12,
+    "fiber": 1,
+    "Magnesio": 73,
+    "VitaminaA": 83,
+    "racCarb": 1.2,
+    "tags": ["pollo"],
+    "ingredientes": [
+      "2 pechugas de pollo, aplanadas",
+      "1 taza de mostaza Dijon",
+      "1/2 cebolla blanca",
+      "1 ajo",
+      "sal, al gusto",
+      "pimientas, al gusto"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Cortar la cebolla en juliana, picar el ajo finamente y poner en un refractario."
+      },
+      {
+        "id": 2,
+        "paso": "Untar la mostaza a las pechugas en su totalidad por ambos lados."
+      },
+      {
+        "id": 3,
+        "paso": "Agregar sal y pimienta y ponerlas en el mismo refractario junto con la cebolla y el ajo. Tapar y dejar marinar por 1 hora."
+      },
+      {
+        "id": 4,
+        "paso": "Pasada la hora, cocinar las pechugas en una sartén incluyendo el marinado a fuego medio hasta que estén bien cocidas."
+      }
+    ],
+    "image": "../../images/recipes/pollo-plancha-mostaza.webp"
+  },
+  {
+    "id": 87,
+    "date": "2021-07-01",
+    "slug": "arroz-integral-zanahorias",
+    "category": "recetas",
+    "title": "Arroz integral con zanahorias simple y reconfortante",
+    "description": "Este es un pilaf muy simple y reconfortante. Además de los flavonoides y las vitaminas, las zanahorias aportan un rico sabor dulce que se complementa maravillosamente con el caldo de pollo",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 20,
+    "servings": 4,
+    "porcion-g": 150,
+    "calories": 247,
+    "protein": 5,
+    "fat": 6,
+    "carb": 47,
+    "fiber": 3,
+    "Magnesio": 10,
+    "VitaminaA": 426,
+    "racCarb": 4.7,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "1 taza de arroz integral (220 g)",
+      "1 cucharada aceite de oliva ",
+      "Caldo de pollo (1000 ml)",
+      "1 taza de zanahoria rallada",
+      "1 cebolla pequeña (70 g)",
+      "Sal y pimienta"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Se rallan las zanahorias y se pela y pica la cebolla. Mientras se va calentando el caldo de pollo o de vegetal, como se prefiera, y se pocha la cebolla en una sartén con un poco de aceite."
+      },
+      {
+        "id": 2,
+        "paso": "Se añaden las zanahorias y al cabo de dos minutos, el arroz. Se remueve todo durante tres minutos más, se echa la mitad del caldo y un poco de sal. Se deja cocer durante un cuarto de hora a fuego suave y removiendo continuamente con una cuchara de madera."
+      },
+      {
+        "id": 3,
+        "paso": "A medida que el caldo se vaya evaporando se va echando un poco más."
+      },
+      {
+        "id": 4,
+        "paso": "Cuando el arroz esté en su punto, se retira del fuego y se deja reposar durante cinco minutos antes de servir."
+      }
+    ],
+    "image": "../../images/recipes/arroz-integral-zanahorias.webp"
+  },
+  {
+    "id": 88,
+    "date": "2021-07-01",
+    "slug": "churrasco-atun",
+    "category": "recetas",
+    "title": "Churrasco de atún a la plancha con limón y hierbas",
+    "description": "Este plato de atún con hierbas y limón es una comida audaz y sabrosa para preparar a la plancha. ¡Y necesitas menos de 10 minutos para tenerlo listo!",
+    "descriptionB": "",
+    "preptime": 5,
+    "cooktime": 6,
+    "servings": 2,
+    "porcion-g": 130,
+    "calories": 295,
+    "protein": 37,
+    "fat": 16,
+    "carb": 1,
+    "fiber": 0,
+    "Magnesio": 1,
+    "VitaminaA": 66,
+    "racCarb": 0.1,
+    "tags": ["pescado"],
+    "ingredientes": [
+      "2 lomos de atún",
+      "2 dientes de ajo",
+      "Zumo de medio limón",
+      "3 cucharadas de aceite de oliva",
+      "perejil fresco al gusto",
+      "sal y pimienta al gusto"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Trituramos bien los ajos y lo mezclamos con el zumo de limón y 1 cucharada de aceite en un recipiente, mezclamos muy bien para que se integren y dejamos reposar por unos 10 o 15 minutos para que se intensifique el sabor."
+      },
+      {
+        "id": 2,
+        "paso": "Luego con una brocha untamos esta mezcla por ambos lados de los lomos de atún y salpimentamos al gusto."
+      },
+      {
+        "id": 3,
+        "paso": "Calentamos la plancha y con la temperatura media alta dispersamos las restantes cucharadas de aceite, cuando esté caliente colocamos los lomos de atún y cocinamos por 3 minutos, le damos la vuelta y cocinamos por otros 3 minutos."
+      },
+      {
+        "id": 4,
+        "paso": "Retiramos y servimos con el perejil fresco finamente picado por toda la superficie."
+      }
+    ],
+    "image": "../../images/recipes/churrasco-atun.webp"
+  },
+  {
+    "id": 89,
+    "date": "2021-07-01",
+    "slug": "pasta-calabacin",
+    "category": "recetas",
+    "title": "Pasta de fideos de calabacín con parmesano y ajo, sin remordimiento",
+    "description": "Nuestra receta favorita para cocinar fideos de calabacín. Puedes preparar esta receta super rápido y disfrutar de una combinación simple de ingredietes naturales. Baja en carbohidratos, cetogénica y vegetariana",
+    "descriptionB": "",
+    "preptime": 5,
+    "cooktime": 6,
+    "servings": 2,
+    "porcion-g": 200,
+    "calories": 182,
+    "protein": 10,
+    "fat": 14,
+    "carb": 8,
+    "fiber": 3,
+    "Magnesio": 6,
+    "VitaminaA": 30,
+    "racCarb": 0.8,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "1 calabacín",
+      "2 dientes de ajo, aplastados",
+      "2 cucharaditas de aceite de oliva",
+      "Sal",
+      "Pimienta Negra",
+      "2 cucharadas de agua",
+      "1 cda de queso parmesano rallado"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Cortar los calabacines en largas cintas, usando una mandolina o un cuchillo. Cortar la cinta a lo largo, para que queden fettucinis como hebras."
+      },
+      {
+        "id": 2,
+        "paso": "Calentar una sartén a fuego mediano-alto hasta que esté caliente. Añadir 1 cucharadita de aceite y el ajo machacado. Añadir las hebras de calabacín y revolver. Añadir la sal y pimienta negra al gusto. Añadir 2 cucharadas de agua y remover un par de minutos o hasta que el calabacín esté -al dente-."
+      },
+      {
+        "id": 3,
+        "paso": "Retirar a un plato con queso parmesano rallado y servir."
+      }
+    ],
+    "image": "../../images/recipes/pasta-calabacin.webp"
+  },
+  {
+    "id": 90,
+    "date": "2021-07-01",
+    "slug": "pollo-jengibre",
+    "category": "recetas",
+    "title": "Filet de pollo con jengibre y Soja",
+    "description": "El marinado como el método de cocción the permite disfrutar de un pollo tostado,  picante y jugoso. Para que disfrutes igualmente por sí solo, estilo taco, y con un acompañamiento rico.",
+    "descriptionB": "",
+    "preptime": 15,
+    "cooktime": 15,
+    "servings": 4,
+    "porcion-g": 120,
+    "calories": 259,
+    "protein": 28,
+    "fat": 16,
+    "carb": 62,
+    "fiber": 7,
+    "Magnesio": 34,
+    "VitaminaA": 7,
+    "racCarb": 0,
+    "tags": ["pollo"],
+    "ingredientes": [
+      "8 filetes de pechuga de pollo",
+      "1 vaso de caldo de pollo",
+      "40 ml de salsa de soja",
+      "2 cucharadas de vinagre",
+      "1 cucharada de jengibre rallado, o bien, de jengibre seco",
+      "1 sobre de stevia",
+      "Aceite de oliva virgen extra",
+      "Pimienta negra recién molida",
+      "Sal"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Salpimentar las pechugas" },
+      { "id": 2, "paso": "Mezclar la salsa de soja, el azúcar y el jengibre" },
+      { "id": 3, "paso": "Marinar las pechugas" },
+      { "id": 4, "paso": "Cocinar las pechugas escurridas en la sartén" },
+      { "id": 5, "paso": "Reducir el marinado junto al caldo y el vinagre" },
+      { "id": 6, "paso": "Servir acompañado de la guarnición elegida" }
+    ],
+    "image": "../../images/recipes/pollo-jengibre.webp"
+  },
+  {
+    "id": 91,
+    "date": "2021-07-01",
+    "slug": "roast-beef",
+    "category": "recetas",
+    "title": "Roast beef a la Provenzal",
+    "description": "Esta version provenzal de la receta clásica de Roast Beef se puede preparar con asado de lomo, asado redondo o solomillo. El asado a fuego lento hace magia en cortes de carne más duros y proporciona una receta tierna que te encantará.",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 15,
+    "servings": 8,
+    "porcion-g": 120,
+    "calories": 289,
+    "protein": 20,
+    "fat": 22,
+    "carb": 4,
+    "fiber": 0,
+    "Magnesio": 25,
+    "VitaminaA": 40,
+    "racCarb": 0,
+    "tags": ["carne"],
+    "ingredientes": [
+      "1 lomo de ternera de 1 kg.",
+      "Hilo para bridar",
+      "Hierbas provenzales (tomillo, mejorana, orégano, romero, albahaca, hinojo, estragón, laurel)",
+      "1 taza de mostaza de dijon",
+      "Sal",
+      "Pimienta"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Comenzamos bridando la pieza de carne. Si tiene una forma normal no hará falta. "
+      },
+      {
+        "id": 2,
+        "paso": "Salpimentamos y sellamos a fuego fuerte en una sartén. Que todas las zonas queden selladas"
+      },
+      {
+        "id": 3,
+        "paso": "Mezclamos la mostaza con las hierbas e impregnamos toda nuestra pieza de carne de la mezcla. Introducimos al horno a 170º por 15 min aproximadamente"
+      }
+    ],
+    "image": "../../images/recipes/roast-beef.webp"
+  },
+  {
+    "id": 92,
+    "date": "2021-07-01",
+    "slug": "bistec-plancha",
+    "category": "recetas",
+    "title": "Bistec a la plancha",
+    "description": "Esta receta de bistec está hecha con ingredientes simples y se cocina con una técnica muy sencilla. Cocina este bistec dorado, crujiente, jugoso y tierno que se derrite en la boca.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 25,
+    "servings": 2,
+    "porcion-g": 110,
+    "calories": 181,
+    "protein": 26,
+    "fat": 8,
+    "carb": 1,
+    "fiber": 0,
+    "Magnesio": 1,
+    "VitaminaA": 0,
+    "racCarb": 0,
+    "tags": ["carne"],
+    "ingredientes": [
+      "2 filetes de un buen corte de carne suave puede ser solomo u churrasco de 120 g aproximadamente",
+      "2 cucharadas de aceite de oliva o maíz",
+      "Sal",
+      "Ajo",
+      "Pimienta",
+      "1 cdta de salsa inglesa"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Lo primero antes de preparar, debemos sazonar la carne con todos los aliños y colocarlo a macerar con la salsa inglesa, por lo menos una media hora antes de cocer."
+      },
+      {
+        "id": 2,
+        "paso": "Luego colocamos la plancha o la sartén en fuego medio, cuando esté caliente añadimos un chorito minimo de aceite y colocamos los filetes a cocinar."
+      },
+      {
+        "id": 3,
+        "paso": "Debemos vigilar que doren bien sin llegar a resecarse, por eso no debemos subir mucho la llama."
+      }
+    ],
+    "image": "../../images/recipes/bistec-plancha.webp"
+  },
+  {
+    "id": 93,
+    "date": "2021-07-01",
+    "slug": "hamburguesas-pavo",
+    "category": "recetas",
+    "title": "Hamburguesas de pavo",
+    "description": "Todos anhelamos hamburguesas semanalmente, no hay duda al respecto. Pero, como adultos, sabemos instintivamente que no deberíamos complacernos con esos antojos semanales. Te presentamos la hamburguesa de pavo, esta receta fácil es saludable y satisface nuestro antojo sin la culpa de la carne roja.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 10,
+    "servings": 4,
+    "porcion-g": 120,
+    "calories": 178,
+    "protein": 19,
+    "fat": 7,
+    "carb": 10,
+    "fiber": 1,
+    "Magnesio": 3,
+    "VitaminaA": 66,
+    "racCarb": 1,
+    "tags": ["carne"],
+    "ingredientes": [
+      "440 gramos de pechuga de pavo molida",
+      "Una cebolla mediana",
+      "Cuatro dientes de ajo",
+      "Dos cucharadas de salsa de soja",
+      "Tres cucharadas de pan rallado integral",
+      "Un huevo grande",
+      "Perejil fresco",
+      "Pimienta negra molida",
+      "Sal",
+      "Una cda. de aceite de oliva virgen"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Colocar el pavo en un bol amplio, la salpimentamos bien y removemos bien para mezclar. "
+      },
+      {
+        "id": 2,
+        "paso": "Después pelamos los dientes de ajo y la cebolla, lavamos unas ramitas de perejil fresco y lo picamos todo bien en la picadora o con el cuchillo, dejándolo bien picadito. "
+      },
+      {
+        "id": 3,
+        "paso": "Añadiremos el huevo batido, la salsa de soja y las tres cucharadas de pan rallado, y removemos bien para que se mezclen todos los ingredientes y se vaya formando una masa compacta y de aspecto homogéneo. "
+      },
+      {
+        "id": 4,
+        "paso": "Metemos esta masa resultante en la nevera al menos una horita, para que tome consistencia y los sabores se potencien."
+      },
+      {
+        "id": 5,
+        "paso": "Tras este tiempo vamos a hacer ya las hamburguesas de pavo, dividiendo la masa en 4 bolas de tamaño más o menos igual. "
+      },
+      {
+        "id": 6,
+        "paso": "Las pasamos por una plancha o sartén con un poquito de aceite de oliva virgen caliente, de forma que queden muy doraditas por fuera y por dentro queden bien hechas. Es mejor hacerlas a fuego medio, ya que la carne de pavo necesita de una buena cocción para no quedar cruda."
+      }
+    ],
+    "image": "../../images/recipes/hamburguesas-pavo.webp"
+  },
+  {
+    "id": 94,
+    "date": "2021-07-01",
+    "slug": "muffin-brocoli",
+    "category": "recetas",
+    "title": "Muffin de brócoli",
+    "description": "Estos muffins de brócoli y queso son ligeros, húmedos y maravillosamente esponjosos por dentro con la parte de afuera crujiente. Rellenos de queso derretido y el toque ligero crujiente del brócoli. Son deliciosos si se comen calientes con mantequilla para el desayuno, o como acompañante.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 20,
+    "servings": 4,
+    "porcion-g": 180,
+    "calories": 291,
+    "protein": 18,
+    "fat": 22,
+    "carb": 9,
+    "fiber": 4,
+    "Magnesio": 25,
+    "VitaminaA": 516,
+    "racCarb": 0.9,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "3 tazas de brócoli",
+      "6 huevos",
+      "120 gramos de queso rallado",
+      "½ cebolla picada",
+      "1 diente de ajo",
+      "Sal y pimienta",
+      "1 cucharada de aceite de oliva virgen"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Precalentar el horno a 180 grados y preparar un molde para muffins untado con un poco de mantequilla. Picar bien fino el ajo y la cebolla. "
+      },
+      {
+        "id": 2,
+        "paso": "Preparar una sartén antiadherente con aceite de oliva. Sofreír el ajo y la cebolla durante dos minutos a fuego medio."
+      },
+      {
+        "id": 3,
+        "paso": "Mientras lavamos el brócoli y lo colocamos en un recipiente apto para el microondas junto a dos cucharadas de agua. Tapamos con papel film, hacemos unos cuantos agujeros en el papel."
+      },
+      {
+        "id": 4,
+        "paso": "Programamos 4 minutos a máxima potencia. El brócoli no estará hecho del todo, pero nos facilitará que quede bien tierno en la fase de horneado. Dejarlo reposar y cortarlos en trocitos pequeños."
+      },
+      {
+        "id": 5,
+        "paso": "En un recipiente batimos los huevos con un poco de sal y pimienta. Añadir el brócoli y el sofrito de cebolla y ajo, mezclar y luego agregar el queso rallado. "
+      },
+      {
+        "id": 6,
+        "paso": "Preparar un molde para muffins, verter parte de la mezcla en cada uno de huecos del molde. Hornear a 180 grados durante 15 minutos o hasta que los veas dorados."
+      }
+    ],
+    "image": "../../images/recipes/muffin-brocoli.webp"
+  },
+  {
+    "id": 95,
+    "date": "2021-07-01",
+    "slug": "canoas-calabacin",
+    "category": "recetas",
+    "title": "Canoas de calabacín Rellenas",
+    "description": "Estas canoas de calabacín se rellenan con una abundante mezcla de carne molida, luego se cubren con mucho queso y se hornean a la perfección. Una opción fácil de comida baja en carbohidratos que disfrutará toda la familia.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 20,
+    "servings": 4,
+    "porcion-g": 290,
+    "calories": 253,
+    "protein": 27,
+    "fat": 12,
+    "carb": 11,
+    "fiber": 3,
+    "Magnesio": 15,
+    "VitaminaA": 224,
+    "racCarb": 1.1,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "2 calabacines o zuccinis grandes",
+      "400 gr carne molida guisada a su gusto con la pulpa del calabacín picada en pequeños cubos",
+      "250 gr de queso rallado para gratinar"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Lavamos los calabacines, y los picamos por la mitad de manera de formar las canoas, procedemos con una cucharilla a sacarle la pulpa la cual agregaremos a la carne molida que cocinaremos."
+      },
+      {
+        "id": 2,
+        "paso": "Después de tener nuestras canoas, procedemos a cocinarlas a vapor alrededor de 20 min."
+      },
+      {
+        "id": 3,
+        "paso": "Las retiramos del fuego y le colocamos aceite de.oliva y sal al gusto dentro de nuestras canoas."
+      },
+      {
+        "id": 4,
+        "paso": "Colocamos nuestras canoas en una bandeja anteriormente untada con aceite de oliva si tiene oliva si no del que desee igual para untar las canoas."
+      },
+      {
+        "id": 5,
+        "paso": "Y empezamos a rellenar nuestras canoas con la carne molida preparada y colocarle el queso rallado. Yo le coloque queso amarillo."
+      },
+      {
+        "id": 6,
+        "paso": "Llevar al horno hasta que se.termine de.cocinar. la canoa y el queso este bien gratinado sin quemarse."
+      }
+    ],
+    "image": "../../images/recipes/canoas-calabacin.webp"
+  },
+  {
+    "id": 96,
+    "date": "2021-07-01",
+    "slug": "bonito-vegetales-salteados",
+    "category": "recetas",
+    "title": "Bonito con vegetales salteados",
+    "description": "Uno de los ingredientes sinónimo del verano es el bonito, un pescado que le gusta a casi todo el mundo y con esta receta de terminado ligero se puede cocinar fácil y rápido.",
+    "descriptionB": "",
+    "preptime": 30,
+    "cooktime": 25,
+    "servings": 2,
+    "porcion-g": 240,
+    "calories": 181,
+    "protein": 26,
+    "fat": 8,
+    "carb": 1,
+    "fiber": 0,
+    "Magnesio": 1,
+    "VitaminaA": 0,
+    "racCarb": 0,
+    "tags": ["pescado"],
+    "ingredientes": [
+      "2 filetes de un buen corte de carne suave puede ser solomo u churrasco de 120 g aproximadamente",
+      "2 cucharadas de aceite de oliva o maíz",
+      "Sal",
+      "Ajo",
+      "Pimienta",
+      "1 cdta de salsa inglesa"
+    ],
+    "instrucciones": [
+      {
+        "id": 1,
+        "paso": "Lo primero antes de preparar, debemos sazonar la carne con todos los aliños y colocarlo a macerar con la salsa inglesa, por lo menos una media hora antes de cocer."
+      },
+      {
+        "id": 2,
+        "paso": "Luego colocamos la plancha o la sartén en fuego medio, cuando esté caliente añadimos un chorito minimo de aceite y colocamos los filetes a cocinar."
+      },
+      {
+        "id": 3,
+        "paso": "Debemos vigilar que doren bien sin llegar a resecarse, por eso no debemos subir mucho la llama."
+      }
+    ],
+    "image": "../../images/recipes/bonito-vegetales-salteados-2.webp"
+  },
+  {
+    "id": 97,
+    "date": "2021-09-06",
+    "slug": "huevos-escalfados",
+    "category": "recetas",
+    "title": "Huevos escalfados a la Perfección",
+    "description": "Escalfar transforma al humilde huevo en un lujo. Una vez que aprenda como prepararlos, podrás disfrutar de huevos escalfados para un desayuno fácil, un almuerzo satisfactorio o una cena ligera.",
+    "descriptionB": "",
+    "preptime": 10,
+    "cooktime": 5,
+    "servings": 1,
+    "porcion-g": 80,
+    "calories": 125,
+    "protein": 10,
+    "fat": 9,
+    "carb": 1,
+    "fiber": 0,
+    "Magnesio": 10,
+    "VitaminaA": 192,
+    "racCarb": 0.1,
+    "tags": ["desayuno"],
+    "ingredientes": [
+      "2 huevos", "1 pizca de sal", "1 pizca de pimienta"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Ponemos a calentar agua en una olla" }, { "id": 2, "paso": "Cascamos el huevo en una taza y reservamos." }, { "id": 3, "paso": "En el momento que el agua esté a punto de hervir (o hierva ligeramente), hacemos un remolino con la ayuda de una cuchara o unas varillas." }, { "id": 4, "paso": "Dejamos caer el huevo en el centro del remolino, con delicadeza.   " }, { "id": 5, "paso": "Cocinamos 3 minutos. Retiramos con una espumadera, y salamos al gusto." }, { "id": 6, "paso": "Resultará la clara sólida pero sin cuajar totalmente, y la yema líquida en el interior" }
+
+    ],
+    "image": "../../images/recipes/huevos-escalfados.webp"
+  },
+  {
+    "id": 98,
+    "date": "2021-09-08",
+    "slug": "pisillo-cazon",
+    "category": "recetas",
+    "title": "Pisillo de Cazón",
+    "description": "El cazón es un pez perteneciente a la familia del tiburon. Desmenuza el cazón y cosinalo en una oya con cebolla y otros deliciosos ingredientes. Bajo en grasas, versátil y divino",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 8,
+    "servings": 6,
+    "porcion-g": 80,
+    "calories": 168,
+    "protein": 22,
+    "fat": 6,
+    "carb": 10,
+    "fiber": 2,
+    "Magnesio": 8,
+    "VitaminaA": 267,
+    "racCarb": 1,
+    "tags": ["desayuno", "pescado"],
+    "ingredientes": [
+      "2 cebollas medianas", "1 pimentón verde", "1 pimentón rojo", "5 ajíes dulces", "3 tallos de cebollín", "3 ¼ cucharadas de sal", "1 ½ litro de agua", "1 ½ Kg de Cazón (sin piel)", "6 dientes de ajo machacados", "4 cdas. de aceite", "3 ramitas de cilantro finamente picadas", "1/2 cucharada de polvo de onoto.", "1/2 cucharada de comino"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Cortar en cubos pequeños la cebolla, el pimentón (rojo y verde), los ajíes dulces y los tallos de cebollín " }, { "id": 2, "paso": "Colocar en una olla las 3 cucharadas de sal y el agua, para hervir el cazón." }, { "id": 3, "paso": "Esperar que la carne del pescado esté blanda sin exagerar." }, { "id": 4, "paso": "Retirar del agua dejándolo reposar hasta enfriar." }, { "id": 5, "paso": "Desmenuzar la carne deshaciéndose de la piel, los huesos y cartílagos." }, { "id": 6, "paso": "Sofreír el ajo un sartén o caldero, previamente machacado, por 1 minuto para que el aceite absorba el sabor" }, { "id": 7, "paso": "Añadir la cebolla picada y removiendo por unos minutos más, para luego incluir los pimentones, los ajíes, y el cebollín, sofriendo de 2 a 3 minutos a fuego medio." }, { "id": 8, "paso": "Incorpora el cilantro, el polvo de onoto, el comino, la sal y la pimienta, mezclando hasta integrar los ingredientes del sofrito." }, { "id": 9, "paso": "Agregar el cazón al sofrito y tapar la olla, cocinando a fuego medio bajo por 15 minutos aproximadamente." }
+
+    ],
+    "image": "../../images/recipes/pisillo-cazon.jpg"
+  },
+  {
+    "id": 99,
+    "date": "2021-09-08",
+    "slug": "carne-mechada",
+    "category": "recetas",
+    "title": "Carne Mechada a la Caribeña",
+    "description": "Algunos ingredientes sencillos pueden transformar una falda de res al siguiente nivel. Tradicionalmente conocida en Cuba como Vaca Frita, carne de res salteada con pimiento, cebolla y tomate, comúnmente servida con arroz y frijoles negros.",
+    "descriptionB": "",
+    "preptime": 40,
+    "cooktime": 30,
+    "servings": 6,
+    "porcion-g": 80,
+    "calories": 111,
+    "protein": 16,
+    "fat": 3,
+    "carb": 5,
+    "fiber": 1,
+    "Magnesio": 4,
+    "VitaminaA": 133,
+    "racCarb": 0.5,
+    "tags": ["desayuno", "carne"],
+    "ingredientes": [
+      "1 kg de falda de res", "1 pimentón rojo", "1 cebolla", "2 dientes de ajo", "4 o 5 cucharadas de tomate natural triturado", "1 cucharadita de ají dulce*", "1 hoja de laurel", "1 cucharadita de comino molido", "Aceite", "Agua", "Sal"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Limpia la carne de grasa, y la sazonas con sal y pimienta negra." }, { "id": 2, "paso": "En la olla de presión* coloca la carne con suficiente agua y cocina por 40 min, Reserva el caldo. " }, { "id": 3, "paso": "Coloca a sofreír los aliños, primero pon los ajos picaditos hasta que se doren ligeramente, luego añade la cebolla cortada en cuadraditos pequeños y rehoga a fuego lento hasta que veas que la cebolla está blanda. Añade entonces el pimentón picado pequeñito y rehoga todo junto removiendo de vez en cuando para que no se pegue." }, { "id": 4, "paso": "Vierte el tomate triturado, sólo que cubra el fondo de la olla y rehoga un par de minutos más." }, { "id": 5, "paso": "Desmenuzamos separando la carne por mechones y la agregamos al sofrito. Ahora añade el ají dulce, el laurel, el comino y rehoga todo un minuto. Añade sal al gusto y un poco del caldo que cubra la carne. Cuando veas que la salsa ha reducido, estará lista, la puedes dejar con más o menos salsa, a tu gusto, según el uso que le vayas a dar." }, { "id": 6, "paso": "--NOTA: Si la cocinas en olla de presión estará lista en 30 minutos contados desde que empieza a salir el vapor. Si la cocinas en una olla normal, tápala igualmente y estará lista en 1 hora u hora y media aproximadamente (cuando esté tierna) remueve de vez en cuando para que no se pegue." }
+    ],
+    "image": "../../images/recipes/carne-mechada.jpg"
+  },
+  {
+    "id": 100,
+    "date": "2021-09-08",
+    "slug": "sopa-caraotas-negras",
+    "category": "recetas",
+    "title": "Sopa de Caraotas Negras Rapida y Saludable",
+    "description": "Esta receta rápida de sopa de frijoles negros es saludable, deliciosa y fácil de hacer. Esta receta es también vegetariana y vegana ya que no contiene caldo de res.",
+    "descriptionB": "",
+    "preptime": 90,
+    "cooktime": 60,
+    "servings": 4,
+    "porcion-g": 200,
+    "calories": 195,
+    "protein": 12,
+    "fat": 6,
+    "carb": 36,
+    "fiber": 13,
+    "Magnesio": 88,
+    "VitaminaA": 166,
+    "racCarb": 3.6,
+    "tags": ["vegetariana", "sopa"],
+    "ingredientes": [
+      "Caraotas negras 200 g", "1 Pimentón verde 100 g", "1 cebolla mediano 80 g", "1 rama de ajo porro 70 g ", "1 ají dulce grande", "Aceite de oliva virgen extra 4 cucharaditas", "2 dientes de ajo", "Cilantro 1 ramita", "1 cdta. de comino", "Sal"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Remojar las caraotas durante 8 horas y cambiar el agua de remojo. " }, { "id": 2, "paso": "Colocar los granos a cocción por el tiempo suficiente hasta que estén blandas" }, { "id": 3, "paso": "Picamos finamente el ajo, la cebolla, el pimiento verde, el ají dulce y el ajo porro y sofreímos en el aceite de oliva en una cacerola." }, { "id": 4, "paso": "Agregamos en sofrito a los granos ya blandos, Sazonar con el comino, el cilantro y la sal, dejar que el caldo tome los sabores y servir. " }
+    ],
+    "image": "../../images/recipes/sopa-caraotas-negras.jpg"
+  },
+  {
+    "id": 101,
+    "date": "2021-09-08",
+    "slug": "plumitas-fileto-mozarella",
+    "category": "recetas",
+    "title": "Plumitas Fileto con Mozarella",
+    "description": "Esta receta sencilla de pasta de plumitas incluye ajo, tomates y queso mozzarella rallado. Es un plato sencillo de preparar, y es una fabulosa comida diaria o un plato para compartir. Además, no tiene carne. Si está buscando algo simple para servir a sus amigos y familiares vegetarianos o simplemente desea una forma de prepara una pasta simple, esta es una excelente opción. O conviértalo en un plato vegano utilizando un sustituto de queso sin lácteos.",
+    "descriptionB": "",
+    "preptime": 90,
+    "cooktime": 60,
+    "servings": 1,
+    "porcion-g": 200,
+    "calories": 429,  
+    "protein": 22,
+    "fat": 15,
+    "carb": 55,
+    "fiber": 3,
+    "Magnesio": 19,
+    "VitaminaA": 186,
+    "racCarb": 2,
+    "tags": ["vegetariana"],
+    "ingredientes": [
+      "50 g de plumitas integrales", "50 g de queso mozzarella rallado", "2 tomate perita", "2 cdas de puré de tomate", "1 cda de aceite de oliva", "1 diente de ajo", "1 cebolla pequeña", "1 pizca de sal ", "1 hoja de laurel", "1 pizca de pimienta negra", "2 hojas de albahaca", "1 pizca de orégano", "1 sobre de stevia"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Escaldar los tomates para pelarlos, retirar la piel, cortarlos por la mitad y retirar las semillas, cortar en cubitos y reservar. Picar la cebolla y los ajos, reservar." }, { "id": 2, "paso": "En una olla poner el aceite con la cebolla y el laurel, freír. Cuando la cebolla este transparente agregar los ajos y dejar unos minutos revolviendo. Agregar el tomate y el puré y dejar que se cocine a fuego lento por 45 minutos." }, { "id": 3, "paso": "Condimentamos a gusto, agregar la albahaca y el orégano. Probar y si esta un poquito acida agregar la stevia." }, { "id": 4, "paso": "Cocinar la pasta en agua con sal hasta que esté al dente, agregar a la salsa y colocar el queso por encima en cada plato" }
+    ],
+    "image": "../../images/recipes/plumitas-fileto-mozarella.jpg"
+  },
+  {
+    "id": 102,
+    "date": "2021-09-08",
+    "slug": "hervido-pollo",
+    "category": "recetas",
+    "title": "Hervido de Pollo Deliciosamente Saludable",
+    "description": "El hervido ó sancocho es una sopa con gran contenido de ingredientes y aliños que le dan un sabor muy característico. Esta versión es deliciosa, saludable, y fácil de prepara",
+    "descriptionB": "",
+    "preptime": 15,
+    "cooktime": 60,
+    "servings": 10,
+    "porcion-g": 300,
+    "calories": 436,
+    "protein": 26,
+    "fat": 24,
+    "carb": 32,
+    "fiber": 3,
+    "Magnesio": 57,
+    "VitaminaA": 291,
+    "racCarb": 3.2,
+    "tags": ["pollo", "sopa"],
+    "ingredientes": [
+      "3 litros de agua", "1 pechuga de pollo", "1 rama de cebollín", "1/2 pimentón rojo mediano ", "2 dientes de ajo machacados", "1 cebolla grande cortada en cuartos", "2 ajíes dulces cortados", "¼ de kilo de apio cortado en cubos medianos", "½ kilo de ocumo, yuca y zanahoria cortadas en cubos medianos", "2 ramas de cilantro", "1 rama de perejil", "1 ajo porro", "Sal  y pimienta al gusto", "--- Para el sofrito ---", "2 cucharadas de aceite", "½ cebolla picadita", "1/2 pimentón rojo mediano ", "2 dientes de ajo machacados", "2 ajíes dulces"
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "Montar en una olla grande los 3 litros de agua y aún fría coloque la pechuga cortada en cubos." }, { "id": 2, "paso": "Agregar sal al gusto, la rama de cebollín, el medio pimentón, el ajo machacado y la cebolla cortada en medios y los 2 ajíes dulces." }, { "id": 3, "paso": "Cuando esté blanda la pechuga, retirar el medio pimentón y la rama del cebollín" }, { "id": 4, "paso": "Luego, añadir todas las verduras y tubérculos." }, { "id": 5, "paso": "Rectificar la sal." }, { "id": 6, "paso": "Aparte, en una sartén no muy profunda vierta el aceite y saltee los aliños restantes previamente picados (media cebolla, medio pimentón, dos dientes de ajo y dos ajíes dulces)" }, { "id": 7, "paso": " Agregue este sofrito al caldo junto con el cilantro, el ajo porro y el perejil picado" }, { "id": 8, "paso": "Por último, agregue un toque de pimienta al gusto." }
+
+    ],
+    "image": "../../images/recipes/hervido-pollo.jpg"
+  },
+  {
+    "id": 103,
+    "date": "2021-09-08",
+    "slug": "filete-de-ternera",
+    "category": "recetas",
+    "title": "Filete de Ternera con Brócoli y Fideos de Calabacín",
+    "description": "Una receta que incorpora esta espectacular carne roja que es el filete de ternera. Una carne suave, deliciosa y con un sabor complejo para comer.",
+    "descriptionB": "",
+    "preptime": 20,
+    "cooktime": 15,
+    "servings": 4,
+    "porcion-g": 350,
+    "calories": 345,
+    "protein": 27,
+    "fat": 19,
+    "carb": 23,
+    "fiber": 8,
+    "Magnesio": 50,
+    "VitaminaA": 368,
+    "racCarb": 2.3,
+    "tags": ["carne"],
+    "ingredientes": [
+      "1 taza de caldo de carne sin sal añadida ", "1 cucharada de almidón de maíz ", "2 cucharadas de salsa de soja baja en sodio ", "2 dientes de ajo picado ", "1 cucharada de jengibre fresco picado ", "de spray antiadherente para cocinar ", "2 cucharaditas de aceite de sésamo tostado ", "1 cebolla mediana (en rodajas)", "½ kg de solomillo de ternera (en rodajas) ", "4 tazas colmadas floretes de brócoli frescos o congelados ", "4 tazas de fideos de calabacín (en espiral preparados) o 2calabacines pequeños ", "2 cucharadas semillas de sésamo "
+    ],
+    "instrucciones": [
+      { "id": 1, "paso": "En un bol pequeño, bata el caldo, la maicena, la salsa de soja, el ajo y el jengibre. Reserve." }, { "id": 2, "paso": "Rocíe una sartén grande o un wok con aceite en aerosol, añada aceite de sésamo y póngalo a fuego alto." }, { "id": 3, "paso": "Añade la cebolla y saltea 2 minutos. Añade la carne y saltea 3 minutos más." }, { "id": 4, "paso": "Añadir el brócoli y el calabacín en espiral y saltear 3 minutos más." }, { "id": 5, "paso": "Añada la mezcla de caldo y llévela a ebullición, raspando el fondo de la sartén para soltar los restos marrones. Reduzca el fuego y cocine a fuego lento durante 2 minutos." }, { "id": 6, "paso": "Añade las semillas de sésamo y sirve" }
+    ],
+    "image": "../../images/recipes/filete-de-ternera.jpg"
+  }
+  
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "cuidado",
+    "label": "Cuidado",
+    "name": "Cuidado de la Diabetes",
+    "desc": "La clave para vivir una vida con diabetes sin complicaciones depende del control de la enfermedad. Las personas diagnosticadas con Diabetes Mellitus deben aprender a convivir con una enfermedad crónica."
+  },
+  {
+    "slug": "complicaciones",
+    "label": "Complicaciones",
+    "name": "Compliaciones de la Diabetes",
+    "desc": "El aumento de los niveles de azúcar en la sangre debido a la diabetes puede causar problemas en el cuerpo. Con el tiempo, tener demasiada glucosa en la sangre puede causar complicaciones como enfermedades de los ojos, problemas en los pies, enfermedades de las encias, enfermedades cardíacas, accidente cerebrovascular, enfermedad renal, entre otros"
+  },
+  {
+    "slug": "causas",
+    "label": "Causas",
+    "name": "Causas de la Diabetes",
+    "desc": "Hay dos clases de diabetes. La tipo 1 consiste en la ausencia absoluta de síntesis de insulina y la padecen mayormente personas jóvenes. La diabetes tipo 2, en cambio, afecta a la población adulta y se caracteriza por la reducción de la capacidad del organismo para sintetizar insulina. Hay un tercer tipo, que es la diabetes gestacional y que se desencadena durante el embarazo a raíz de cambios hormonales. Las causas de la diabetes son múltiples y varían según de qué tipo se trate."
+  },
+  {
+    "slug": "alimentacion",
+    "label": "Alimentación",
+    "name": "Alimentacion de la Diabetes",
+    "desc": "La buena alimentación y nutrición son fundamentales en el tratamiento y cuidado de la diabetes. Seguir un plan de alimentación saludable puede ayudar a equilibrar el nivel de ázucar en la sangre y evitar serias complicaciones de salud. Es importante conocer cual debe ser tu plan para la alimentación de la diabetes."
+  },
+  {
+    "slug": "bebidas",
+    "label": "Bebidas",
+    "name": "Bebidas",
+    "desc": "Es importante para una persona con diabetes tener en cuenta no solo lo que comemos sino también que tipo de bebidas tomas. Estas son un complemento para una buena alimentación. Se recomiendan jugos naturales y saludables por encima de otras. Por otro lado se debe evitar abusar del alcohol y tomar bebidas azucaradas."
+  },
+  {
+    "slug": "controlar-la-diabetes",
+    "label": "Controlar",
+    "name": "Controlar la Diabetes",
+    "desc": "Más de 50% de todos los adultos en Estados Unidos tiene diabetes o prediabetes. Esta enfermedad es parte de la vida de muchas personas y, debido a su condición crónica, es muy importante saber como controlarla. Con la ayuda de su equipo de atención médica y educación personal, puedes crear un plan de cuidado que permita controlar la diabetes."
+  },
+  {
+    "slug": "diabetes-tipo-1",
+    "label": "Tipo 1",
+    "name": "Diabetes Tipo 1",
+    "desc": "En la diabetes tipo 1 es un trastorno crónico donde el páncreas produce poco o no produce insulina. La insulina es una hormona necesaria para permitir que la glucosa penetre en las células para producir energía. Este impacto en la producción de insulina causa niveles elevados de azúcar en la sangre y posibles daños a la salud de la persona."
+  },
+  {
+    "slug": "diabetes-tipo-2",
+    "label": "Tipo 2",
+    "name": "Diabetes Tipo 2",
+    "desc": "La diabetes tipo 2 es una incapacidad en la forma en que el cuerpo regula y usa el azúcar (glucosa) como combustible. A largo plazo y de manera crónica, aumenta la circulación de azúcar en el torrente sanguíneo. A largo plazo, estos niveles elevados de glucosa en la sangre pueden provocar trastornos de los sistemas circulatorio, nervioso e inmunitario. La diabetes tipo 2 por lo general se presenta en personas de más de 45 años, pero está apareciendo cada vez más en los niños, los adolescentes y los adultos jóvenes."
+  },
+  {
+    "slug": "diagnostico",
+    "label": "Diagnóstico",
+    "name": "Diagnóstico de la Diabetes",
+    "desc": "Con frecuencia, los síntomas de la diabetes tipo 1 aparecen de forma repentina y son la causa de control del nivel de glucosa en la sangre. Los indicios de otros tipos de diabetes y prediabetes se manifiestan de forma más gradual y no son evidentes, Si recibes un diagnóstico de diabetes, el médico también puede hacerte análisis de sangre para determinar la presencia de los autoanticuerpos que son frecuentes en la diabetes tipo 1. Estas pruebas ayudan al médico a distinguir entre la diabetes tipo 1 y la diabetes tipo 2 cuando el diagnóstico no es certero."
+  },
+  {
+    "slug": "dieta-para-diabeticos",
+    "label": "Dieta",
+    "name": "Dieta para la Diabetes",
+    "desc": "Una dieta para la diabetes es un plan de alimentación saludable que soporta el control del nivel de glucosa en la sangre. Aquí encontrarás información para empezar: desde la planificación de comidas hasta el conteo de carbohidratos. Un nutricionista puede prepara un plan de comidas. La dieta debe tener en cuenta peso, medicinas, estilo de vida y otros problemas de salud."
+  },
+  {
+    "slug": "embarazo",
+    "label": "Embarazo",
+    "name": "Diabetes Gestacional | Diabetes en Embarazadas",
+    "desc": "La diabetes gestacional es un trastorno que se diagnostica por primera vez durante el embarazo (gestación). La diabetes gestacional afecta la forma en que las células utilizan el azúcar (glucosa). El resultado de ese desajuste en el metabolismo es que la glucosa se acumula en la sangre. Esto causa un alto nivel de azúcar sanguínea que puede afectar tu embarazo y la salud de tu bebé."
+  },
+  {
+    "slug": "insulina",
+    "label": "Insulina",
+    "name": "Terapia de Insulina",
+    "desc": "La insulina es una hormona que se produce en nuestro páncreas que permite que tu cuerpo utilice la glucosa para obtener energía. Este proceso permite realizar todas nuestras actividades cotidianas como caminar, correr, limpiar la casa, hacer ejercicio, leer, ir a trabajar, cocinar, entre muchas otras."
+  },
+  {
+    "slug": "prediabetes",
+    "label": "Prediabetes",
+    "name": "Pre-Diabetes y Resistencia a la Insulina",
+    "desc": "Controlar la Diabetes"
+  },
+  {
+    "slug": "retinopatia",
+    "label": "Retinopatia",
+    "name": "Retinopatía Diabética",
+    "desc": "La retinopatía diabética es una complicación de la diabetes que afecta los ojos. Es causada por el daño a los vasos sanguíneos del tejido sensible a la luz que se encuentran en el fondo del ojo (retina)."
+  },
+  {
+    "slug": "sesiones",
+    "label": "Sesiones",
+    "name": "Transcripciones de Sesiones de Especialistas",
+    "desc": "Colección de entrevistas y discusiones con especialista en temas asociados con el cuidado de la diabetes"
+  },
+  {
+    "slug": "sintomas",
+    "label": "Síntomas",
+    "name": "Síntomas de la Diabetes",
+    "desc": "Alrededor de 33 millones de adultos estadounidenses tienen diabetes tipo 2, y muchos no lo saben. Con frecuencia, la diabetes tipo 1 permanece sin diagnosticar hasta que los síntomas se vuelven tan graves que se requiere la hospitalización del paciente."
+  },
+  {
+    "slug": "tratamiento",
+    "label": "Tratamiento",
+    "name": "Tratamiento y Cuidado de la Diabetes",
+    "desc": "El tratamiento principal incluye control del azúcar en sangre a través de la dieta, medicamentos orales o insulina. También se requiere la evaluación y cuidado periódico de complicaciones."
+  },
+  {
+    "slug": "vivir-con-diabetes",
+    "label": "Vivir con Diabetes",
+    "name": "Vivir con la Diabetes",
+    "desc": "Las personas con diabetes tienen que aprender a comer alimentos saludables, mantener o lograr un peso saludable, hacer más actividad física todos los días y tomar sus medicamentos aun cuando se sientan bien"
+  }
+]
